@@ -1,0 +1,2880 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20240624T125646" id="fcc64e65-5481-49fa-8979-bed98055e130"/>
+
+  <Content>
+    <Paragraph Label="Scene 1" Type="New Act" id="bcb3d77a-d198-4296-b0b6-07103897909d">
+      <Text>ACT I</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="b1e00c20-c2db-4667-86f7-5f11cc16d0fd">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f99c8fdb-5cbb-43a3-9168-aa9cda3c4e78">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF">The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Miniverse</Text>
+      <Text Background="#FFFFFFFFFFFF"> / Reyes Home</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a56ee317-cc74-48f4-83e4-0b77400bfc50">
+      <SceneProperties Length="5 4/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CLAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CLAY &amp; RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CLAY &amp; RAY &amp; KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KWAN &amp; KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROCKET">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STAGE MANAGER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">1. “Stardust Stuff”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7dabadd0-9ac6-45ea-ae40-4d7c1568344c">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stage Right</Text>
+      <Text Background="#FFFFFFFFFFFF">: A massive 4:3 frame. Inside is a vibrant universe of pop-up books and cardboard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3f65b460-e335-4d92-930d-3406a11ff4f7">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stage left</Text>
+      <Text Background="#FFFFFFFFFFFF">: A living room with a 4:3 TV in line with the 4:3 frame. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4ac06652-c1ac-4470-a1dd-8a7d573a2de1">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Trini ‘Ray’ Reyes</Text>
+      <Text Background="#FFFFFFFFFFFF"> (4, Filipina American), wearing her homemade cardboard rocket costume, rushes in and turns on the TV.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="598c3ab5-f27c-46f0-bd68-f2e70dfa1719">
+      <Text Background="#FFFFFFFFFFFF">A cardboard rocket with a drawn face soars into the frame. </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Clay</Text>
+      <Text Background="#FFFFFFFFFFFF"> (24), in his colorful cosmic vest, pops out from behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e6e496c-6125-4061-a7b0-1561720aa3a7">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1f1c9cec-4e9f-40b9-b145-4ab9a9a024f3">
+      <Text Background="#FFFFFFFFFFFF">Planets, comets, and galaxies everywhere! It’s me, Clay! Have you seen our best friend, Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="64f4966e-8787-4798-91b4-f81a741bf227">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stardust</Text>
+      <Text Background="#FFFFFFFFFFFF">, a fairy puppet, soars behind Clay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93a90fbb-6621-444f-8907-9c6bcc95b6fc">
+      <Text Background="#FFFFFFFFFFFF">Stardust</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4c8709c8-1af8-4f1b-ab26-3da424dd295e">
+      <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="92bb1724-d578-4623-9982-acd3b1bc0620">
+      <Text Background="#FFFFFFFFFFFF">Unseen </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">kids</Text>
+      <Text Background="#FFFFFFFFFFFF"> answer in unison, along with Ray.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="f2ffe5b5-f2b0-4f7a-b1ef-40885796f610">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="19665a28-7ad9-4123-a046-ace6760a7a7b">
+          <Text Background="#FFFFFFFFFFFF">Kids (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="bd419307-8c3a-495d-8d23-47fe1d94104e">
+          <Text Background="#FFFFFFFFFFFF">There she is!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="c5154b5a-dca9-4181-a876-4bcb68cc067d">
+          <Text Background="#FFFFFFFFFFFF">Ray</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="a6eb9f70-ebda-4bee-bfd8-d3c965e23a5d">
+          <Text Background="#FFFFFFFFFFFF">She’s right behind you!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="3c828fa5-9a54-4e4f-9e15-f81d94936ef9">
+      <Text Background="#FFFFFFFFFFFF">Clay drops the rocket and shows a cockpit with cardboard controls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7e30fa4-19fb-4176-b23c-1f541976e9cb">
+      <Text Background="#FFFFFFFFFFFF">Rocket</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7f69c111-1f12-43bb-9a7b-01821c8dced8">
+      <Text Background="#FFFFFFFFFFFF">Come on in, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">stardusters</Text>
+      <Text Background="#FFFFFFFFFFFF">!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a48a32b-7286-4758-b434-a9918d9bbf6c">
+      <Text Background="#FFFFFFFFFFFF">Clay searches the cabin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c24b2bc2-647e-4a6c-8b50-feb30797a913">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4025e30-8c2f-4767-b3fb-b2b1d867636e">
+      <Text Background="#FFFFFFFFFFFF">Hi! We're so glad you're here! We’re almost ready to land. Stardust? Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="edc1f33b-684c-4d29-ba4a-a3312d19cc73">
+      <Text Background="#FFFFFFFFFFFF">Stardust giggles and ducks underneath a nearby table. Clay turns to the audience.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3eaac186-a7fc-4177-95ab-4fa6607b04ec">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="37b17ab6-23ca-47b9-8a00-c2d1e753932d">
+      <Text Background="#FFFFFFFFFFFF">Did you see Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="57282396-2daf-49f6-8596-f64927c098bb">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="14f64058-99fd-44e1-bafc-088d0c6cf261">
+          <Text Background="#FFFFFFFFFFFF">Kids (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="f2486fa3-773e-47da-bc51-f16e6c756269">
+          <Text Background="#FFFFFFFFFFFF">Right there! Under the table!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="4cb41fbc-f344-4440-8e5c-09fd9555ad94">
+          <Text Background="#FFFFFFFFFFFF">Ray</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="68dcc84c-7368-418f-96aa-4ec96b20f8c9">
+          <Text Background="#FFFFFFFFFFFF">Are you blind?!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="b9472d95-0254-4c2e-b755-8c63894c341b">
+      <Text Background="#FFFFFFFFFFFF">Clay mimics hand-goggles, spotting Stardust with a laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a1cfd922-cad6-4db0-9edb-4cc136656c0f">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c5f6b00-30c8-4b7a-b737-707b6d0b603d">
+      <Text Background="#FFFFFFFFFFFF">Stardust! What world should we visit today?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c10cbf10-7f87-4a92-b611-b3bdfc215af6">
+      <Text Background="#FFFFFFFFFFFF">Clay gestures out, where cutouts of a blue, white, and green planet hang against a dark backdrop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a02014ad-0594-4204-97d1-c2eaea491eed">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="17330476-6de2-445b-bba8-1e6967cecf23">
+      <Text Background="#FFFFFFFFFFFF">A </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic+AllCaps">blue</Text>
+      <Text Background="#FFFFFFFFFFFF"> planet? A </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic+AllCaps">clue</Text>
+      <Text Background="#FFFFFFFFFFFF"> we need bathing suits. Do you have one?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="202ccddf-9c8b-4f86-899a-e93fed6a87b1">
+      <Text Background="#FFFFFFFFFFFF">Stardust shakes her head no.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d712f87d-94a0-4049-9db2-56fa0ca06dfe">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7fcef733-e346-40ba-9c14-859dbd9a5c0a">
+      <Text Background="#FFFFFFFFFFFF">Should we land on the white planet? </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Brrr</Text>
+      <Text Background="#FFFFFFFFFFFF">! Do you have your winter coat?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8717af61-a8bf-4aac-a3b6-6b50d2f058c9">
+      <Text Background="#FFFFFFFFFFFF">Stardust shakes her head no. Clay points to the final world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="334014ba-b16b-43be-b55b-d657d4f1dcc2">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1e6b95de-ee4a-4b0c-8d24-ce88a79213e3">
+      <Text Background="#FFFFFFFFFFFF">Then what color is this one?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db339cf5-59cd-4e29-99a4-4750b717b48d">
+      <Text Background="#FFFFFFFFFFFF">KiDS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bbe65638-8786-4b30-a553-e6583df866a6">
+      <Text Background="#FFFFFFFFFFFF">Green!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="205e3e77-c37b-4243-9347-0a76d9160c3e">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bc952a4-17e5-43ad-9025-dd8742ce75e5">
+      <Text Background="#FFFFFFFFFFFF">Yellow?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2aa98dfb-5a67-4e02-86ce-ba39014638e6">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="729eaf10-e9e0-4478-93ef-6b27de66fb84">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Green for crying out loud!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1ed3ffb0-1649-4fa1-a9c2-f2c015a7a7ec">
+      <Text Background="#FFFFFFFFFFFF">KiDS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01b66072-730f-46b9-9c20-f68a75b69fae">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Green! Green! Green!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3aa1f8cc-f486-4b71-aed2-745cb8a413be">
+      <Text Background="#FFFFFFFFFFFF">ClaY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13558905-6355-4ee1-b83e-d742583c8f96">
+      <Text Background="#FFFFFFFFFFFF">Ah! The </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">green</Text>
+      <Text Background="#FFFFFFFFFFFF"> planet! Do you have your sunglasses?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="afe3a7a8-311e-45ff-b057-0e54c1ebd3aa">
+      <Text Background="#FFFFFFFFFFFF">Stardust puts on a pair of shades.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8348cd99-c1d8-4d14-b32b-8de53f05bcf9">
+      <Text Background="#FFFFFFFFFFFF">ClaY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="136d6097-bf7b-4795-96a8-3676dbb1bfb8">
+      <Text Background="#FFFFFFFFFFFF">Rocket, take us to the </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">green</Text>
+      <Text Background="#FFFFFFFFFFFF">!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1fba0e28-ce16-413d-9d5a-c5f89f1dd76c">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5bc7c349-0294-45a8-97cd-e5ed0e202b25">
+      <Text Background="#FFFFFFFFFFFF">Let’s land on this planet...
+Let’s land on this planet...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f8632e0-04e5-4446-a0d8-62be932b7a56">
+      <Text Background="#FFFFFFFFFFFF">Ray stands up and dances about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7c940f6-d617-4188-9383-808824d35e4f">
+      <Text Background="#FFFFFFFFFFFF">Clay &amp; Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dde771b1-1702-4019-b9a3-3fa993de3d91">
+      <Text Background="#FFFFFFFFFFFF">Let’s land on this planet...
+I wonder if we’ll call it home?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="21442e1e-7f8a-470f-8ac9-8d1de3272809">
+      <Text Background="#FFFFFFFFFFFF">Ray faces the audience to narrate as her future 29-year-old self.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="626c5778-c292-42cf-891c-a6f16c2ebcf3">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b608d69a-aef5-47e4-a7d2-cd5db627ccb3">
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Stardust Stuff</Text>
+      <Text Background="#FFFFFFFFFFFF"> was my home. The show that taught me how to face the darkness.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46af8ae9-1b03-4fb1-8e5b-ea06088046d1">
+      <Text Background="#FFFFFFFFFFFF">Stardust</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd2e39da-4499-44bf-ae34-411d5a0db280">
+      <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e7942eea-d7fb-4829-b249-355e53a56913">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ede10c2c-76d6-40c4-a8f6-3bfddd873595">
+      <Text Background="#FFFFFFFFFFFF">Don't be scared! The darker it is, the more glitter we can see!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c0ad006e-1247-46e2-979f-04d2c9a44964">
+      <Text Background="#FFFFFFFFFFFF">Ray shows off her glittery rocket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="621c49a0-f242-44ab-8b5c-cc9350182e30">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd63f7be-2a4f-4d3f-9ff0-1704c52ef35d">
+      <Text Background="#FFFFFFFFFFFF">You are not alone!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d39de114-551b-4554-942d-f50a6300b97c">
+      <Text Background="#FFFFFFFFFFFF">Kwan Reyes (1, Filipino American) crawls in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50615ff1-6a3b-4083-b916-ad53e11959e0">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="afdc2550-deff-4a41-82ad-147d79a81e45">
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Stardust Stuff</Text>
+      <Text Background="#FFFFFFFFFFFF"> was what me and my baby brother called home. The show that taught me how to teach Kwan how to moonwalk.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3aff70c0-7d00-4421-9674-0bdc80487e2c">
+      <Text Background="#FFFFFFFFFFFF">Clay helps Stardust moonwalk.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="746024fd-2c8b-40a9-8ac3-778d059da295">
+      <Text Background="#FFFFFFFFFFFF">Ray helps Kwan take his first steps. He falls face first.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a36a3526-fc77-4c8c-8c19-22ec2b7e9276">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="273eb5d6-62b2-4c29-8fe9-985c80242f9e">
+      <Text Background="#FFFFFFFFFFFF">Gravity is when the world gives us a hug!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f4ee203e-510c-483c-b981-633192c8a482">
+      <Text Background="#FFFFFFFFFFFF">Clay and Stardust go sledding.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74a79a87-f5a9-4df6-8c4a-34453d591f0c">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6ba07046-140c-472f-831b-11c69c6b15d6">
+      <Text Background="#FFFFFFFFFFFF">It’s not just a rock, stardusters. We’re sledding on a smoothie comet! Made of water, ice, dust, and sugar-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ae91a962-35e6-43d3-aea6-256664f06ffd">
+      <Text Background="#FFFFFFFFFFFF">Ray and Kwan pull out a smoothie. They sip through straws.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="55c6f7e4-5d26-4492-b33f-65f1372f5650">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="1377fe92-b8a2-40e2-9fba-462e3177195a">
+          <Text Background="#FFFFFFFFFFFF">Clay &amp; Ray &amp; Kwan</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="052a6507-bb2b-42d7-bffc-6ad1097e3f46">
+          <Text Background="#FFFFFFFFFFFF">Brain freeze!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="491d5351-e082-4a7f-92fc-ecd3520e4aa1">
+          <Text Background="#FFFFFFFFFFFF">Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="ca90dfb4-5ca5-42cc-b94b-d6f929e537a0">
+          <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="99626ded-4fed-47b8-9767-9213a3c8606a">
+      <Text Background="#FFFFFFFFFFFF">Ray puts up a sock puppet show for Kwan using puppets that look like Clay and Stardust. The real show plays in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ace7d802-c516-4728-8bf2-283673d81746">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2c5e6f5-80e7-44f0-bd2b-99eed0f554fc">
+      <Text Background="#FFFFFFFFFFFF">What keeps our feet warm?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3671417-0ea8-4585-b997-05f80d7cac52">
+      <Text Background="#FFFFFFFFFFFF">Kwan &amp; Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="edc760da-a434-42ce-b985-e98168e9550c">
+      <Text Background="#FFFFFFFFFFFF">Socks!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eafe5333-24af-47b9-b34b-762c1a9b6005">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3b5a1396-c024-463d-9220-9ad25cef1038">
+      <Text Background="#FFFFFFFFFFFF">Gloves?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="acddfaad-a829-4055-8b8a-b9bca8d45b6f">
+      <Text Background="#FFFFFFFFFFFF">Kwan &amp; Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="16e9f1ee-47e4-401a-b80b-f975208bfe5a">
+      <Text Background="#FFFFFFFFFFFF">Socks! Socks! Socks!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd8b822d-f601-4e15-a073-decaf7ea56ef">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="efca0572-259c-46f6-93dd-fe32ba4f6b34">
+      <Text Background="#FFFFFFFFFFFF">We’ve been on many rocky planets, but have we ever visited a socky world?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="88757235-aaee-4575-b201-71f20f9779fe">
+      <Text Background="#FFFFFFFFFFFF">StarDUST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54270937-3580-4631-be6c-49da85570a20">
+      <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ba39c6a6-c3da-4535-8be2-67a9dd0ced96">
+      <Text Background="#FFFFFFFFFFFF">Ray takes a bow for her brother.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcaa8ec8-db86-4fe9-b6c0-ed0fb336c967">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3b554f8-cfd3-4c36-bc5f-18cbed70ddeb">
+      <Text Background="#FFFFFFFFFFFF">Thanks for being my first captive audience. You did me a solid, bruh.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0068580b-75b3-42b9-a715-3b600f40cb68">
+      <Text Background="#FFFFFFFFFFFF">(to the audience)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="873d7643-09e2-4514-81d1-52c4af4cd016">
+      <Text Background="#FFFFFFFFFFFF">But not every home is built to last. </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Stardust Stuff</Text>
+      <Text Background="#FFFFFFFFFFFF"> was not a forever home. Forever memory.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="029619e5-77c7-4c12-933a-246589e1b67c">
+      <Text Background="#FFFFFFFFFFFF">Ray (9) passes her cardboard rocket down to Kwan (4) as he watches TV. She sits behind him, focused on her rehearsal booklet for </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">A Christmas Carol</Text>
+      <Text Background="#FFFFFFFFFFFF">, scribbling.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="08dd4788-a66d-441d-b997-9c90e6e2a594">
+      <Text Background="#FFFFFFFFFFFF">In the frame, Clay (29) and Stardust sits on a tinfoil moon. Clay offers a bittersweet smile to the audience.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9b6ecd6e-8695-4f00-82bf-6963ff445781">
+      <Text Background="#FFFFFFFFFFFF">Clay</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4452a36f-5db0-4f1c-9332-174f7f9c434e">
+      <Text Background="#FFFFFFFFFFFF">When liquid becomes a gas, it doesn't go away. It just spreads out. It goes everywhere, like I am.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c68e5431-9051-4285-8437-7e5009cbbe94">
+      <Text Background="#FFFFFFFFFFFF">Stardust</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eede606f-eb13-42d8-977d-349411e81858">
+      <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f7106e8c-d401-4c33-9476-ec6980dd7b21">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70713475-f2c1-4cb1-9502-46180b26eef8">
+      <Text Background="#FFFFFFFFFFFF">‘specially behind the stars...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46ae151a-252d-46c8-abca-f9ece2c87e38">
+      <Text Background="#FFFFFFFFFFFF">Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a46ccb1-e22c-477f-8209-d2f85583156b">
+      <Text Background="#FFFFFFFFFFFF">Aww...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="425df47e-56eb-4ae7-bcab-835a9086cc10">
+      <Text Background="#FFFFFFFFFFFF">Ray looks up, annoyed that Kwan is blocking her view.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90df1eb4-15f5-4926-9bbb-dbf13e2229cd">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="abc99818-0e7a-4cdd-bad6-2a825b061240">
+      <Text Background="#FFFFFFFFFFFF">Bruh. You wanna go blind?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7a3c00a5-1303-4d2d-95a6-d38e96f683ba">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a7ee6c2-47b6-43d9-89ec-bba1fd509465">
+      <Text Background="#FFFFFFFFFFFF">Like you’ll be, Tiny Trini?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db27cda8-18ec-46b6-830f-455720672db4">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6bb0cd99-2e48-426b-940e-6a903a61d20c">
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Tiny Tim</Text>
+      <Text Background="#FFFFFFFFFFFF"> isn’t blind... Kwan, sit further away from the TV.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01212214-c653-422d-86de-ada48b2b8e2b">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f330da80-a1c8-484c-ac8f-d7680913432e">
+      <Text Background="#FFFFFFFFFFFF">It’s time to say goodbye...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="71f3ee54-f6ef-415d-8335-b2deecf8f532">
+      <Text Background="#FFFFFFFFFFFF">KWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0506f4f5-4c9f-4da8-a2ca-5191817b6f00">
+      <Text Background="#FFFFFFFFFFFF">Clay is saying goodbye...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f09071d5-19dc-45ce-ba3e-37ab262a477a">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ba354e2-3b20-447f-a797-f4f08e6238e8">
+      <Text Background="#FFFFFFFFFFFF">Then say it back, Kwan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d607c104-be1f-47d4-a5b5-f06832f64bc7">
+      <Text Background="#FFFFFFFFFFFF">Kwan &amp; Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bfd5b90e-7288-4335-beef-5d6296cfe274">
+      <Text Background="#FFFFFFFFFFFF">Goodbye...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06742e5a-b2f7-4513-9d75-b6e8eb034910">
+      <Text Background="#FFFFFFFFFFFF">The whimsical music fades into a single, lonely note.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0cc02f09-57e1-4c9f-badf-ff99a55192ef">
+      <Text Background="#FFFFFFFFFFFF">CLAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d4b58cf0-7936-46db-a41a-098c66f2cc31">
+      <Text Background="#FFFFFFFFFFFF">I must go home now. But you? You’re already home. Keep looking up because Stardust is us...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="be2969ca-3261-401a-afb9-63d719d2787e">
+      <Text Background="#FFFFFFFFFFFF">Clay boards rocket. The ship blasts off into the cosmos. Stardust pulses with a final spark and vanishes.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="9ada9603-73e7-4ac0-94d2-33948f2a959a">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">End of “</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Stardust Stuff</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d23f68b-c7d7-4dcf-9bb8-61142c2059a5">
+      <Text Background="#FFFFFFFFFFFF">The frame is now black.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c92b40e-fdde-4527-98ab-2f80d5ff57bd">
+      <Text Background="#FFFFFFFFFFFF">Ray drops her pen, finally giving the TV</Text>
+      <Text Background="#FFFFFFFFFFFF" Size="10"> </Text>
+      <Text Background="#FFFFFFFFFFFF">her</Text>
+      <Text Background="#FFFFFFFFFFFF" Size="10"> </Text>
+      <Text Background="#FFFFFFFFFFFF">full</Text>
+      <Text Background="#FFFFFFFFFFFF" Size="10"> </Text>
+      <Text Background="#FFFFFFFFFFFF">attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7a5d551-16e2-49aa-95d9-5178a53e654e">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="84c32215-8252-4b01-aad1-1b7e505884f9">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Wuh</Text>
+      <Text Background="#FFFFFFFFFFFF">- No “See ya later, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">stardusters</Text>
+      <Text Background="#FFFFFFFFFFFF">?”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ab0e784a-e211-4428-866f-aeb5417346ac">
+      <Text Background="#FFFFFFFFFFFF">Ray joins Kwan at the TV. A reflection of two small kids stare back in the glass. She looks down at her pen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b325a6d1-31cf-4249-ad07-741ebbf3a253">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7f75a458-cf9d-4aec-ba25-500ecf225665">
+      <Text Background="#FFFFFFFFFFFF">Goodbye Clay...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="55a9980a-5f0b-4170-829f-e7ff88d1830f">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8899941f-af79-45b9-ac29-22f78db2a3f9">
+      <Text Background="#FFFFFFFFFFFF">Hello Ray... Welcome to children’s programming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="80db41e5-c7f0-4622-9610-169f44eea986">
+      <Text Background="#FFFFFFFFFFFF">A </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">stage manager</Text>
+      <Text Background="#FFFFFFFFFFFF"> enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b41440b-f59e-41f8-978a-b6bdc76fd97b">
+      <Text Background="#FFFFFFFFFFFF">Stage Manager (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a29d4945-e30f-41e0-b66c-0fe8554ba153">
+      <Text Background="#FFFFFFFFFFFF">And you’re late to it, Ray!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="584c2a50-484b-47f5-8ef8-45613c8685d7">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9aae9b5b-db2c-45c0-9c3f-184216659a3c">
+      <Text Background="#FFFFFFFFFFFF">Ray, you’re 29! Aren’t you a professional actor by now? Get ahold of yourself!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0c5f4835-6ab6-4bc0-82bf-e667f30e7c52">
+      <Text Background="#FFFFFFFFFFFF">Kwan exits.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c458e281-11d0-4c31-9135-203aed6ad43a">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Scene 2</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="88d48c19-9b79-453c-9361-2ee3440f5bb1">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stage right</Text>
+      <Text Background="#FFFFFFFFFFFF">: The stage expands into a theatrical stage. It’s a messy half-finished forest set.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f4a412e6-6035-4351-84d8-dc0e8479e425">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stage left</Text>
+      <Text Background="#FFFFFFFFFFFF">: The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Miniverse</Text>
+      <Text Background="#FFFFFFFFFFFF"> remains a dark, empty frame.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d983cbb9-2515-4168-b5cf-a9ae345f32ac">
+      <Text Background="#FFFFFFFFFFFF">A frantic </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">tech rehearsal</Text>
+      <Text Background="#FFFFFFFFFFFF"> is in progress. </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Puppeteers</Text>
+      <Text Background="#FFFFFFFFFFFF"> in black stage suits move like shadows. Ray stands center stage, holding a </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Cat Scout Puppet</Text>
+      <Text Background="#FFFFFFFFFFFF">. Its head is tilted at a grotesque, glued-on angle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e47ac82-f649-4ae0-8848-597e2f3fc330">
+      <Text Background="#FFFFFFFFFFFF">Stage Manager</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c92e3e6b-3de1-4271-b1b9-1735ed74c892">
+      <Text Background="#FFFFFFFFFFFF">From the top of the “Meow-</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">tain</Text>
+      <Text Background="#FFFFFFFFFFFF">!” Ray, if that head wobbles, your career is a scratching post. Go!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="15407385-21ff-4d70-aa16-0f1a559e50f3">
+      <SceneProperties Length="1 2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PERFORMER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRODUCER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">2. “Fire in the Mountains”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e829ffd3-a30f-4dfc-85f7-1928b8ff2f07">
+      <Text Background="#FFFFFFFFFFFF">Upbeat music blares. Ray clumsily dances. She is trying too hard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="808342f3-acd9-4916-8781-c871f591988c">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="96bf67e1-a3a3-443a-b8c1-74a11ae91370">
+      <Text Background="#FFFFFFFFFFFF">(Breathlessly)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="791e9e86-92dd-49e9-bc78-920c35e62452">
+      <Text Background="#FFFFFFFFFFFF">We’re climbing the mountain, one paw at a time
+The view from the peak is simply sublime
+Stick to the trail, don’t wander astray</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ce5f9b0e-a6cc-4fa5-b5f7-ef1b73ec5a32">
+      <Text Background="#FFFFFFFFFFFF">As Ray twirls, the puppet’s head begins to come off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0003202c-70da-4882-9333-63d313fdf5dc">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4228bf7d-722c-4a94-acf1-f798015a45ac">
+      <Text Background="#FFFFFFFFFFFF">The glue is tacky, the lights are hot
+I’m giving it everything I’ve f-ing got
+ADHESION is failing, the molecules tearing-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="854690e4-43e2-43fc-9270-ec4c4098fc45">
+      <Text Background="#FFFFFFFFFFFF">The head launches off the puppet body. It sails through the air and hits a spotlight with a </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">hiss</Text>
+      <Text Background="#FFFFFFFFFFFF">.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5f68d849-cb54-4cf4-8a34-b469f2938b59">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Sparks</Text>
+      <Text Background="#FFFFFFFFFFFF"> fly. The head transforms into a </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">fireball</Text>
+      <Text Background="#FFFFFFFFFFFF">.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f37b4a46-633c-4eae-b951-a39a4038365c">
+      <Text Background="#FFFFFFFFFFFF">Performer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a826a89-a773-4dcf-8d51-229d157637ba">
+      <Text Background="#FFFFFFFFFFFF">Fire! Colonel Calico is a fireball!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="70918d9d-78ea-4e5b-a72a-07ee5496231a">
+      <Text Background="#FFFFFFFFFFFF">The ensemble erupts into a disastrous waltz where they panic amongst the fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="862abff9-21ab-4857-a4c5-224a58167613">
+      <Text Background="#FFFFFFFFFFFF">Ray grabs a fire extinguisher.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a572537-8cc3-4646-93db-535dc89344a5">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3c9f71d-270c-4a67-b6fb-f9c534000ee5">
+      <Text Background="#FFFFFFFFFFFF">This is when the Cat Scouts become the Cat Firefighters!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b3caf577-40b0-42d3-9553-0a296e3f473c">
+      <Text Background="#FFFFFFFFFFFF">She blasts the extinguisher. The pressure sends the </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">flaming head</Text>
+      <Text Background="#FFFFFFFFFFFF"> flying into a puppet rack. </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Whoosh</Text>
+      <Text Background="#FFFFFFFFFFFF">. The entire rack, Sergeant Siamese, Major Maine Coon, ignites.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ac36387-e6a2-41b2-a0d3-3e4a22189d71">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ca8d9850-da6f-4eb0-95cb-18cdf1b3ff5a">
+      <Text Background="#FFFFFFFFFFFF">The siamese cats always rubbed me the wrong way</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="efba6ac1-7c26-4ebf-bc92-fb7ddec86a31">
+      <Text Background="#FFFFFFFFFFFF">The sprinklers roar to life. Ray stands, drenched, holding the headless torso of her career.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="43383239-2ef8-42b5-9b99-22841b8d9e73">
+      <Text Background="#FFFFFFFFFFFF">The </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">producer</Text>
+      <Text Background="#FFFFFFFFFFFF"> walks out, protected by an umbrella held by the Stage Manager.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="86c8dde7-c015-4362-ad52-b344391ff241">
+      <Text Background="#FFFFFFFFFFFF">Producer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd89f2d2-6e79-4ab4-95e9-bd5911d92240">
+      <Text Background="#FFFFFFFFFFFF">Trini “Ray” Reyes for such a fire... you’re...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15e120d1-38b7-46a8-8980-00f2d958e17a">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="74d5009d-9c6d-4e26-af4a-159e55bb9f08">
+      <Text Background="#FFFFFFFFFFFF">...Recycled?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="29cc3157-3ba2-4078-8114-b29575e75f90">
+      <Text Background="#FFFFFFFFFFFF">Producer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8db4e60b-78c9-4b78-b507-02f1b61eed8f">
+      <Text Background="#FFFFFFFFFFFF">Fired</Text>
+      <Text Background="#FFFFFFFFFFFF" Font="Sans Mono CJK Final Draft">.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="5a773c55-9e90-4a04-8d8f-3a1619dc855a">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">End of “</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Fire in the Mountains</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ff651c9-f7ab-4632-aa33-6a6901bea0f5">
+      <Text Background="#FFFFFFFFFFFF">Blackout.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="fc8bcf2d-e1e5-455a-b636-55a914dcde41">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Scene 3</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6507886e-783b-4a5d-9ef9-5c0a8b19b4a4">
+      <SceneProperties Length="3/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF">The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Miniverse</Text>
+      <Text Background="#FFFFFFFFFFFF"> / Ray’s Apartment</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bee24ce0-4ff2-4fd3-b385-364f51ffc512">
+      <Text Background="#FFFFFFFFFFFF">The stage is dark, except for the phone in Ray’s hand. Ray sobs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3f482092-9c76-42a4-b1e6-71ac4188a933">
+      <Text Background="#FFFFFFFFFFFF">A notification </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">dings</Text>
+      <Text Background="#FFFFFFFFFFFF">. Ray’s hand trembles as she reaches for the phone to swipe it away, but she stops and presses </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">play</Text>
+      <Text Background="#FFFFFFFFFFFF">.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="debbed0d-2925-4c3d-b647-ee5b43c42681">
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Stage left</Text>
+      <Text Background="#FFFFFFFFFFFF">, the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Style="AllCaps">miniverse</Text>
+      <Text Background="#FFFFFFFFFFFF"> frame glows. Clay (45) appears. He sits in a sunny garden, wearing his cosmic vest. He looks tired, but his smile is a warm blanket.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="7a4bf16a-75ea-4825-a0b7-d2e7ef7809ba">
+      <SceneProperties Length="2" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CLAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">3. “Forever Buddies”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="32d8ca60-5e25-4dd0-84f2-3143c67bf969">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b8c6fd6c-559a-43c4-bd8a-3e1d3f8c5f19">
+      <Text Background="#FFFFFFFFFFFF">Hey, You got a moment?
+I Know it’s been an eternity or two
+Since rocket took me home and I said goodbye to you
+I took a little vacation and rested my head</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="64f32126-d70f-453f-983e-6981ce68a46f">
+      <Text Background="#FFFFFFFFFFFF">I did all the things that the scientists said</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="86db5081-0775-440e-8906-35d77768e8e9">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f36e54ec-5dcb-48e4-902a-9cf77f4ee156">
+      <Text Background="#FFFFFFFFFFFF">You look... old, Clay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="68bc5f05-7b1b-48e0-ba97-2343be5b9501">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="432369b8-eb9d-4cb0-b241-fbab0c847a26">
+      <Text Background="#FFFFFFFFFFFF">And then look at you and all you’ve achieved
+The stardust you scattered, the dreams you believed
+I know life is hard. Jobs, rent, and the rest...
+But whatever you’re doing, you’re doing your best.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66613600-dae3-489b-a379-6cd1cd54fbe2">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="936bcfc4-8a05-4079-a6af-b0750dc24cce">
+      <Text Background="#FFFFFFFFFFFF">I’m sitting in a tomb of cardboard and debt
+The only thing I’ve scattered is ash and regret</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e49c9d7-479f-4002-a04b-240c85c77cb1">
+      <Text Background="#FFFFFFFFFFFF">ClAY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="725379b2-95d3-4785-9040-82377081d936">
+      <Text Background="#FFFFFFFFFFFF">I never forgot you. Not once. Not ever.
+Because </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">stardusters</Text>
+      <Text Background="#FFFFFFFFFFFF"> stick. We’re buddies forever. 
+Thanks for listening. You look fabulous, by the way.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b88e419b-b5f9-4e7f-be3b-92ccf13aeff4">
+      <Text Background="#FFFFFFFFFFFF">Clay holds up a Stardust 25th Anniversary sign. Clay vanishes into the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">Miniverse</Text>
+      <Text Background="#FFFFFFFFFFFF"> once more.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="0cfabd4e-c66d-44ac-b52b-2411b3aaed96">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">End of “</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Forever Buddies</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="38227353-9cff-4ded-8053-24a3bb176820">
+      <Text Background="#FFFFFFFFFFFF">Ray looks on with determination.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9771b79b-22c3-4a0a-b7a0-8d372a44c220">
+      <Text Background="#FFFFFFFFFFFF">Lights up on a messy apartment.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b70c78c3-dd7c-4a03-aa77-b7d5ceaee4ed">
+      <Text Background="#FFFFFFFFFFFF">She looks at her old Stardust sock puppet nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b99eae57-9445-4156-aeb7-db43e6df7642">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f40ff1a-4b4a-4251-b32c-e1e573464626">
+      <Text Background="#FFFFFFFFFFFF">You and me both, sister. Recycled.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c3e72718-0e45-4d7e-9db3-47cc79eb28a9">
+      <Text Background="#FFFFFFFFFFFF">(as Stardust)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6d2c2bd6-f3b1-42e1-8f64-93991250aec0">
+      <Text Background="#FFFFFFFFFFFF">Twinkle, twinkle, twinkle?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c6618a06-6b5b-47aa-aae1-8d6de578e435">
+      <Text Background="#FFFFFFFFFFFF">(as herself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e1c7604-70b9-4bd6-8f53-68123ac93ed6">
+      <Text Background="#FFFFFFFFFFFF">Yeah. Twinkle, twinkle, little star. How I wonder... how the hell I’m gonna pay rent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74939710-c668-46c3-8eba-8772de30c6dc">
+      <Text Background="#FFFFFFFFFFFF">Ray finds her childhood cardboard rocket nearby. She pops it open.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eec0abf4-233a-41cc-9144-c5f3ac73bc6b">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5ababba6-f458-4194-92eb-b2c625769836">
+      <Text Background="#FFFFFFFFFFFF">LET’S LAND ON THIS PLANET...</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="566f5d4b-cbe7-4411-aa48-7dbc5d4e1775">
+      <Text Background="#FFFFFFFFFFFF">LET’S LAND ON THIS PLANET...</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="499b7418-aa19-439b-bde7-22dba7845337">
+      <Text Background="#FFFFFFFFFFFF">BUT our PLANET IS BROKEN AND my ROCKET IS RUST</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="80388497-9e33-43f0-b9f6-cf469c6817e2">
+      <Text Background="#FFFFFFFFFFFF">IS THERE ANYONE LEFT IN THIS CIRCLE OF DUST?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76fce22-ff93-47b2-8dd8-02b11909ef95">
+      <Text Background="#FFFFFFFFFFFF">The phone rings. Ray answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="36d59a1f-f6fc-4ae2-9440-9fc4e7645ba1">
+      <Text Background="#FFFFFFFFFFFF">Ray (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="83aeddba-fe77-4208-856b-e79ab2117fba">
+      <Text Background="#FFFFFFFFFFFF">What up, bruh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="78727256-c6be-4a0b-b8c5-bead3d5fff8d">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="29c5a8f5-0d78-4d7a-b009-0804f8ed3eae">
+      <Text Background="#FFFFFFFFFFFF">How did the show go?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="32523afc-35da-4276-ad6d-80d47859b7ee">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c2cd92d3-86c8-4d9d-866b-fdff4a1d826e">
+      <Text Background="#FFFFFFFFFFFF">It certainly didn’t go up in flames...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="702420fd-9749-4d5c-9a79-dd48edabf55e">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ca3b1b8-7ebb-4629-a8c3-61d98a92a35d">
+      <Text Background="#FFFFFFFFFFFF">So it went down, huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02ffef5e-a9c3-41b7-9d2b-61560749c72a">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0eefecc-a181-47b1-8c1f-bd8009b85b9c">
+      <Text Background="#FFFFFFFFFFFF">You could say that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="40a28655-72f6-4fa3-b1f1-e5b4f342b5d2">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d015ac96-237c-48f2-b787-642132a17c64">
+      <Text Background="#FFFFFFFFFFFF">Well, I got some hot news!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d783b845-59c8-42d9-9473-a502677dd293">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="767b7212-75fb-4a97-8afd-5197c91d2a6c">
+      <Text Background="#FFFFFFFFFFFF">Keep your cool-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0a7f97b4-a6c8-42cd-940f-ea025f1658cc">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6f8480cd-2801-4e8c-aac0-3f6ccb94e10c">
+      <Text Background="#FFFFFFFFFFFF">River Matthews is visiting my </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">uni</Text>
+      <Text Background="#FFFFFFFFFFFF">! She is our art fair M.C.!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9ddfb583-1639-44f2-80b8-d3f846531a21">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="77e8e270-1b77-4403-8c8a-568d2448c061">
+      <Text Background="#FFFFFFFFFFFF">Did one of our friend change her name to River?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fe35fa51-de3e-4363-b18f-85d8735b8d0a">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="942bcf03-d049-4cfd-8638-ea2ad4bce8c6">
+      <Text Background="#FFFFFFFFFFFF">You’re kidding?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="062029de-8df9-4e5a-9f3e-5ad74d80bcd4">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b70a29b4-a33e-4837-99cf-15d00768b5bc">
+      <Text Background="#FFFFFFFFFFFF">I don’t know who River is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ceb5627-73ea-44fe-ba55-a35cfe77f574">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="215f8a59-fa9e-49ed-b5c8-7bedf5712e99">
+      <Text Background="#FFFFFFFFFFFF">River... The creator of </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Stardust Stuff</Text>
+      <Text Background="#FFFFFFFFFFFF">!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18d33b32-c333-45cf-aaf5-c86f34cad5d5">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1123fbd7-698e-4ed7-9bbc-5768a3855c4c">
+      <Text Background="#FFFFFFFFFFFF">Stop-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="214d989d-5e59-46ad-bb40-826ae75e23f4">
+      <Text Background="#FFFFFFFFFFFF">Kwan (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ebb8026e-c752-43ca-97d5-8155631204ae">
+      <Text Background="#FFFFFFFFFFFF">I ain’t stopping until you visit!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="005a27fc-fdf1-4d59-b8f5-a6684a797ad1">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b394e4c-be5f-4989-9d7c-7d4fbd253971">
+      <Text Background="#FFFFFFFFFFFF">Clay said when liquid becomes a gas, it doesn't go away. It just spreads out.</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">.</Text>
+      <Text Background="#FFFFFFFFFFFF">.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="30221222-9738-476d-8aca-de29d4354dfe">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Scene 4</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="675615da-4ed8-41f6-83e8-499f72b21ba2">
+      <SceneProperties Length="2" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RIVER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SKYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF">Michigan State university Grounds</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68c78d46-e3c5-42c9-9c2b-6869583888d2">
+      <Text Background="#FFFFFFFFFFFF">The campus is a sea of people. Ray walks through, wearing a shirt with a “Plasma with the Facts” button. Kwan follows behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ad6ec90-97b6-4cf9-ad46-c3a826cd71d0">
+      <Text Background="#FFFFFFFFFFFF">They stop at a tent. A sign hangs from the rafters: $20.00 Autographs &amp; Photos with River Matthews and Stardust. Seated is a weary River Matthews (50).</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c725ccec-ae06-460c-8baf-73e6e19b0e3b">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f4dd4369-abbf-4512-8391-3376079c0391">
+      <Text Background="#FFFFFFFFFFFF">Hi. Hi, Ms. Matthews. I’m Ray. Well, I’m Trini, but I go by Ray because—</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a21fa2e0-d756-473d-9a06-34cb543d0821">
+      <Text Background="#FFFFFFFFFFFF">RIVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89611159-a65d-4f33-a28d-edb60c260577">
+      <Text Background="#FFFFFFFFFFFF">That’s lovely, dear. Do you have twenty for the photo?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3e07d48c-9ea5-4b02-b0da-0fb7d440ebb5">
+      <Text Background="#FFFFFFFFFFFF">Ray shakes her head no.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fa795640-e9b3-4beb-8bc5-106e65c4bae1">
+      <Text Background="#FFFFFFFFFFFF">River’s hand slips into the </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">stardust puppet</Text>
+      <Text Background="#FFFFFFFFFFFF"> on the table. The puppet’s mouth snaps open.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="35659586-e6f3-445f-a5c6-ffe96a29f2e1">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ce050238-e2fa-4536-9170-2071be163e84">
+      <Text Background="#FFFFFFFFFFFF">(as Stardust)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca453836-0d6b-4810-950b-91067437719f">
+      <Text Background="#FFFFFFFFFFFF">Twinkle </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">twinkle</Text>
+      <Text Background="#FFFFFFFFFFFF"> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">twinkle</Text>
+      <Text Background="#FFFFFFFFFFFF">, kid! On another planet, everything is free. But here on Earth, stars like</Text>
+      <Text Background="#FFFFFFFFFFFF" Size="10"> </Text>
+      <Text Background="#FFFFFFFFFFFF">bills!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60c4740e-36da-49ae-b258-e1218d932838">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6120519e-70f8-4a13-8784-6df7077c59ac">
+      <Text Background="#FFFFFFFFFFFF">I’m a broke college student.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f9d926d-97bb-41e4-9d63-7d3c1e50101e">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="94abcf3d-6020-4abb-8b1f-e58d9b16e14b">
+      <Text Background="#FFFFFFFFFFFF">Bloop! Wrong planet! Come back when you stop by the bank planet!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e256d33-5e19-4354-81dd-0f311290441d">
+      <Text Background="#FFFFFFFFFFFF">River pulls her hand out of the puppet. The performance is over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26b08b67-7150-4589-8f36-7f17cda0993a">
+      <Text Background="#FFFFFFFFFFFF">RIVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4ed07b5f-08bb-40d5-a6c2-58338d71894c">
+      <Text Background="#FFFFFFFFFFFF">Next, please.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c14eab9e-1375-45e4-a6d7-b0cbff9fef47">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="31a3e3e8-7deb-42e4-b3e1-907003f1b016">
+      <Text Background="#FFFFFFFFFFFF">Let’s go, bruh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c159608c-2c52-4857-951f-1d5d9621b9c9">
+      <Text Background="#FFFFFFFFFFFF">They head towards the fair entrance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7558ae48-b01a-48c9-867a-6cc34ec176c1">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7876e182-858a-40d1-8c52-5dbd298116bf">
+      <Text Background="#FFFFFFFFFFFF">“Wrong planet.” Unbelievable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79ab00c2-972c-4bc9-b6fc-339ea66006aa">
+      <Text Background="#FFFFFFFFFFFF">Leaning against a wall is Schuyler “Skye” Park (51). They look up from their phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="23ec6590-46c4-4a8a-84f6-c491c0045241">
+      <Text Background="#FFFFFFFFFFFF">SKYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e87f7e58-45f7-4616-9246-2a80d09697ce">
+      <Text Background="#FFFFFFFFFFFF">Are you Plasma girl?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f9ddaaf4-002f-492c-aa46-44cdf977ee9a">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="214e2e8f-ba04-4173-8ac6-c63fd080756c">
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">Plasma with the Facts</Text>
+      <Text Background="#FFFFFFFFFFFF"> girl. What gave it away?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="929fe339-24cc-461a-a713-17ea67b521fb">
+      <Text Background="#FFFFFFFFFFFF">Skye pokes the “Plasma with the Facts” button on Ray’s shirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0ed72db2-7b18-41a7-8c37-47e1bbdb13be">
+      <Text Background="#FFFFFFFFFFFF">SKYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb46994e-105e-4595-aaed-5dd71eb47f3a">
+      <Text Background="#FFFFFFFFFFFF">Ya episode on entropy really fired me up. As a host, you such a ray of sunshine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5dcc7d0f-694c-4bf6-bc13-ab1003829c44">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50bd7f85-a85f-45ba-9df2-ef2519e87284">
+      <Text Background="#FFFFFFFFFFFF">That’s my name!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39d816cb-af40-46f1-bace-f69a4a2e6645">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e00c059f-9799-4cfd-bc28-54dd2952620d">
+      <Text Background="#FFFFFFFFFFFF">Nickname... Trini.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7195c861-f520-448b-afee-fec41236a40b">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="40bccd34-911a-43cb-a554-165444316e12">
+      <Text Background="#FFFFFFFFFFFF">(in Spanish/Tagalog)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="684c5dcb-7d46-46f5-9d1f-cb9a3f129e60">
+      <Text Background="#FFFFFFFFFFFF">Shut up, Kwan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dd985fb4-00d1-455c-80d4-6b22860f3924">
+      <Text Background="#FFFFFFFFFFFF">SkyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="17d83ef2-5060-43ed-a6b3-cd21dce49f4e">
+      <Text Background="#FFFFFFFFFFFF">You’re speaking our language. You seem to wanna get far in life.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e969a5df-c386-417b-adbf-a42a30336d8d">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b55a4cf5-71b0-4e9e-a341-44a6568ca7c4">
+      <Text Background="#FFFFFFFFFFFF">Far anywhere... from here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="68a61ff8-4140-4b67-8fa7-887e54165821">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb46994e-105e-4595-aaed-5dd71eb47f3a">
+      <Text Background="#FFFFFFFFFFFF">You sure? Well, look, I’ve </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">gotta</Text>
+      <Text Background="#FFFFFFFFFFFF"> run, but if you two wanna meet again tonight, I’ll be at The Peanut Barrel.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb8f1b90-bb9a-40bc-bfcd-718d811001f5">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="55886955-9055-40b0-8eaa-8e6049febf44">
+      <Text Background="#FFFFFFFFFFFF">Peanuts? We’re good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a53e4041-b220-45dd-b07b-7de3cb504909">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="166b5a6f-c968-4a88-b1bc-26bd335e22cc">
+      <Text Background="#FFFFFFFFFFFF">Suit yourself. But if you wanna be an elephant in the room, River, I, and our third will have dinner there. Stop by when River’s not being a machine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a1a1f484-c78c-49b6-af74-d5506aa0dedb">
+      <Text Background="#FFFFFFFFFFFF">Skye starts to walk away, then pauses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="38e7c56e-1c8a-4300-a93e-a5f6fdace156">
+      <Text Background="#FFFFFFFFFFFF">SKYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1986407d-2086-4900-8961-e4804e41fd95">
+      <Text Background="#FFFFFFFFFFFF">Bring some cash for burgers. Treat yourself like it’s </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Italic">audition</Text>
+      <Text Background="#FFFFFFFFFFFF">, Ray Reyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="27231431-3c30-4bf8-bc51-bff2aa7e5403">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Scene 5</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9c2bdf4e-9fcf-4eb8-8db9-b3039f7cf7c5">
+      <SceneProperties Length="1 3/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MS. AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RIVER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SKYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF">THE PEANUT BARREL</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1c0e0372-683b-464a-bc4e-446ef84da2f3">
+      <Text Background="#FFFFFFFFFFFF">Ray and Kwan step onto the patio.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ac88996-5de5-474a-886c-22ecc9ad4c62">
+      <Text Background="#FFFFFFFFFFFF">At a table, Skye laughs. Beside them sits River and </Text>
+      <Text Background="#FFFFFFFFFFFF" Style="AllCaps">Ms. Aurora sterling</Text>
+      <Text Background="#FFFFFFFFFFFF"> (29), the most perfect person. Skye spots Ray and Kwan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50c8917d-5d36-438c-a858-0eb83db7d608">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7a6e1897-db86-466d-b03c-acb5914e0e16">
+      <Text Background="#FFFFFFFFFFFF">Welcome to planet peanut!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3cf99838-679b-4f9f-b82e-d18ed7e1352f">
+      <Text Background="#FFFFFFFFFFFF">Ray and Aurora lock eyes, like they are ready to duel.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="43bebde0-186d-47bd-9fa3-0b26907e9511">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="18e67290-27e6-4cc2-8c49-1e9fca2454ac">
+      <Text Background="#FFFFFFFFFFFF">Ray? Oh cosmo, is that you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c511988e-ec56-4e58-90a9-503bd5448308">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="8869427b-4b79-4dbb-bc1b-b01a114e7840">
+      <Text Background="#FFFFFFFFFFFF">(Forced smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0e893b8a-33bf-4a81-9c85-714360f9098e">
+      <Text Background="#FFFFFFFFFFFF">Hey, Aurora. Long time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4ad1c39-9f4d-425b-846a-3a68f68786df">
+      <Text Background="#FFFFFFFFFFFF">MS. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9340fb37-2f47-4106-9ead-1ca009c46b27">
+      <Text Background="#FFFFFFFFFFFF">It’s been an eternity! Last I heard, you were doing that puppet residency in Toronto?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e22a43fb-0c99-4110-aceb-49c32244a4ed">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c74a4e12-72c9-420d-8b22-72c0ef292f79">
+      <Text Background="#FFFFFFFFFFFF">It... ended. I’m back in the city now. Doing my own thing. Plasma with the Facts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1284945-6bfa-474a-96fe-272eba84c534">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11fb01a9-170b-49f7-a426-5dfecdca4257">
+      <Text Background="#FFFFFFFFFFFF">I’m sorry, have we met?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="890ffbd8-d743-4069-b45a-8f4bc202c7c7">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4fe5fcd7-6728-460c-ae67-d7d838d0c447">
+      <Text Background="#FFFFFFFFFFFF">River, this is Trini Reyes! You still go by Ray? Well, we were in the same cohort at the Science Media Fellowship. She did that incredible piece on thermodynamics using... what was it, Ray? A vintage toaster?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="75570a2a-5191-407f-afd0-c1431fa8da2e">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cec8ca6-5efa-4461-a709-574ff8c6e0fa">
+      <Text Background="#FFFFFFFFFFFF">The toaster. Yeah sure...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d1dcda24-9cd7-429f-bd4c-6cca4e3ba327">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="72babccb-3547-42cb-b977-4981ac61cfb2">
+      <Text Background="#FFFFFFFFFFFF">She’s truly brilliant. So much raw energy. I cited you in my last TED talk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a01d5b6e-0bc6-401c-b658-4288f60727b8">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ac40b80e-24d0-4d93-8c40-f8318d37f40d">
+      <Text Background="#FFFFFFFFFFFF">Thanks. I missed the talk. But it’s safe to say you probably had lots of graphics.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dba0ca8e-d849-47d5-8abb-89c5a4709c97">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3153e6b6-5194-4dc6-94f4-1339860f3152">
+      <Text Background="#FFFFFFFFFFFF">Everyone loves a chart, don’t they! Please, this is Skye and River. The legends themselves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a54db2d1-5ee8-475d-92f1-d078242eb750">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d15933f-bc4f-487f-b864-81df1e0c5268">
+      <Text Background="#FFFFFFFFFFFF">We know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3381d1fe-d768-42f9-bb06-72d47841ea79">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3196c7c-3f2b-4420-b188-acbdc99d33b2">
+      <Text Background="#FFFFFFFFFFFF">Well, there’s something the public has yet to know about Ms. Aurora.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a04f88e5-bf41-4b14-9248-5dc88b6d2628">
+      <Text Background="#FFFFFFFFFFFF">River looks to Skye.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cbf0c84c-f577-492f-b055-bcf941032927">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0dbc3a7-5535-46e7-8743-3ee859afa62b">
+      <Text Background="#FFFFFFFFFFFF">You want me to share the news?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cf1ff077-e532-4cbb-b965-b1ff49ada87d">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="09160568-4208-4363-adbc-07090f3fabf2">
+      <Text Background="#FFFFFFFFFFFF">What news?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1aa708c8-ca8a-4465-b6a7-8ea8b54538e3">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4506fdcd-1ce7-4399-a804-d391c20fe198">
+      <Text Background="#FFFFFFFFFFFF">Sounds bad...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="505afb6f-86fd-43a8-bb09-7b24eef53237">
+      <Text Background="#FFFFFFFFFFFF">Ms. Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0af9d243-fda7-4c00-8979-505f4b9835a6">
+      <Text Background="#FFFFFFFFFFFF">It’s not about good or bad, Ray. It’s just... the state of the matter nowadays.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6d239998-972f-48fa-910f-edc508ea91b9">
+      <SceneProperties Length="3" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COMPANY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MS. AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RIVER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RIVER &amp; SKYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SKYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">4. “Perfect Peanut”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ae88289-221f-4ddf-852b-6fd443a0dc6d">
+      <Text Background="#FFFFFFFFFFFF">Ms. Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8e335d2f-1647-420d-9c52-4dd3ab587a17">
+      <Text Background="#FFFFFFFFFFFF">Scientific method: observation first.
+I see a girl in transition, fearing my burst
+You’re a solar flare, Ray, all chaos and heat
+I’m the calibrated constant the network needs to meet</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ff9f86c8-b11a-4f30-abdf-601d23b83b2f">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a7d46bfd-f23f-432d-a42f-6062c5e6bd58">
+      <Text Background="#FFFFFFFFFFFF">She’s symmetrical
+She’s numerical</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="00e33e58-03b6-4bda-a039-500129efa855">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b504e744-2338-4e26-8d36-c95775d043ae">
+      <Text Background="#FFFFFFFFFFFF">She is the geometry of higher education
+A polished bit of plasma for a fractured generation
+No smoke, no mirrors, no accidental fires
+Just the data-driven darling the industry desires</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c5ff423-fd8c-421e-a0dd-a9e9e4935531">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="691545c3-15cc-4b8b-b4b8-9c65bd42f1da">
+      <Text Background="#FFFFFFFFFFFF">I’m the perfect peanut
+No blemish on the shell</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5b4e4542-b2c6-4f03-89c9-22eb43166140">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3591b15f-4364-45a5-b57c-6db532d185ae">
+      <Text Background="#FFFFFFFFFFFF">She’s the perfect peanut
+And she performs so well</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0ebbda91-9006-4d16-b8c3-495d07506f42">
+      <Text Background="#FFFFFFFFFFFF">RiVER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="84a25dc0-1067-42cb-acaf-2db301aecfd9">
+      <Text Background="#FFFFFFFFFFFF">She’s the dust in the orbit</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="71c4d3df-0fb3-4784-867a-175b84da4e8e">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6d8c2d2d-3e04-4c61-a8cd-2d78ea3ca208">
+      <Text Background="#FFFFFFFFFFFF">the rust on the rocket</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd0e14d6-b938-48cc-b39f-bb522907cb06">
+      <Text Background="#FFFFFFFFFFFF">River &amp; Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="84a25dc0-1067-42cb-acaf-2db301aecfd9">
+      <Text Background="#FFFFFFFFFFFF">She’s the subscription revenue in the producer’s pocket</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="adbdb2b4-8bcf-42af-ab63-6018bab1638a">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7faea942-6080-41bd-bd8c-f9ac3bbf9e07">
+      <Text Background="#FFFFFFFFFFFF">Please celebrate with us...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b86be94-2c40-4241-83ed-b8223f0902d8">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="099625f1-2c0b-41ec-983f-2f62e666a242">
+      <Text Background="#FFFFFFFFFFFF">You and your high-energy, Ray.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5db49e09-a894-4ebd-b7c8-95be07df18d9">
+      <Text Background="#FFFFFFFFFFFF">River &amp; Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="37909acd-481f-42fc-af09-b8998f4acc7e">
+      <Text Background="#FFFFFFFFFFFF">...as we announce Stardust’s newest host!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="05aa466f-8213-4bb0-936b-8ea717143cef">
+      <Text Background="#FFFFFFFFFFFF">Ms. Aurora dazzles.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="2ed8d5e5-f431-4944-8cc9-d46d3ae14389">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="d11efb4d-206d-4162-8eef-4e0659624db7">
+          <Text Background="#FFFFFFFFFFFF">Ray</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="1c6a3a59-3450-490b-83c3-48cae9aed6af">
+          <Text Background="#FFFFFFFFFFFF">Ms. Aurora?!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="54bc0567-9a98-49e4-a5dc-4e9cfd67b3e3">
+          <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="210d0373-2b64-460d-950b-3cfcb4c24447">
+          <Text Background="#FFFFFFFFFFFF">Ms. Aurora!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="23f1748a-59d1-417a-807d-6f1195e79e94">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3be53066-98db-4fdd-8f2f-421b8de04e52">
+      <Text Background="#FFFFFFFFFFFF">Stardust is us? Nah, stardust is me
+A streaming-ready vision of stability
+So keep your cardboard puppets
+for THe future rests</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="553a799e-c461-43cc-a2f3-2b4e7265de56">
+      <Text Background="#FFFFFFFFFFFF">Company</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dcaf44c3-4a29-4c4d-91ba-cf275e75483e">
+      <Text Background="#FFFFFFFFFFFF">She’s the perfect peanut!
+The Perfect peanut!
+She’s the perfect peanut!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f2774b25-7d17-4c16-976b-eba5a9f72e68">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0b1b2157-0321-429f-99b3-115ecf963e41">
+      <Text Background="#FFFFFFFFFFFF">Symmetry and light</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3c23d38c-a977-416e-8b1b-4f5a5bd0c55f">
+      <Text Background="#FFFFFFFFFFFF">Company</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dcaf44c3-4a29-4c4d-91ba-cf275e75483e">
+      <Text Background="#FFFFFFFFFFFF">She’s the perfect peanut!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7fd6d60c-4ba4-417f-9737-4416ec40e43e">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dcaf44c3-4a29-4c4d-91ba-cf275e75483e">
+      <Text Background="#FFFFFFFFFFFF">Every atom’s right</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="705a3d53-231d-475a-907e-2941fc247f7c">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e6f6cd96-c604-4f21-8baa-f34cc1cdc49f">
+      <Text Background="#FFFFFFFFFFFF">She’s the tranquil ocean
+</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="1868ef87-91c8-434f-ba77-3799c873094b">
+      <Text Background="#FFFFFFFFFFFF">(to Ray)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0f4ddc33-49c2-4246-88c2-31cb380d9d83">
+      <Text Background="#FFFFFFFFFFFF">You’re the rushing stream</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6dd357b4-ef80-498c-83a3-fff1b2fdcb82">
+      <Text Background="#FFFFFFFFFFFF">River &amp; Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61e0b913-9de9-4e6f-91cc-cc00eed0dfd7">
+      <Text Background="#FFFFFFFFFFFF">She’s the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF">hd</Text>
+      <Text Background="#FFFFFFFFFFFF"> version of the dream</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0eaa08b-b03c-4ca7-bdf6-393438091e7d">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61e0b913-9de9-4e6f-91cc-cc00eed0dfd7">
+      <Text Background="#FFFFFFFFFFFF">No splinters on the shell, no salt in the wound
+She’s the frequency that is perfectly tuned</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9fc770f2-3eb6-4b97-ba92-d5b1d2e83c32">
+      <Text Background="#FFFFFFFFFFFF">(to Ray)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61e0b913-9de9-4e6f-91cc-cc00eed0dfd7">
+      <Text Background="#FFFFFFFFFFFF">You may be the unfiltered truth in your core
+But i’m sure she’s what sponsors are asking for</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f8df7d8-afbf-4c3c-8072-7c65c456d09f">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61d2a6bc-4515-4ed1-9824-d753cff9542e">
+      <Text Background="#FFFFFFFFFFFF">And science
+Never
+misses
+a
+Beat!</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="ce4aec39-da51-4248-874e-f36f632dca71">
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">End of “</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline+AllCaps">Perfect Peanut</Text>
+      <Text Background="#FFFFFFFFFFFF" Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="490ada02-21e6-48d1-892d-b77d91f3b86e">
+      <Text Background="#FFFFFFFFFFFF">RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="53af8a41-7f82-42e3-a999-401949f197a3">
+      <Text Background="#FFFFFFFFFFFF">So that’s it. You just... practiced until you weren't messy anymore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67cd8c31-43ae-43c5-8d0b-acbd429ef4d8">
+      <Text Background="#FFFFFFFFFFFF">MS. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d6b7e8a5-908f-4632-ad5c-4c7858948b23">
+      <Text Background="#FFFFFFFFFFFF">It’s not about being messy, Ray. It’s about being easy to film. You’re all over the place, which is great for a stage, but it’s hard for a camera to follow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="09c8ba53-0c1f-4c1b-a515-27629f681e34">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a74a2534-d528-4ac4-be4f-8bdcfa6530e8">
+      <Text Background="#FFFFFFFFFFFF">The network wants a professional, Skye. Not a science fair project.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a25f7145-7c31-4b7f-9fd2-21cfefb7231f">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="255e6d41-3a6d-4f96-893a-f82c139f825b">
+      <Text Background="#FFFFFFFFFFFF">Which is why I have a great idea! River, look at them. You’ve got Aurora, polished, ready for TV. And you’ve got Ray. She’s the “don't try this at home” kid. Why pick one?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4bd8e07e-292e-4f39-9f61-e536c67c8e4b">
+      <Text Background="#FFFFFFFFFFFF">Ray plays with a peanut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0dba5679-4960-4c74-98cb-c8e7427d4c5c">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a8f1c7c-a513-43b7-9844-415b2e3306ad">
+      <Text Background="#FFFFFFFFFFFF">You mean... we’d be partners...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="352e89e3-3bde-455f-9ae6-8697ed1661b9">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7a380c70-f476-4b28-8542-a211bdad9958">
+      <Text Background="#FFFFFFFFFFFF">Two hosts? No way. That would explode the budget.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a10cd510-f18e-49db-8047-62444afb9d62">
+      <Text Background="#FFFFFFFFFFFF">Ray cracks the peanut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b0d96b3-82fc-4da2-97d7-928b333a69de">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b8cc918-bc27-4c02-aab3-cec62579f0be">
+      <Text Background="#FFFFFFFFFFFF">You’re a sidekick.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f46c458-c28a-4343-906b-b5c602187b3a">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5c18a250-cac6-4896-add2-edade0bc0286">
+      <Text Background="#FFFFFFFFFFFF">Um... Ms. Aurora’s sidekick...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b750d49f-c63d-474c-8953-bb2a9d3e5771">
+      <Text Background="#FFFFFFFFFFFF">Skye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8bfd77a0-0151-4b04-8f20-aeef17264cd8">
+      <Text Background="#FFFFFFFFFFFF">Aurora handles the big talk and Ray...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf75b12e-9193-48dd-91c0-ee51248c22d1">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e44be9b8-54bf-4cf5-ae39-ecc8c542ad2b">
+      <Text Background="#FFFFFFFFFFFF">You’re the test subject.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca4a62b0-4e6f-4e51-bcef-3e483c4a90cd">
+      <Text Background="#FFFFFFFFFFFF">Ms. Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="48aedc88-9fd0-4bcc-a9f4-f9bf50ce2f48">
+      <Text Background="#FFFFFFFFFFFF">Oh Ray! That’d be so fun! You’re the relatable one. The one who gets the pie in the face so I can explain how the splat works.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb2cbac8-ae7a-414b-9f0b-0361e50274da">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6f5234f3-78f6-4330-b94a-140a16fe842c">
+      <Text Background="#FFFFFFFFFFFF">Hooray...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ac3ab1b-53cf-40a8-8e9f-1c73d0fee125">
+      <Text Background="#FFFFFFFFFFFF">River</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b49c29ce-7c95-4718-a808-0f0751d28de9">
+      <Text Background="#FFFFFFFFFFFF">It’s a foot in the door. Look, if the test groups like it. Aurora, we have to go. The pilot shoot starts at in a few weeks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd964dd2-ee23-4b06-9c5f-ffa23b441b14">
+      <Text Background="#FFFFFFFFFFFF">Ms. AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b49c29ce-7c95-4718-a808-0f0751d28de9">
+      <Text Background="#FFFFFFFFFFFF">We’d be a team.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04a2544b-0dd9-4342-a429-517cd9e9034a">
+      <Text Background="#FFFFFFFFFFFF">SkyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b49c29ce-7c95-4718-a808-0f0751d28de9">
+      <Text Background="#FFFFFFFFFFFF">You bring the energy, and we’ll keep y’all on schedule.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9230f8c1-11b2-474b-b2f1-48f02a3c0048">
+      <Text Background="#FFFFFFFFFFFF">Kwan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5c45dbcb-8bbe-478a-8308-37b57a59b4bd">
+      <Text Background="#FFFFFFFFFFFF">Think about this, sis. It’s better to be a sidekick on a hit show than a video blogger that nobody watches, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a46a466-c477-47d6-9af3-3386c6882afb">
+      <Text Background="#FFFFFFFFFFFF">Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3c3a5505-a09e-4539-ad4b-1651dd5cdc73">
+      <Text Background="#FFFFFFFFFFFF">Don’t you?</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Solid, Liquid, and Gas	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords>
+      <Word>themself</Word>
+    </IgnoredWords>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="54" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#ACACA8A89999" TopMargin="63" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="act info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut=":" WinShortcut=":"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="10" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="10" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="scene info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Solid, Liquid, and Gas</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Book, Music, and Lyrics</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Logline: In a last-ditch effort to reinvent herself, a struggling educator tries to secure a role in an educational television series that defined many childhoods, only to face the misinformed public and shadow of the original host.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">synopsis</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Solid, Liquid, and Gas</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is a musical dramedy inspired by the children’s programming industry where magical wonder, scientific rivalry, and mental health challenges collide. Set in 2026, the story follows educator Trini ‘Ray’ Reyes, after being fired from a theatre, who tries to seize the mantle of the revival of the beloved interactive educational children’s show, </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. To succeed, Ray must contend with Clay, the reclusive original host; Ms. Aurora, a popular science communicator; the public’s distrust of inclusivity; and her own tendency to go from being a ray of sunshine to fireballs under pressure.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">THEMES</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The story investigates the states of matter (solid, liquid, gas, plasma) as metaphors for personal transformation. While solids are fixed and liquids flow and gases fill, plasma is high-energy, volatile, and luminating (Ray’s chaotic yet brilliant approach to education). The </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> team includes Clay, the original host; River and Skye, the co-creators and voice actors; and Ms. Aurora, the new host. The emotional anchor is Kwan, Ray’s neurodivergent brother and an astronomy prodigy.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Solid</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> represents rigid structures, childhood's perceived stability, or being stuck in one's ways (like Clay).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Liquid</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> represents transition, the messy middle ground of a career or life (like River).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Gas</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> represents spreading out, reaching a wider audience of all cultures and genders (like Skye), or evaporation of facts in a truthless world.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Plasma</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> represents freshness (like Aurora) and even what's high-energy and unfiltered (like Ray).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">TV SERIES</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">This is a stage adaptation of the series of the same name. This is the </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FEFE" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">series pitch deck</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FEFE" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">pilot episode screenplay</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cast of Characters</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Trini "</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Ray</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">" Reyes (29</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, Hispanic/Southeast Asian Woman</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">)</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is a struggling educator and puppeteer with a passion for science communication.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Kwan</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Reyes</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> (24, Hispanic/Southeast Asian Man) is Ray's younger brother, an astronomy grad student at Michigan State University and a member of a neurodivergent theatre. Due to </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, he is an astronomy prodigy.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Billy </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Clay</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">ton Dubois (45</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, Man</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">)</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is the original host of </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, now a cynical man. He left the show due to his clinical depression. He grows interested in reclaiming his hosting spot.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">River</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Matthews</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> (50, Woman) is a co-creator of </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and its revival </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust is Us</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">! She voices </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Stardust</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. As a major player in children’s programming, she cannot stand Ray.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Schuyler "</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Skye</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">" Park (51, </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Non-Binary</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">)</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is a co-creator and voice actor of </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. They caused Clay’s 29th birthday drunk driving accident. They are often an ally to and a fan of Ray.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MS. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">AURORA</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> STERLING (29, Biracial Woman) is an educator with a huge following and upcoming host of </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust is Us</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">!</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Minor Characters (In Order of Appearance)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Stage Manager / Producer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Ensemble (In Order of Appearance)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Puppeteers / Crowds</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*People of the Global Majority most represent the	 experiences of these characters; cast accordingly</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Musical Numbers</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Act I</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Stardust Stuff</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="">Clay, Stardust, Ray, Kwan</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		2. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Fire in the Mountain</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="">Ray, Stage Manager, Producer, Puppeteers</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		3. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Forever Buddies</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="">Clay, Ray</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		4. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Perfect Peanut</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="">Ms. Aurora, River, Skye, Ray, Kwan</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Act </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">II</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		_. </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">”</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Abell</Character>
+      <Character>Andromeda</Character>
+      <Character>Bo &amp; Dy</Character>
+      <Character>Clay</Character>
+      <Character>Clay &amp; Teen Galaxies</Character>
+      <Character>Company</Character>
+      <Character>Earth</Character>
+      <Character>Fix</Character>
+      <Character>Galaxies</Character>
+      <Character>Gravity</Character>
+      <Character>Gravity &amp; Ray</Character>
+      <Character>Gravity * Ray</Character>
+      <Character>Gravity, Ray, Tidals</Character>
+      <Character>Invariant</Character>
+      <Character>JD</Character>
+      <Character>JUPITER</Character>
+      <Character>Jupiter &amp; Saturn</Character>
+      <Character>Kid</Character>
+      <Character>Kids</Character>
+      <Character>Kids &amp; Whirlpool</Character>
+      <Character>MERCURY</Character>
+      <Character>Milky way</Character>
+      <Character>OORT CLOUD</Character>
+      <Character>Puppy Gravity</Character>
+      <Character>Ray</Character>
+      <Character>SATURN</Character>
+      <Character>Singulariy</Character>
+      <Character>Solar System</Character>
+      <Character>Special &amp; General</Character>
+      <Character>SUN</Character>
+      <Character>Teen galaxies</Character>
+      <Character>TIDALS</Character>
+      <Character>Triangulum</Character>
+      <Character>Triangulum &amp; Andromeda</Character>
+      <Character>Uranus</Character>
+      <Character>URANUS [Triangulum]</Character>
+      <Character>Whirlpool</Character>
+      <Character>Stage Manager</Character>
+      <Character>Kwan</Character>
+      <Character>Ms. Aurora</Character>
+      <Character>River</Character>
+      <Character>Skye</Character>
+      <Character>River &amp; Skye</Character>
+      <Character>Syke</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(PUPPET)</Extension>
+      <Extension>(P.)</Extension>
+      <Extension>(PuppetS)</Extension>
+      <Extension>(Except Milky Way)</Extension>
+      <Extension>(V.o.)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>5</SceneIntro>
+      <SceneIntro>6</SceneIntro>
+      <SceneIntro>7</SceneIntro>
+      <SceneIntro>8</SceneIntro>
+      <SceneIntro>9</SceneIntro>
+      <SceneIntro>10</SceneIntro>
+      <SceneIntro>1</SceneIntro>
+      <SceneIntro>11</SceneIntro>
+      <SceneIntro>12</SceneIntro>
+      <SceneIntro>13</SceneIntro>
+      <SceneIntro>14</SceneIntro>
+      <SceneIntro>15</SceneIntro>
+      <SceneIntro>16</SceneIntro>
+      <SceneIntro>17</SceneIntro>
+      <SceneIntro>18</SceneIntro>
+      <SceneIntro>19</SceneIntro>
+      <SceneIntro>20</SceneIntro>
+      <SceneIntro>21</SceneIntro>
+      <SceneIntro>22</SceneIntro>
+      <SceneIntro>23</SceneIntro>
+      <SceneIntro>24</SceneIntro>
+      <SceneIntro>25</SceneIntro>
+      <SceneIntro>26</SceneIntro>
+      <SceneIntro>27</SceneIntro>
+      <SceneIntro>28</SceneIntro>
+      <SceneIntro>29</SceneIntro>
+      <SceneIntro>3</SceneIntro>
+      <SceneIntro>4</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>END OF "CUTTING EDGE"</Location>
+      <Location>END OF "FIGURE"</Location>
+      <Location>"ZILCH"</Location>
+      <Location>END OF "ZILCH"</Location>
+      <Location>"LUMINIOUS"</Location>
+      <Location>"BIG BANG"</Location>
+      <Location>END OF "BIG BANG"</Location>
+      <Location>THE FABRIC OF SPACETIME</Location>
+      <Location>"VERSE"</Location>
+      <Location>END OF "VERSE"</Location>
+      <Location>THE CENTER OF THE UNIVERSE</Location>
+      <Location>"RIP"</Location>
+      <Location>"ANOMALY IS EVERYTHING"</Location>
+      <Location>END OF "ANOMALY IS EVERYTHING"</Location>
+      <Location>"BOUNCE"</Location>
+      <Location>"TIME IS RELATIVE"</Location>
+      <Location>END OF "TIME IS RELATIVE"</Location>
+      <Location>"BIG RIP"</Location>
+      <Location>"WARP, WAVES, AND WRINKLES"</Location>
+      <Location>END OF "WARP, WAVES, AND WRINKLES"</Location>
+      <Location>"GLOBULAR"</Location>
+      <Location>END OF "GLOBULAR"</Location>
+      <Location>"FABRIC"</Location>
+      <Location>END OF "FABRIC"</Location>
+      <Location>"FAR-FETCHED"</Location>
+      <Location>END OF "FAR-FETCHED"</Location>
+      <Location>"POINT"</Location>
+      <Location>END OF "POINT"</Location>
+      <Location>Clay'S BACKSTORY AND PAST UNIVERSE</Location>
+      <Location>"HEAT DEATH"</Location>
+      <Location>END OF "HEAT DEATH"</Location>
+      <Location>THE FABRIC OF SPACETIME, PRESENT</Location>
+      <Location>"PARALLAX"</Location>
+      <Location>END OF "PARALLAX"</Location>
+      <Location>THE EDGE OF THE UNIVERSE</Location>
+      <Location>"TANGENT"</Location>
+      <Location>END OF "TANGENT"</Location>
+      <Location>"..."</Location>
+      <Location>END OF "..."</Location>
+      <Location>THE CONTINUUM CHECKPOINT</Location>
+      <Location>"BOUNCE BACK"</Location>
+      <Location>END OF "BOUNCE BACK"</Location>
+      <Location>"EVERYTHING"</Location>
+      <Location>END OF "EVERYTHING"</Location>
+      <Location>"APPARENT"</Location>
+      <Location>END OF "APPARENT"</Location>
+      <Location>"SPACETIME"</Location>
+      <Location>END OF "SPACETIME"</Location>
+      <Location>"LIMINALITY"</Location>
+      <Location>END OF "LIMINALITY"</Location>
+      <Location>"(THE BIG RIP OF) ZENITH"</Location>
+      <Location>END OF "(THE BIG RIP OF) ZENITH"</Location>
+      <Location>"BIG CRUNCH"</Location>
+      <Location>END OF "BIG CRUNCH"</Location>
+      <Location>A FRESH UNIVERSE</Location>
+      <Location>"BIG BOUNCE"</Location>
+      <Location>"BIG CRUNCH" (HTTPS://WWW.ELLIPSESPLAY.COM/MUSIC/28-BIG_CRUNCH)</Location>
+      <Location>"TANGENT" (HTTPS://WWW.ELLIPSESPLAY.COM/MUSIC/20-TANGENT)</Location>
+      <Location>"..." (OMISSION)</Location>
+      <Location>"UP AGAINST GRAVITY (DOWN WITH GRAVITY)"</Location>
+      <Location>"CUTTING EDGE (MAKE MYSELF CLEAR)"</Location>
+      <Location>"FOREVER BUDDIES"</Location>
+      <Location>RAY'S CAR</Location>
+      <Location>THE MINIVERSE / REYES HOME</Location>
+      <Location>"PERFECT PEANUT"</Location>
+    </Locations>
+    <TimesOfDay Separator=" - "/>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice="Microsoft David Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Low" Speed="Medium" WinVoice="Microsoft David Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice="Microsoft Zira Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice="Microsoft Hazel Desktop - English (Great Britain)"/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Very High" Speed="Medium" WinVoice="Microsoft David Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Very High" Speed="Fast" WinVoice="Microsoft David Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Very High" Speed="Medium" WinVoice="Microsoft Zira Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Very High" Speed="Fast" WinVoice="Microsoft Zira Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Very Low" Speed="Medium" WinVoice="Microsoft David Desktop - English (United States)"/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Very Low" Speed="Medium" WinVoice="Microsoft Hazel Desktop - English (Great Britain)"/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Old Man">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Abell"/>
+    <Member Actor="Man 2" Character="Andromeda"/>
+    <Member Actor="Man 1" Character="Bo &amp; Dy"/>
+    <Member Actor="Woman 2" Character="Clay"/>
+    <Member Actor="Man 1" Character="Clay &amp; Teen Galaxies"/>
+    <Member Actor="Man 1" Character="Company"/>
+    <Member Actor="Man 1" Character="Earth"/>
+    <Member Actor="Man 1" Character="Fix"/>
+    <Member Actor="Man 1" Character="Galaxies"/>
+    <Member Actor="Old Woman" Character="Gravity"/>
+    <Member Actor="Man 1" Character="Gravity &amp; Ray"/>
+    <Member Actor="Man 1" Character="Gravity * Ray"/>
+    <Member Actor="Man 1" Character="Gravity, Ray, Tidals"/>
+    <Member Actor="Man 1" Character="Invariant"/>
+    <Member Actor="Girl 1" Character="JD"/>
+    <Member Actor="Man 1" Character="JUPITER"/>
+    <Member Actor="Man 1" Character="Jupiter &amp; Saturn"/>
+    <Member Actor="Man 1" Character="Kid"/>
+    <Member Actor="Boy 1" Character="Kids"/>
+    <Member Actor="Man 1" Character="Kids &amp; Whirlpool"/>
+    <Member Actor="Man 1" Character="MERCURY"/>
+    <Member Actor="Boy 2" Character="Milky way"/>
+    <Member Actor="Man 1" Character="OORT CLOUD"/>
+    <Member Actor="Man 1" Character="Puppy Gravity"/>
+    <Member Actor="Man 1" Character="Ray"/>
+    <Member Actor="Man 1" Character="SATURN"/>
+    <Member Actor="Man 1" Character="Singulariy"/>
+    <Member Actor="Man 1" Character="Solar System"/>
+    <Member Actor="Man 1" Character="Special &amp; General"/>
+    <Member Actor="Man 1" Character="SUN"/>
+    <Member Actor="Man 1" Character="Teen galaxies"/>
+    <Member Actor="Man 1" Character="TIDALS"/>
+    <Member Actor="Girl 1" Character="Triangulum"/>
+    <Member Actor="Man 1" Character="Triangulum &amp; Andromeda"/>
+    <Member Actor="Man 1" Character="Uranus"/>
+    <Member Actor="Man 1" Character="URANUS [Triangulum]"/>
+    <Member Actor="Boy 1" Character="Whirlpool"/>
+    <Member Actor="" Character="Stage Manager"/>
+    <Member Actor="" Character="Kwan"/>
+    <Member Actor="" Character="Ms. Aurora"/>
+    <Member Actor="" Character="River"/>
+    <Member Actor="" Character="Skye"/>
+    <Member Actor="" Character="River &amp; Skye"/>
+    <Member Actor="" Character="Syke"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="CLAY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CLAY &amp; RAY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY &amp; KWAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="COMPANY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="KIDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KWAN &amp; KIDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MS. AURORA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PERFORMER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRODUCER" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="RAY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RIVER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RIVER &amp; SKYE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ROCKET" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SKYE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STAGE MANAGER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STARDUST" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Scenes" SortColumn="Order" TableIdentifier="NavDynScenes" id="05c2dfb3-0287-4b81-a12f-ff24dcdf80f9">
+      <Column Width="50">Order</Column>
+      <Column Width="50">Title</Column>
+      <Column Width="64">Location</Column>
+      <Column UserType="CharacterColumnType" Width="50">RIP</Column>
+      <Column UserType="CharacterArcColumnType" Width="70">RIP</Column>
+    </TableColumnSettings>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynTags" id="734b0fab-40ff-4e90-8f92-432601e04268">
+      <Column Width="66">Order</Column>
+      <Column Width="48">Page</Column>
+      <Column Width="250">Script</Column>
+      <Column Width="50">Color</Column>
+      <Column Width="250">Summary</Column>
+    </TableColumnSettings>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="8557c61d-a02e-4350-9255-e4f85bbba0cf" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="8bbfdc32-e52c-41e8-8f0c-01065c23f8dc" ScrollOrigin="300,0" Type="StoryMap" Width="2464" ZoomLevel="123.200">
+      <Lanes>
+        <Lane Id="cd602592-4614-4d9e-83ae-1cacabcc73ca" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="1fd9599e-fd36-4b2c-9218-3bf1d3b1ef90" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynCharacters" id="16335760-c984-41e3-b122-314827791c89">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="80">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+      <Column Width="73">Dialogues</Column>
+      <Column Width="60">Scenes</Column>
+      <Column Width="111">Speaking Scenes</Column>
+      <Column Width="138">Non-Speaking Scenes</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynScriptNotes" id="4b4909c4-2418-455b-b33a-4158351f3bb4">
+      <Column Width="65">Order</Column>
+      <Column Width="0">Page</Column>
+      <Column Width="250">Title</Column>
+      <Column Width="250">Note</Column>
+      <Column Width="63">Color</Column>
+      <Column Width="90">Type</Column>
+    </TableColumnSettings>
+  </ScriptNotes>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="05c2dfb3-0287-4b81-a12f-ff24dcdf80f9"/>
+      <Tab id="734b0fab-40ff-4e90-8f92-432601e04268"/>
+      <Tab id="16335760-c984-41e3-b122-314827791c89"/>
+      <Tab id="4b4909c4-2418-455b-b33a-4158351f3bb4"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
