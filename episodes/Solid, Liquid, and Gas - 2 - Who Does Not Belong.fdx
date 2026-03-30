@@ -7,15 +7,16 @@
 
   <Content>
     <Paragraph Type="New Act" id="6b67055e-8e0a-4c01-b26e-48bdef828a9a">
-      <Text>Cold Open</Text>
+      <Text>Hot Open</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="40a2543f-a311-42e3-907c-1a7e55900295">
-      <SceneProperties Length="1/8" Page="1" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
+    <Paragraph Type="Action" id="f429fa2c-5da9-47d1-9ea7-50ff2353b168">
+      <Text>(Ray meets Clay for the first time as a child while he is touring and looks up to him.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9034156e-ef88-49c0-a934-0546b188c4e3">
+      <Text>(Someone sets something on fire in the background.)</Text>
     </Paragraph>
     <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="8320508a-6b7a-43cd-9457-386c90d1a8a4">
-      <Text>End of Cold Open</Text>
+      <Text>End of Hot Open</Text>
     </Paragraph>
     <Paragraph Type="Action" id="da01c2de-c79d-48e1-83a9-43aad66ad49e">
       <Text Style="Bold+AllCaps">Main Titles</Text>
@@ -1246,7 +1247,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="10,10" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="159,159" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>

@@ -9,113 +9,25 @@
     <Paragraph Type="New Act" id="6b67055e-8e0a-4c01-b26e-48bdef828a9a">
       <Text>Hot Open</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="6353e508-3b10-494d-afbb-ca218dde3018">
-      <SceneProperties Length="1" Page="1" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="AURORA">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Ray’s Bedroom - Morning</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="45e35927-67a8-44f1-89aa-0b99dad99afc">
-      <Text Style="AllCaps">Beep</Text>
-      <Text>. </Text>
-      <Text Style="AllCaps">Beep</Text>
-      <Text>. The alarm goes off then suddenly catches on fire.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2c53605e-a7aa-4a99-a850-7203539a8b8c">
-      <Text>Ray jumps out of bed and puts the fire out with a towel.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="6e5bcbcf-47af-46be-a722-bde9c66c92da">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2738ef4f-ee53-4b36-b099-168ae5f61d4c">
-      <Text>Why do bad things keep happening to me?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2c91bf10-7d06-4be5-bf0f-9a379b361699">
-      <Text>Aurora swiftly rises from the opposite side of the bed.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="aa28a90e-bf99-4d52-b018-04084efdf17a">
-      <Text>AurorA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="415f7adc-a591-4a57-aff8-71b9f0e76e2e">
-      <Text>Could it be because you keep making bad choices, Ray?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7fc19cb1-0842-43b4-8ec7-a0e4006aee53">
-      <Text>Ray points to the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a0a873b4-fd1b-4c40-8ecf-d0813f9671e6">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="752c5e17-1b3f-4e3f-9eef-99c9a087cb97">
-      <Text>They keep telling me to make bad choices.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="917d6ab5-0f55-4c50-b192-591c7a7413b3">
-      <Text>AuRORA</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="f9208767-0121-447f-8809-7a3442691625">
-      <Text>(to camera)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ce9a4bd5-6221-478c-8e33-99c2062dcf5f">
-      <Text>Are you telling my bestie Ray to be a baddie? No? Good.</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="e1cd9afe-89ef-474a-90bb-a7904a51b108">
-      <Text>(to Ray)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="5cf3b4cb-8a23-4f89-97e1-cab2aa395f2b">
-      <Text>They said “no.”</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="70cee225-7cc0-4f9e-b9c1-4d0604dc3e4b">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="29ddeab4-44ff-4aad-a416-13d781db8a86">
-      <Text>(to camera)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="c5640ea2-9b8f-4a68-9983-31619a2b922c">
-      <Text>Thanks for nothing.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="943c359d-347d-4852-805d-b8a9901423f8">
-      <Text>AuroRA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="bae0a54b-251d-4e3c-bf41-7e17af9a7ee9">
-      <Text>Shall we sing about your troubles, Ray?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a0890adc-1f16-496a-b5cf-18bac1e2b827">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="aee443f2-c6e6-42ca-82a3-9aa153c0b5e9">
-      <Text>No, no! Anything but singing.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3636e0fe-2df1-4804-b638-0814a5fe859e">
-      <Text>AuroRA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="9bfeb106-c37f-49ee-90ae-16ea6943a837">
-      <Text Style="AllCaps">When you choose to be a liar
-Don’t be sad when...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b2123005-bb94-4e39-9924-acec9dcb51d3">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="b82b1c45-6ccb-4082-9c2d-85f2c40703f5">
-      <Text>(Weeping)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7ab01259-e077-41bf-8330-447ee95353eb">
-      <Text>...</Text>
-      <Text Style="AllCaps">my world’s on fire?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="eb914b65-a0af-42d8-bbe2-188840c52dca">
-      <Text>The towel bursts into flames, freaking everyone out.</Text>
-    </Paragraph>
     <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="8320508a-6b7a-43cd-9457-386c90d1a8a4">
-      <Text>End of Cold Open</Text>
+      <Text>End of Hot Open</Text>
     </Paragraph>
     <Paragraph Type="New Act" id="1b7e5dc9-80e1-45fb-9e46-269c17b41982">
       <Text>ACT One</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="4d805294-b63c-4e7d-86ea-a038b8090876">
+      <Text>ACT Two</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="3faa3073-3f3c-4e11-93ec-7fcbea782e50">
+      <Text>ACT Three</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="7eec04b4-645a-49f3-b538-bf46889a740f">
+      <Text>Tag</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="25504789-e01e-43d1-9501-f54cc61021db">
+      <SceneProperties Length="1/8" Page="5" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
     </Paragraph>
   </Content>
 
@@ -163,7 +75,7 @@ Don’t be sad when...</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="0,770" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="54,54" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -663,7 +575,7 @@ Don’t be sad when...</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="625">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
@@ -999,10 +911,7 @@ Don’t be sad when...</Text>
     <CustomOrder/>
   </CastList>
 
-  <CharacterHighlighting>
-    <Character Color="#RRRRGGGGBBBB" Name="AURORA" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="RAY" Visible="No"/>
-  </CharacterHighlighting>
+  <CharacterHighlighting/>
 
   <ScriptNavigatorPreferences>
     <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>

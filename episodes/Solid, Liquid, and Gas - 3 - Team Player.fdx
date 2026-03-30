@@ -7,685 +7,12 @@
 
   <Content>
     <Paragraph Type="New Act" id="6b67055e-8e0a-4c01-b26e-48bdef828a9a">
-      <Text>Cold Open</Text>
+      <Text>Hot Open</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="f8e26f32-71ab-4cd7-b50d-e493d06a3ec6">
-      <SceneProperties Length="1 6/8" Page="1" Title="">
+    <Paragraph Type="Scene Heading" id="6353e508-3b10-494d-afbb-ca218dde3018">
+      <SceneProperties Length="1" Page="1" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="CLAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="KIDS">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="ROCKET">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STARDUST">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Miniverse</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="49223ad7-68ea-4b39-873b-a0dae5ec67b7">
-      <Text>The world is framed in a 4:3 aspect ratio. A decorative </Text>
-      <Text Style="AllCaps">pop-up book</Text>
-      <Text> titled </Text>
-      <Text Style="AllCaps">Stardust Stuff</Text>
-      <Text> cracks open. A ROCKET SHIP with a friendly, animated face pops out from the pages.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c45f4abb-a0be-4f04-86aa-c562447efe90">
-      <Text Style="AllCaps">Clay</Text>
-      <Text> (24), radiating energy in a colorful cosmic vest, appears in the rocket’s window and waves enthusiastically.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="570a04a0-92a2-4143-ac11-5dff94016394">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="459eb441-6eeb-4e12-b6bb-29086e10f115">
-      <Text>Planets, comets, and galaxies everywhere! It’s me, Clay! Have you seen our best friend, Stardust?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="eeb237ab-df23-478f-b40a-69b2f90d3f09">
-      <Text Style="AllCaps">Stardust</Text>
-      <Text>, a whimsical, wide-eyed fairy, soars out from behind a cardboard star and loops around the ship.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c68e5431-9051-4285-8437-7e5009cbbe94">
-      <Text>Stardust</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="270a7ad3-49a1-4246-8068-21ae246ebaec">
-      <Text>(Through yelps and whines)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="af782bb0-7bd6-4705-b26b-fb6a7ea6d1f5">
-      <Text>Twinkle, twinkle, twinkle.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="fbf10ab5-16ce-4999-9bf6-bbeb3956e437">
-      <Text>Unseen </Text>
-      <Text Style="AllCaps">kids</Text>
-      <Text> answer in unison along with </Text>
-      <Text Style="AllCaps">Trini</Text>
-      <Text Size="10"> </Text>
-      <Text Style="AllCaps">“Ray”</Text>
-      <Text Size="10"> </Text>
-      <Text Style="AllCaps">Reyes</Text>
-      <Text Size="10"> </Text>
-      <Text>(4).</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="f2ec3210-f2bb-431c-b685-027d79f3fee4">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="8046f8c3-c582-4d98-94ba-2b6f0788680c">
-          <Text>Kids (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="bd419307-8c3a-495d-8d23-47fe1d94104e">
-          <Text>There she is!</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="5c292767-b3d1-4895-ad7b-08beb9253101">
-          <Text>Ray (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="a6eb9f70-ebda-4bee-bfd8-d3c965e23a5d">
-          <Text>She’s right behind you!</Text>
-        </Paragraph>
-      </DualDialogue>
-    </Paragraph>
-    <Paragraph Type="Action" id="306c14ec-fd57-4917-b334-0b00fa3f9853">
-      <Text>Clay ducks back inside.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c7e30fa4-19fb-4176-b23c-1f541976e9cb">
-      <Text>Rocket</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7f69c111-1f12-43bb-9a7b-01821c8dced8">
-      <Text>Come on in, stardusters!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="0a48a32b-7286-4758-b434-a9918d9bbf6c">
-      <Text>The camera follows Stardust as she dives through the window. Inside, the ship is filled with charming cardboard controls. Clay searches the cabin.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c24b2bc2-647e-4a6c-8b50-feb30797a913">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b4025e30-8c2f-4767-b3fb-b2b1d867636e">
-      <Text>Hi! We're so glad you're here! We’re almost ready to land. Stardust? Stardust?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="edc1f33b-684c-4d29-ba4a-a3312d19cc73">
-      <Text>Stardust giggles and ducks underneath a nearby table. Clay turns to the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3eaac186-a7fc-4177-95ab-4fa6607b04ec">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="37b17ab6-23ca-47b9-8a00-c2d1e753932d">
-      <Text>Did you see Stardust?</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="e2d5f57a-9cf3-48e7-aa83-409f815cd6f9">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="14f64058-99fd-44e1-bafc-088d0c6cf261">
-          <Text>Kids (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="f2486fa3-773e-47da-bc51-f16e6c756269">
-          <Text>Right there! Under the table!</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="4cb41fbc-f344-4440-8e5c-09fd9555ad94">
-          <Text>Ray (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="68dcc84c-7368-418f-96aa-4ec96b20f8c9">
-          <Text>Are you blind?!</Text>
-        </Paragraph>
-      </DualDialogue>
-    </Paragraph>
-    <Paragraph Type="Action" id="b9472d95-0254-4c2e-b755-8c63894c341b">
-      <Text>Clay mimics hand-goggles, spotting her with a laugh.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a1cfd922-cad6-4db0-9edb-4cc136656c0f">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6c5f6b00-30c8-4b7a-b737-707b6d0b603d">
-      <Text>Stardust! What world should we visit today?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c10cbf10-7f87-4a92-b611-b3bdfc215af6">
-      <Text>Clay gestures to the window, where cutouts of a blue, white, and green planet hang against a dark backdrop.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a02014ad-0594-4204-97d1-c2eaea491eed">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="17330476-6de2-445b-bba8-1e6967cecf23">
-      <Text>A </Text>
-      <Text Style="Italic+AllCaps">blue</Text>
-      <Text> planet? A </Text>
-      <Text Style="Italic+AllCaps">clue</Text>
-      <Text> we need bathing suits. Do you have one?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="202ccddf-9c8b-4f86-899a-e93fed6a87b1">
-      <Text>Stardust shakes her head no.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="d712f87d-94a0-4049-9db2-56fa0ca06dfe">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7fcef733-e346-40ba-9c14-859dbd9a5c0a">
-      <Text>Should we land on the white planet? Brrr! Do you have your winter coat?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="8717af61-a8bf-4aac-a3b6-6b50d2f058c9">
-      <Text>Stardust shakes her head no. Clay points to the final world.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="334014ba-b16b-43be-b55b-d657d4f1dcc2">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="1e6b95de-ee4a-4b0c-8d24-ce88a79213e3">
-      <Text>Then what color is this one?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="db339cf5-59cd-4e29-99a4-4750b717b48d">
-      <Text>KiDS (V.O.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="bbe65638-8786-4b30-a553-e6583df866a6">
-      <Text>Green!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="205e3e77-c37b-4243-9347-0a76d9160c3e">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0bc952a4-17e5-43ad-9025-dd8742ce75e5">
-      <Text>Yellow?</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="3c4666c3-5b6f-4f95-a7fa-b2cf065ff328">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="2aa98dfb-5a67-4e02-86ce-ba39014638e6">
-          <Text>Ray (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="729eaf10-e9e0-4478-93ef-6b27de66fb84">
-          <Text Style="AllCaps">Green for crying out loud!</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="1ed3ffb0-1649-4fa1-a9c2-f2c015a7a7ec">
-          <Text>KiDS (V.O.)</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="01b66072-730f-46b9-9c20-f68a75b69fae">
-          <Text Style="AllCaps">Green! Green! Green!</Text>
-        </Paragraph>
-      </DualDialogue>
-    </Paragraph>
-    <Paragraph Type="Character" id="3aa1f8cc-f486-4b71-aed2-745cb8a413be">
-      <Text>ClaY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2d6edb67-2c74-4439-874e-e08a01bef21b">
-      <Text>Ah! The </Text>
-      <Text Style="AllCaps">green</Text>
-      <Text> planet! Do you have your sunglasses?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="afe3a7a8-311e-45ff-b057-0e54c1ebd3aa">
-      <Text>Stardust puts on a pair of shades.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="b651c3a1-ce61-4db3-a473-41b010a4a756">
-      <Text>Clay breaks into a catchy jingle.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8348cd99-c1d8-4d14-b32b-8de53f05bcf9">
-      <Text>ClaY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="136d6097-bf7b-4795-96a8-3676dbb1bfb8">
-      <Text>Rocket, take us to the </Text>
-      <Text Style="AllCaps">green</Text>
-      <Text>!</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ed93f298-3f0f-4f72-9c61-4111ad756278">
-      <Text Style="AllCaps">Let’s land on this planet</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="864571ec-4649-438f-8cb8-30e4ba8b6aa9">
-      <SceneProperties Length="2 1/8" Page="2" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="CLAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="CLAY &amp; RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="CLAY &amp; RAY &amp; KWAN">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="KWAN &amp; KIDS">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STARDUST">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Reyes Living Room - Day (2001)</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="d3f18c5c-59a0-4800-a10e-8cb82beea391">
-      <Text>A square TV plays the show. Ray</Text>
-      <Text Size="10"> </Text>
-      <Text>(4,</Text>
-      <Text Size="10"> </Text>
-      <Text>Filipina</Text>
-      <Text Size="10"> </Text>
-      <Text>American) dances along, in her homemade </Text>
-      <Text Style="AllCaps">cardboard rocket ship</Text>
-      <Text> </Text>
-      <Text Style="AllCaps">costume</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c7c940f6-d617-4188-9383-808824d35e4f">
-      <Text>Clay &amp; Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="1cabf305-76c1-4ed4-9459-701592f22848">
-      <Text Style="AllCaps">Let’s land on this planet
-I wonder if we’ll call it home?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="d62c3c1b-1e34-4635-9255-1a4d23631325">
-      <Text>Much like Clay, Ray turns to face her own “camera.”</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="901cbd61-f802-4f35-95e9-6c5e3cff618f">
-      <Text Style="Bold+Underline+AllCaps">Ray talking head</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="e96a517a-6c7f-4030-b4f0-78eabd8e86d2">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="4468467e-fcf8-405d-bf11-3f46b1746db3">
-      <Text>You my audience! </Text>
-      <Text Style="Italic">Pwease pwetend</Text>
-      <Text>. I Trini </Text>
-      <Text Style="Italic">Reyes</Text>
-      <Text>, I wanna be Clay. Good news today, we on solid gwound! So the floor ain’t...?</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="aa0a973a-6ca1-416e-8f2b-656b6fb7999c">
-      <Text>(Pause)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="9f7b3368-31ea-4538-951f-215ba3fb9f46">
-      <Text>Lava! Lava! Lava!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c7e7f514-878c-4a6e-af2c-2bdc4fe9c6a0">
-      <Text>On the table, a </Text>
-      <Text Style="Italic">Stardust Stuff</Text>
-      <Text> coloring book lies open. Inside, a child’s messy coloring fills a page featuring Clay and the show’s founders: 
-- </Text>
-      <Text Style="AllCaps">River Matthews</Text>
-      <Text> (25, Ms. Frizzle-like) with Stardust puppet.
-- </Text>
-      <Text Style="AllCaps">Schuyler “Skye” Park</Text>
-      <Text> (26, Korean, in over their head).</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="d195e840-eb6d-425f-a91a-5a8eec70b1a0">
-      <Text>Ray (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="d73132e9-189b-4320-a872-d701813b235c">
-      <Text>It so fun talkin’ to thin air!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="473dc14c-b5f2-42d1-a0e7-4ac47ea661c5">
-      <Text Style="Bold+AllCaps">Montage - Five Years Later</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="e1d326e7-0cb3-4a21-8059-8af66c620b31">
-      <Text Style="Bold">2002</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="969f8d5c-219f-40f9-830c-e2af0c7a9861">
-      <Text>Rain hits the window. Ray (5) sits in the dark, out of her costume. She glances at the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="48eaf312-bbf0-4a23-8101-4970eb226c48">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6f3e4bcf-5500-4f67-8b1f-1d4627626d10">
-      <Text>It can also be lonely...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="55642856-8176-4534-ae0b-d81950873090">
-      <Text>On the TV, Clay and Stardust drift in a black hole.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="46af8ae9-1b03-4fb1-8e5b-ea06088046d1">
-      <Text>Stardust</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="bd2e39da-4499-44bf-ae34-411d5a0db280">
-      <Text>Twinkle, twinkle, twinkle!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="e7942eea-d7fb-4829-b249-355e53a56913">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ede10c2c-76d6-40c4-a8f6-3bfddd873595">
-      <Text>Don't be scared! The darker it is, the more glitter we can see!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7154dbc1-a968-4bed-a576-6f1be0f4d5dd">
-      <Text>Reassured, Ray pulls her glittery rocket costume back on.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="621c49a0-f242-44ab-8b5c-cc9350182e30">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a7198d91-4695-4207-afc9-1ca5a549ec0f">
-      <Text>You are not alone!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="11c4f04b-164d-4ac5-9fe9-3af43f2ecd97">
-      <Text Style="Bold">2003</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="693045a6-1dee-4aac-987c-df18374906e5">
-      <Text>Ray’s baby brother, </Text>
-      <Text Style="AllCaps">Kwan</Text>
-      <Text>, crawls towards the TV screen. Ray (6) sits him down and crowns him an astronaut helmet.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7e40c4d9-273d-43de-8aed-947da7315a9a">
-      <Text>On the TV, Clay shows Stardust how to moonwalk. In the room, Ray helps Kwan take his first steps. He falls face first.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="f250beb9-7fdd-4eb5-ae7a-99d45da85804">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="35dcdb54-86b3-4f1a-977a-020c0cf42510">
-      <Text>Gravity is when the world gives us a hug!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="bca6afec-b262-47ba-ba63-28a822cd768f">
-      <Text Style="Bold">2004</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c69df17c-25d1-4dfd-96fd-2c6061d1eceb">
-      <Text>On the TV, Clay and Stardust sled across an icy comet. They pull out smoothies.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ec74fc00-1741-4910-9646-127d7834a4fa">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="af464c30-ff8e-4c5f-9834-3e0b814dadaf">
-      <Text>It’s not just a rock, stardusters. We’re sledding on a smoothie comet! Made of water, ice, </Text>
-      <Text Style="Italic">dust</Text>
-      <Text>, and sugar-</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="a534d806-ace4-41da-b6b7-0d7aaceda9ee">
-      <Text>Ray (7) and Kwan (2) share a smoothie before wincing hard.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="88a172b8-f536-4e0a-8685-2044d04e3824">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="1377fe92-b8a2-40e2-9fba-462e3177195a">
-          <Text>Clay &amp; Ray &amp; Kwan</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="052a6507-bb2b-42d7-bffc-6ad1097e3f46">
-          <Text>Brain freeze!</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="491d5351-e082-4a7f-92fc-ecd3520e4aa1">
-          <Text>Stardust</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="ca90dfb4-5ca5-42cc-b94b-d6f929e537a0">
-          <Text>Twinkle, twinkle, twinkle!</Text>
-        </Paragraph>
-      </DualDialogue>
-    </Paragraph>
-    <Paragraph Type="Action" id="105744d0-1caf-4649-891e-6445cc5e6419">
-      <Text Style="Bold">2005</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="99626ded-4fed-47b8-9767-9213a3c8606a">
-      <Text>Ray (8) performs a sock puppet show for Kwan (3) using puppets she made to look like Clay and Stardust. In the background, the real show plays on the TV.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ace7d802-c516-4728-8bf2-283673d81746">
-      <Text>ClAY (o.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a2c5e6f5-80e7-44f0-bd2b-99eed0f554fc">
-      <Text>What keeps our feet warm?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a3671417-0ea8-4585-b997-05f80d7cac52">
-      <Text>Kwan &amp; Kids (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="edc760da-a434-42ce-b985-e98168e9550c">
-      <Text>Socks!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="eafe5333-24af-47b9-b34b-762c1a9b6005">
-      <Text>Clay (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3b5a1396-c024-463d-9220-9ad25cef1038">
-      <Text>Gloves?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="acddfaad-a829-4055-8b8a-b9bca8d45b6f">
-      <Text>Kwan &amp; Kids (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="16e9f1ee-47e4-401a-b80b-f975208bfe5a">
-      <Text>Socks! Socks! Socks!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cd8b822d-f601-4e15-a073-decaf7ea56ef">
-      <Text>ClAY (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="efca0572-259c-46f6-93dd-fe32ba4f6b34">
-      <Text>We’ve been on rocky planets, but have we ever visited a socky one?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="88757235-aaee-4575-b201-71f20f9779fe">
-      <Text>StarDUST (O.S.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="54270937-3580-4631-be6c-49da85570a20">
-      <Text>Twinkle, twinkle, twinkle!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="ba39c6a6-c3da-4535-8be2-67a9dd0ced96">
-      <Text>Ray takes a bow for her brother. Ray clocks the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="bcaa8ec8-db86-4fe9-b6c0-ed0fb336c967">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a3b554f8-cfd3-4c36-bc5f-18cbed70ddeb">
-      <Text>Thanks for being my captive audience. You did me a solid, bruh.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="1558a59b-b7a8-4510-9586-13b65b85204f">
-      <SceneProperties Length="1 4/8" Page="4" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="CLAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="KIDS">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="KIDS &amp; KWAN">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="KWAN">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STARDUST">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Reyes Living Room - Day (2006)</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="029619e5-77c7-4c12-933a-246589e1b67c">
-      <Text>Ray (9) has passed her cardboard rocket down to Kwan (4). She sits on the sofa behind him, focused on her rehearsal booklet for </Text>
-      <Text Style="Italic">A Christmas Carol</Text>
-      <Text>, scribbling notes.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="08dd4788-a66d-441d-b997-9c90e6e2a594">
-      <Text>On the TV, Clay (29) and Stardust sit on a tinfoil moon. Clay offers a bittersweet smile to the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="9b6ecd6e-8695-4f00-82bf-6963ff445781">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="4452a36f-5db0-4f1c-9332-174f7f9c434e">
-      <Text>When liquid becomes a gas, it doesn't go away. It just spreads out. It goes everywhere, like I am.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cca28aaf-e751-4c96-910b-a68e9d704185">
-      <Text>Stardust</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="eede606f-eb13-42d8-977d-349411e81858">
-      <Text>Twinkle, twinkle, twinkle...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="f7106e8c-d401-4c33-9476-ec6980dd7b21">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="70713475-f2c1-4cb1-9502-46180b26eef8">
-      <Text>‘specially behind the stars...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="46ae151a-252d-46c8-abca-f9ece2c87e38">
-      <Text>Kids (V.O.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3a46ccb1-e22c-477f-8209-d2f85583156b">
-      <Text>Aww...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="425df47e-56eb-4ae7-bcab-835a9086cc10">
-      <Text>Ray looks up, annoyed that Kwan is blocking her view.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="90df1eb4-15f5-4926-9bbb-dbf13e2229cd">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="abc99818-0e7a-4cdd-bad6-2a825b061240">
-      <Text>Bruh. You wanna go blind?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="7a3c00a5-1303-4d2d-95a6-d38e96f683ba">
-      <Text>Kwan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2a7ee6c2-47b6-43d9-89ec-bba1fd509465">
-      <Text>Like you’ll be, Tiny Trini?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="db27cda8-18ec-46b6-830f-455720672db4">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6bb0cd99-2e48-426b-940e-6a903a61d20c">
-      <Text Style="Italic">Tiny Tim</Text>
-      <Text> isn’t blind... Kwan, sit further away from the TV.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="01212214-c653-422d-86de-ada48b2b8e2b">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="f330da80-a1c8-484c-ac8f-d7680913432e">
-      <Text>It’s time to say goodbye...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="71f3ee54-f6ef-415d-8335-b2deecf8f532">
-      <Text>KWAN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0506f4f5-4c9f-4da8-a2ca-5191817b6f00">
-      <Text>Clay is saying goodbye...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="f09071d5-19dc-45ce-ba3e-37ab262a477a">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3ba354e2-3b20-447f-a797-f4f08e6238e8">
-      <Text>Then say it back, Kwan.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="d607c104-be1f-47d4-a5b5-f06832f64bc7">
-      <Text>Kids &amp; Kwan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="bfd5b90e-7288-4335-beef-5d6296cfe274">
-      <Text>Goodbye...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="06742e5a-b2f7-4513-9d75-b6e8eb034910">
-      <Text>The whimsical music fades into a single, lonely note.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="0cc02f09-57e1-4c9f-badf-ff99a55192ef">
-      <Text>CLAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="d4b58cf0-7936-46db-a41a-098c66f2cc31">
-      <Text>I must go home now. But you? You’re already home. Keep looking up because stars are us...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="be2969ca-3261-401a-afb9-63d719d2787e">
-      <Text>Clay boards Rocket. The ship blasts off into the cosmos. Stardust pulses with a final spark and vanishes.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="8d23f68b-c7d7-4dcf-9bb8-61142c2059a5">
-      <Text>The screen fades to black. The text appears: “Clay Goes Home.” A final production still of the team and studio follows: “Thank you for 7 years of </Text>
-      <Text Style="Italic">Stardust Stuff</Text>
-      <Text>.”</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="9c92b40e-fdde-4527-98ab-2f80d5ff57bd">
-      <Text>Ray drops her pen, finally giving the TV</Text>
-      <Text Size="10"> </Text>
-      <Text>her</Text>
-      <Text Size="10"> </Text>
-      <Text>full</Text>
-      <Text Size="10"> </Text>
-      <Text>attention.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c7a5d551-16e2-49aa-95d9-5178a53e654e">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="84c32215-8252-4b01-aad1-1b7e505884f9">
-      <Text>Wuh-No “See ya later, stardusters?”</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="ab0e784a-e211-4428-866f-aeb5417346ac">
-      <Text>Ray joins Kwan at the TV. A reflection of two small kids stare back in the glass. She looks down at her pen.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="8040202a-a476-4a83-a2be-88ac2b841c85">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="b325a6d1-31cf-4249-ad07-741ebbf3a253">
-          <Text>Kwan</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="7f75a458-cf9d-4aec-ba25-500ecf225665">
-          <Text>Goodbye Clay...</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="55a9980a-5f0b-4170-829f-e7ff88d1830f">
-          <Text>RAY</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="4e4f110f-4dde-41fb-b5e6-798a9e036528">
-          <Text>Hello Ray...</Text>
-        </Paragraph>
-      </DualDialogue>
-    </Paragraph>
-    <Paragraph Type="Action" id="39a9027c-28de-4bd6-8a62-7480d117dd9d">
-      <Text>With sudden purpose, she opens the checkout card inside her booklet and crosses out “Trini Reyes.” In its place, she writes </Text>
-      <Text Style="AllCaps">Ray</Text>
-      <Text> in bold letters. She holds it up to the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Transition" id="952f419d-0561-4a75-b97b-b0e347eda6f8">
-      <Text>Match cut to:</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="4f702085-15ca-4569-92c3-050b42f17b3e">
-      <SceneProperties Length="4/8" Page="6" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STAGE MANAGER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Theatre Backstage - Night (2025)</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7d5f8cc6-9fc7-4b38-b205-97a239d48a4b">
-      <Text>A </Text>
-      <Text Style="AllCaps">clipboard</Text>
-      <Text> displays the cast list for </Text>
-      <Text Style="Italic">Cat Scouts Live 2025</Text>
-      <Text>. A pen slides down to Trini “Ray” Reyes and checks</Text>
-      <Text Size="10"> </Text>
-      <Text>a</Text>
-      <Text Size="10"> </Text>
-      <Text>box:</Text>
-      <Text Size="10"> </Text>
-      <Text Style="AllCaps">late</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="87c04828-07db-4314-a802-a0638c8ce150">
-      <Text>Ray (29) bursts in, breathless and disheveled.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ab6af4ed-8bab-433c-b3d1-75ef4166c40b">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="cd8bb3fb-393a-446f-bde9-78baa2ad390d">
-      <Text>Sorry, sorry, sorry!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="40ef861f-a352-49e8-a52b-e1723ec274f7">
-      <Text>Stage Manager</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6cc3c510-22d2-4e02-a336-0eab6df1f039">
-      <Text>Sorry won’t cut it, even if we’re touring Canada. Try not to lose your head, okay?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="dedd024e-8301-434d-9b36-b3c82d35a9e3">
-      <Text Style="Bold+Underline+AllCaps">Ray talking head</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b17efa04-eee4-42c7-8c3a-67d143150999">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="cbbe52b0-e64b-4ff8-9f89-7ddec186ae27">
-      <Text>I’ve lost my mind the moment I took my first steps on a theatre stage. What I had to gain was my heart... </Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="530f2e93-1552-4378-9fc1-77c9c72b382d">
-      <SceneProperties Length="4/8" Page="6" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PUPPETEER">
+          <CharacterArcBeat Name="AURORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="RAY">
@@ -693,187 +20,111 @@ I wonder if we’ll call it home?</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Puppet Room - MoMENTS LATER</Text>
+      <Text Style="Bold+AllCaps">Int. Ray’s Bedroom - Morning</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="3fca83ce-7a0d-457f-a9bf-04bccb222330">
-      <Text>A </Text>
-      <Text Style="AllCaps">cat scout puppet</Text>
-      <Text> sits on a workbench with its head severed from its uniformed body. Ray stares at it, devastated.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="dc7ae7b2-de63-46ee-8eaf-efbcca07cf85">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a6d5d42e-dcac-4ce9-bb97-6ffbce84f6c5">
-      <Text>...and a rough life...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="1a1e7a26-a322-4e0f-a769-741375d98aa6">
-      <Text>A </Text>
-      <Text Style="AllCaps">puppeteer</Text>
-      <Text> in a “Cat Scouts” hoodie inspects the damaged foam, turning it over before shrugging.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="10fed7cf-5a4b-43b7-ad79-119fc2e0a112">
-      <Text>Puppeteer</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="427a6dbe-41fe-4e37-99eb-6714dac1a66e">
-      <Text>Ruff? More like </Text>
-      <Text Style="Italic">meow</Text>
-      <Text>. Don’t ya worry. Ya got eight lives to spare.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="23f7285b-6a97-4828-82a9-832b3a9b9934">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="d6df7e33-c086-468e-ab78-d36c868fec25">
-      <Text>We got replacements?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a900cc24-1744-4614-b304-87b0bca4811a">
-      <Text>PuPPETEER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="5f9d5fac-53c2-43e0-bd64-99ea1d4aa725">
-      <Text>This is a touring production. There ain’t a budget for replacements.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c51ac47d-11f5-4736-8b97-66bf2518aa3f">
-      <Text>The puppeteer grabs a bottle of glue that reads: </Text>
-      <Text Style="AllCaps">flammable</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="86da0d4c-8d37-418e-a621-cfff83080134">
-      <SceneProperties Length="1 4/8" Page="7" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PERFORMER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="PRODUCER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STAGE MANAGER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Theatre Stage - Later</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="7bfb842a-1fb5-4597-a0bb-5a2809a385e1">
-      <Text>Tech rehearsal is a mess. The harsh lights expose the plywood of a half-finished forest set.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="5e8f6238-cd9d-4781-b759-1e72525ce14b">
-      <Text>Ray stands with the other </Text>
-      <Text Style="AllCaps">puppeteers</Text>
-      <Text>, dressed in a black stage suit. She holds her cat scout; the head is glued back on, but it looks more like a trauma patient than a scout.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b146a400-2afc-4672-bed3-2fc9d990e2af">
-      <Text>Stage Manager</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="31318360-09cf-406e-a909-ba4f304398e2">
-      <Text>Final tech run before doors. From the top of the “Meow-tain” song. Ray, keep that head steady.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="b7015c32-1607-41cb-819a-7eddd4f21aba">
-      <Text>Upbeat music track blares. Ray clumsily dances. As she twirls, centrifugal force pulls at the fresh glue.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2a97ef95-c7d9-40a8-8379-c1beaba9f0bb">
-      <Text Style="AllCaps">Creak</Text>
-      <Text>. The glue snaps. Ray lunges for the head, but it's too late as it launches across the stage, landing on a spotlight.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="5ab51c09-b4ea-4db3-9b3e-69768a91120a">
-      <Text Style="AllCaps">Hiss</Text>
+    <Paragraph Type="Action" id="45e35927-67a8-44f1-89aa-0b99dad99afc">
+      <Text Style="AllCaps">Beep</Text>
       <Text>. </Text>
-      <Text Style="AllCaps">Sparks</Text>
-      <Text>. The head transforms into a fireball. It rolls into the Colonel Calico puppet, which also goes up in flames.</Text>
+      <Text Style="AllCaps">Beep</Text>
+      <Text>. The alarm goes off then suddenly catches on fire.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="9fd7bef9-fffd-4060-860c-0307e2bb2d68">
-      <Text>Performer</Text>
+    <Paragraph Type="Action" id="2c53605e-a7aa-4a99-a850-7203539a8b8c">
+      <Text>Ray jumps out of bed and puts the fire out with a towel.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="7857d215-5978-45ad-8eb5-2a5a08f69590">
-      <Text>Fire! Colonel Calico is a fireball!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="e5290208-ec93-4eaa-9888-5c76fb56325e">
-      <Text>Ray grabs a fire extinguisher, shaking it with theatrics.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cc4ca3f8-d881-41c5-9923-76b9ebeda78e">
+    <Paragraph Type="Character" id="6e5bcbcf-47af-46be-a722-bde9c66c92da">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="5c478f38-d748-468e-a9b3-ca222d3ab138">
-      <Text>This is when the Cat Scouts become the Cat Firefighters!</Text>
+    <Paragraph Type="Dialogue" id="2738ef4f-ee53-4b36-b099-168ae5f61d4c">
+      <Text>Why do bad things keep happening to me?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="53a82609-9ccd-4e88-9534-bea0fbfbe97a">
-      <Text>She blasts the calico puppet, but the pressure sends its flaming head flying into a puppet rack, engulfing everything.</Text>
+    <Paragraph Type="Action" id="2c91bf10-7d06-4be5-bf0f-9a379b361699">
+      <Text>Aurora swiftly rises from the opposite side of the bed.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="defcdc42-a9a4-4dda-ad31-36d274e83ef6">
-      <Text>Performer</Text>
+    <Paragraph Type="Character" id="aa28a90e-bf99-4d52-b018-04084efdf17a">
+      <Text>AurorA</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="bedc986c-4fab-4d81-9ba7-92ae8ba7e773">
-      <Text>Please, not Sergeant Siamese!</Text>
+    <Paragraph Type="Dialogue" id="415f7adc-a591-4a57-aff8-71b9f0e76e2e">
+      <Text>Could it be because you keep making bad choices, Ray?</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="2ed0b007-171c-499a-bcaf-d1870500da58">
+    <Paragraph Type="Action" id="7fc19cb1-0842-43b4-8ec7-a0e4006aee53">
+      <Text>Ray points to the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0a873b4-fd1b-4c40-8ecf-d0813f9671e6">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="16fff356-69ef-4e25-bbc9-c3fe75fb6d20">
-      <Text>The Siamese cats always rubbed me the wrong way...</Text>
+    <Paragraph Type="Dialogue" id="752c5e17-1b3f-4e3f-9eef-99c9a087cb97">
+      <Text>They keep telling me to make bad choices.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="2855296c-24c9-4a1a-b846-da780896e135">
-      <Text>The fire reaches the curtains, tripping a sensor. Sprinklers roar to life, slamming the stage with water. In seconds, the fire is out, but the puppets are floating charred lumps.</Text>
+    <Paragraph Type="Character" id="917d6ab5-0f55-4c50-b192-591c7a7413b3">
+      <Text>AuRORA</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="93bea314-f11b-472e-b33c-b202453e9ab3">
-      <Text>Drenched and holding her decapitated puppet, Ray looks up at the stage manager, who now holds an umbrella.</Text>
+    <Paragraph Type="Parenthetical" id="f9208767-0121-447f-8809-7a3442691625">
+      <Text>(to camera)</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="8f13173c-4d22-4872-a8f4-8f318467f437">
+    <Paragraph Type="Dialogue" id="ce9a4bd5-6221-478c-8e33-99c2062dcf5f">
+      <Text>Are you telling my bestie Ray to be a baddie? No? Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e1cd9afe-89ef-474a-90bb-a7904a51b108">
+      <Text>(to Ray)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cf3b4cb-8a23-4f89-97e1-cab2aa395f2b">
+      <Text>They said “no.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="70cee225-7cc0-4f9e-b9c1-4d0604dc3e4b">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="29ddeab4-44ff-4aad-a416-13d781db8a86">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c5640ea2-9b8f-4a68-9983-31619a2b922c">
+      <Text>Thanks for nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="943c359d-347d-4852-805d-b8a9901423f8">
+      <Text>AuroRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bae0a54b-251d-4e3c-bf41-7e17af9a7ee9">
+      <Text>Shall we sing about your troubles, Ray?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0890adc-1f16-496a-b5cf-18bac1e2b827">
       <Text>RAY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="a8e51c7c-bc74-45a7-9c4a-779f0b2f679c">
-      <Text>Look on the bright side: fire’s out-</Text>
+    <Paragraph Type="Dialogue" id="aee443f2-c6e6-42ca-82a3-9aa153c0b5e9">
+      <Text>No, no! Anything but singing.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="072b38ed-bf71-4d9c-a79a-6ab177d970e1">
-      <Text>The music cuts out as the </Text>
-      <Text Style="AllCaps">producer</Text>
-      <Text> joins the stage manager.</Text>
+    <Paragraph Type="Character" id="3636e0fe-2df1-4804-b638-0814a5fe859e">
+      <Text>AuroRA</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="89e588a0-a204-419d-b94b-d32fb1ab635c">
-      <Text>STAGE MANAGER</Text>
+    <Paragraph Type="Dialogue" id="9bfeb106-c37f-49ee-90ae-16ea6943a837">
+      <Text Style="AllCaps">When you choose to be a liar
+Don’t be sad when...</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="fc9d0bc4-30dc-47d5-92ad-fef65993362f">
-      <Text>Only you. Only you could kill nine lives in </Text>
-      <Text Style="Italic">one fell swoop</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b96794d0-e840-4aa1-9774-e23887baf6eb">
+    <Paragraph Type="Character" id="b2123005-bb94-4e39-9924-acec9dcb51d3">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="e06a2c9a-ed56-429b-9a26-ec39ac0a569f">
-      <Text>I see you quoting </Text>
-      <Text Style="Italic">Macbeth</Text>
+    <Paragraph Type="Parenthetical" id="b82b1c45-6ccb-4082-9c2d-85f2c40703f5">
+      <Text>(Weeping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ab01259-e077-41bf-8330-447ee95353eb">
       <Text>...</Text>
+      <Text Style="AllCaps">my world’s on fire?</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="0a2bd3eb-6889-419b-a9d6-2d262af43775">
-      <Text>ProdUCER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="1b9b7909-d19c-44cc-a8b9-3476547d6ba6">
-      <Text>We may not budget for replacement puppets. But you are the exception.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="5308addc-e643-4821-a1de-f6de3c6cb571">
-      <Text>StagE MANAGER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="27d07d32-5b56-473a-9815-e835d187ac24">
-      <Text>We should’ve hired Aurora, not Ray-</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="7d79b908-4678-4162-a6fb-0bcf4f4d7f9d">
-      <Text>ProDUCER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="43d7a33a-b4bc-4e13-9507-111ee49fb41d">
-      <Text>Trini Reyes, for such a fire, you are-</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="5de28f1d-4ee9-48f7-b031-600a33244305">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6e0f1441-aab4-462f-b67e-64aad5bc2816">
-      <Text>Recycled?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="0cf1188e-befe-4242-9743-51523eda437d">
-      <Text>Ray gives a worried look to the camera.</Text>
+    <Paragraph Type="Action" id="eb914b65-a0af-42d8-bbe2-188840c52dca">
+      <Text>The towel bursts into flames, freaking everyone out.</Text>
     </Paragraph>
     <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="8320508a-6b7a-43cd-9457-386c90d1a8a4">
       <Text>End of Cold Open</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="d9340055-1005-4162-b2a6-918f13f98811">
+      <Text>ACT One</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="1286bf32-2b44-4d34-8973-8cc191be2440">
+      <Text>ACT Two</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="b7c6ee44-5798-4ecc-86ab-6793048983af">
+      <Text>ACT Three</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="37f69dc4-e38e-44c3-813e-15b5b4a99753">
+      <Text>Tag</Text>
     </Paragraph>
   </Content>
 
@@ -891,7 +142,7 @@ I wonder if we’ll call it home?</Text>
     <Header>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Solid, Liquid, and Gas</Text>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">   Pilot: "Prima Materia"  </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">     "Team Player"     </Text>
         <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
         <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
@@ -919,7 +170,7 @@ I wonder if we’ll call it home?</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="554" Left="0" Mode="Normal" Top="0" Width="1364"/>
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
   <TextState Scaling="90" Selection="0,0" ShowInvisibles="No"/>
 
@@ -1079,7 +330,7 @@ I wonder if we’ll call it home?</Text>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pilot: "Prima Materia"</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Episode 3: "Team Player"</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1116,7 +367,7 @@ I wonder if we’ll call it home?</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2/22/2026</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3/30/2026</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
@@ -1138,7 +389,7 @@ I wonder if we’ll call it home?</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Logline</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In a last-ditch effort to reinvent herself, a struggling educator tries to secure a role in an educational television series that defined many childhoods, only to face the misinformed public and shadow of the original host.</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In a last-ditch effort to reinvent herself, a struggling educator must win the host role in the beloved children’s tv series, only to face the original host’s legacy and a public resistant to inclusivity.</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1146,9 +397,9 @@ I wonder if we’ll call it home?</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ray, a struggling educator who finds out her childhood show, </Text>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Stardust Stuff</Text>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, is being revived without its original host, leads her on a quest to secure a role for herself.</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Despite Ms. Aurora getting the host position, the public demands Ray's involvement. Skye convinces River to hire Ray as a writer’s assistant as a consolation prize. Overnight, she writes a phenomenal pilot script for Aurora and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">StarPower</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, trying to prove she can be a team player. But River rejects Ray’s draft and goes with her own. They begin shooting the pilot for the test audience.</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1156,27 +407,12 @@ I wonder if we’ll call it home?</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Plot Summary</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In 2001, four-year-old Trini “Ray” Reyes is a fan of Stardust Stuff, an educational show hosted by the energetic Clay. Over the following years, Ray uses the show’s lessons to help her younger brother, Kwan, cope with difficult childhood events, such as a tornado and their parents' foreclosure.</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Despite Ms. Aurora getting the host position, the public demands Ray's involvement. Skye convinces River to hire Ray as a writer’s assistant as a consolation prize. Overnight, she writes a phenomenal pilot script for Aurora and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">StarPower</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, trying to prove she can be a team player. But River rejects Ray’s draft and goes with her own. They begin shooting the pilot for the test audience.</Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">By 2025, Ray’s theatre career ends in disaster upon triggering a fire that destroys a production’s puppet cast. Blacklisted and facing eviction, she is moved by a recent viral video from Clay, returning to encourage former viewers to keep looking up.</Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Seeking a fresh start, Ray visits Kwan at Michigan State University, where she learns that the show's creator, River Matthews, is appearing at an arts fair. There, Ray attempts to pitch herself as a collaborator, but River dismisses her.</Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ray soon meets the show’s co-creator, Skye Park, who invites her to dinner with River. Ray gifts them a vintage walkie-talkie from the show, only to secretly record their conversation where Ray discovers a revival has been greenlit. But the creators plan to bypass auditions and hire Ray’s polished rival, Ms. Aurora.</Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Determined to save her dream, Ray tracks Clay down at his messy New York apartment. She finds him disillusioned; he insists the show’s magic was nothing. However, after witnessing anti-science protestors in the street, Ray realizes the world needs the show’s sense of wonder more than ever. In an act of defiance, she films her own audition on the sidewalk and frames herself with the sleeping Clay by the window, ready to explore and bring back the magic of science education.</Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </Content>
-    <TextState Scaling="100" Selection="128,128" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="42,53" ShowInvisibles="No"/>
   </TitlePage>
 
   <SmartType>
@@ -1185,57 +421,62 @@ I wonder if we’ll call it home?</Text>
       <Character>AarDVARKs</Character>
       <Character>Amami Rabbits</Character>
       <Character>ATV</Character>
+      <Character>Audience</Character>
+      <Character>Auroa</Character>
+      <Character>Aurora</Character>
       <Character>Baker G</Character>
+      <Character>Cashier</Character>
       <Character>Clay</Character>
       <Character>Clay &amp; Ray</Character>
+      <Character>Clay &amp; Trini</Character>
+      <Character>Clay &amp; Trini &amp; Kwan</Character>
       <Character>Crowd</Character>
       <Character>Cát</Character>
-      <Character>Dino</Character>
+      <Character>Director</Character>
       <Character>Dàn Xuân Thanh</Character>
       <Character>guard</Character>
+      <Character>Handler</Character>
       <Character>Horseshoe Crabs</Character>
       <Character>Host</Character>
       <Character>Kid</Character>
       <Character>Kids</Character>
       <Character>Kooky</Character>
+      <Character>Kwa</Character>
+      <Character>Kwan</Character>
+      <Character>Kwan &amp; Kids</Character>
+      <Character>Manager</Character>
       <Character>MOrgan</Character>
+      <Character>Nigel</Character>
       <Character>Nurse</Character>
       <Character>Officer</Character>
+      <Character>Performer</Character>
       <Character>Phone</Character>
       <Character>Producer</Character>
+      <Character>Puppeteer</Character>
       <Character>Ray</Character>
+      <Character>Ray &amp; Clay</Character>
+      <Character>Ray &amp; Kwan</Character>
       <Character>Reporter</Character>
       <Character>Researcher 1</Character>
       <Character>Researcher 2</Character>
+      <Character>Ri</Character>
+      <Character>River</Character>
+      <Character>Rocket</Character>
       <Character>Sall</Character>
       <Character>Sall &amp; Cát</Character>
       <Character>Sall &amp; CÁT
 </Character>
       <Character>Savanna</Character>
-      <Character>Waiter</Character>
-      <Character>Young Sall</Character>
-      <Character>Stardust</Character>
-      <Character>Stage Manager</Character>
-      <Character>Puppeteer</Character>
-      <Character>Performer</Character>
-      <Character>Kwa</Character>
-      <Character>Kwan</Character>
-      <Character>Rocket</Character>
-      <Character>Handler</Character>
       <Character>Skye</Character>
-      <Character>Ri</Character>
-      <Character>River</Character>
-      <Character>Ray &amp; Kwan</Character>
-      <Character>Aurora</Character>
-      <Character>Auroa</Character>
-      <Character>Ray &amp; Clay</Character>
-      <Character>Nigel</Character>
+      <Character>Stage Manager</Character>
+      <Character>Stardust</Character>
+      <Character>Tootles Thespian</Character>
       <Character>Trini</Character>
-      <Character>Clay &amp; Trini</Character>
       <Character>Trini &amp; Kids</Character>
-      <Character>Clay &amp; Trini &amp; Kwan</Character>
-      <Character>Kwan &amp; Kids</Character>
-      <Character>Audience</Character>
+      <Character>Waiter</Character>
+      <Character>Wendy Thespian</Character>
+      <Character>Young Sall</Character>
+      <Character>Parent</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -1244,6 +485,7 @@ I wonder if we’ll call it home?</Text>
       <Extension>(SUBTITLE)</Extension>
       <Extension>(TEXT)</Extension>
       <Extension>(Phone)</Extension>
+      <Extension>(Pre-lap)</Extension>
     </Extensions>
     <SceneIntros Separator=". ">
       <SceneIntro>INT</SceneIntro>
@@ -1344,6 +586,15 @@ I wonder if we’ll call it home?</Text>
       <Location>MINIVERSE</Location>
       <Location>AURORA'S HOME</Location>
       <Location>MSU UNION</Location>
+      <Location>THEATER CAMP</Location>
+      <Location>THEATER CAMP STAGE</Location>
+      <Location>BLACK.</Location>
+      <Location>KWAN'S CAR</Location>
+      <Location>VIETNAMESE RESTAURANT</Location>
+      <Location>MAC AND CHEESE NETWORK STUDIO</Location>
+      <Location>NEW YORK SUBWAY TRAIN</Location>
+      <Location>THEATER CAMP AMPHITHEATER</Location>
+      <Location>PLAZA</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -1377,6 +628,7 @@ I wonder if we’ll call it home?</Text>
       <TimeOfDay>MORNING (WEEKS LATER)</TimeOfDay>
       <TimeOfDay>DAY (2006)</TimeOfDay>
       <TimeOfDay>NIGHT (FLASHBACK)</TimeOfDay>
+      <TimeOfDay>DAY (SUMMER 2014)</TimeOfDay>
     </TimesOfDay>
     <Transitions>
       <Transition>CUT TO:</Transition>
@@ -1407,7 +659,7 @@ I wonder if we’ll call it home?</Text>
   <LockedPages/>
 
   <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
-    <Revision FullRevision="No" ID="1" Mark="*" Name="2/22/26" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="1" Mark="*" Name="3/30/26" PageColor="#C6C6EDEDFEFE" Style=""/>
     <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
     <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
     <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
@@ -1428,9 +680,9 @@ I wonder if we’ll call it home?</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1340">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="625">
     <ScriptPanel DisplayMode="Page">
-      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
   </SplitState>
 
@@ -1699,56 +951,61 @@ I wonder if we’ll call it home?</Text>
     <Member Actor="" Character="AarDVARKs"/>
     <Member Actor="" Character="Amami Rabbits"/>
     <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Audience"/>
+    <Member Actor="" Character="Auroa"/>
+    <Member Actor="" Character="Aurora"/>
     <Member Actor="" Character="Baker G"/>
+    <Member Actor="" Character="Cashier"/>
     <Member Actor="" Character="Clay"/>
     <Member Actor="" Character="Clay &amp; Ray"/>
+    <Member Actor="" Character="Clay &amp; Trini"/>
+    <Member Actor="" Character="Clay &amp; Trini &amp; Kwan"/>
     <Member Actor="" Character="Crowd"/>
     <Member Actor="" Character="Cát"/>
-    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Director"/>
     <Member Actor="" Character="Dàn Xuân Thanh"/>
     <Member Actor="" Character="guard"/>
+    <Member Actor="" Character="Handler"/>
     <Member Actor="" Character="Horseshoe Crabs"/>
     <Member Actor="" Character="Host"/>
     <Member Actor="" Character="Kid"/>
     <Member Actor="" Character="Kids"/>
     <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Kwa"/>
+    <Member Actor="" Character="Kwan"/>
+    <Member Actor="" Character="Kwan &amp; Kids"/>
+    <Member Actor="" Character="Manager"/>
     <Member Actor="" Character="MOrgan"/>
+    <Member Actor="" Character="Nigel"/>
     <Member Actor="" Character="Nurse"/>
     <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Performer"/>
     <Member Actor="" Character="Phone"/>
     <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Puppeteer"/>
     <Member Actor="" Character="Ray"/>
+    <Member Actor="" Character="Ray &amp; Clay"/>
+    <Member Actor="" Character="Ray &amp; Kwan"/>
     <Member Actor="" Character="Reporter"/>
     <Member Actor="" Character="Researcher 1"/>
     <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Ri"/>
+    <Member Actor="" Character="River"/>
+    <Member Actor="" Character="Rocket"/>
     <Member Actor="" Character="Sall"/>
     <Member Actor="" Character="Sall &amp; Cát"/>
     <Member Actor="" Character="Sall &amp; CÁT&#xA;"/>
     <Member Actor="" Character="Savanna"/>
-    <Member Actor="" Character="Waiter"/>
-    <Member Actor="" Character="Young Sall"/>
-    <Member Actor="" Character="Stardust"/>
-    <Member Actor="" Character="Stage Manager"/>
-    <Member Actor="" Character="Puppeteer"/>
-    <Member Actor="" Character="Performer"/>
-    <Member Actor="" Character="Kwa"/>
-    <Member Actor="" Character="Kwan"/>
-    <Member Actor="" Character="Rocket"/>
-    <Member Actor="" Character="Handler"/>
     <Member Actor="" Character="Skye"/>
-    <Member Actor="" Character="Ri"/>
-    <Member Actor="" Character="River"/>
-    <Member Actor="" Character="Ray &amp; Kwan"/>
-    <Member Actor="" Character="Aurora"/>
-    <Member Actor="" Character="Auroa"/>
-    <Member Actor="" Character="Ray &amp; Clay"/>
-    <Member Actor="" Character="Nigel"/>
+    <Member Actor="" Character="Stage Manager"/>
+    <Member Actor="" Character="Stardust"/>
+    <Member Actor="" Character="Tootles Thespian"/>
     <Member Actor="" Character="Trini"/>
-    <Member Actor="" Character="Clay &amp; Trini"/>
     <Member Actor="" Character="Trini &amp; Kids"/>
-    <Member Actor="" Character="Clay &amp; Trini &amp; Kwan"/>
-    <Member Actor="" Character="Kwan &amp; Kids"/>
-    <Member Actor="" Character="Audience"/>
+    <Member Actor="" Character="Waiter"/>
+    <Member Actor="" Character="Wendy Thespian"/>
+    <Member Actor="" Character="Young Sall"/>
+    <Member Actor="" Character="Parent"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -1760,20 +1017,8 @@ I wonder if we’ll call it home?</Text>
   </CastList>
 
   <CharacterHighlighting>
-    <Character Color="#RRRRGGGGBBBB" Name="CLAY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY &amp; KWAN" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="KIDS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="KIDS &amp; KWAN" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="KWAN" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="KWAN &amp; KIDS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PERFORMER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PRODUCER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PUPPETEER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AURORA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RAY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="ROCKET" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="STAGE MANAGER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="STARDUST" Visible="No"/>
   </CharacterHighlighting>
 
   <ScriptNavigatorPreferences>
