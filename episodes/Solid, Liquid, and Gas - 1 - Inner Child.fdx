@@ -57,11 +57,8 @@
     <Paragraph Type="Character" id="c68e5431-9051-4285-8437-7e5009cbbe94">
       <Text>Stardust</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="270a7ad3-49a1-4246-8068-21ae246ebaec">
-      <Text>(Through yelps and whines)</Text>
-    </Paragraph>
     <Paragraph Type="Dialogue" id="af782bb0-7bd6-4705-b26b-fb6a7ea6d1f5">
-      <Text>Twinkle, twinkle, twinkle.</Text>
+      <Text>Twinkle, twinkle, twinkle!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="fbf10ab5-16ce-4999-9bf6-bbeb3956e437">
       <Text>Unseen </Text>
@@ -107,7 +104,7 @@
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="0a48a32b-7286-4758-b434-a9918d9bbf6c">
-      <Text>The camera follows Stardust as she dives through the window. Inside, the ship is filled with charming cardboard controls. Clay searches the cabin.</Text>
+      <Text>The camera follows Stardust as she dives through the window. Inside, the ship is filled with charming cardboard controls.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c24b2bc2-647e-4a6c-8b50-feb30797a913">
       <Text>ClAY</Text>
@@ -116,7 +113,7 @@
       <Text>Hi! We're so glad you're here! We’re almost ready to land. Stardust? Stardust?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="edc1f33b-684c-4d29-ba4a-a3312d19cc73">
-      <Text>Stardust giggles and ducks underneath a nearby table. Clay turns to the camera.</Text>
+      <Text>Clay searches the cabin. Stardust giggles and ducks underneath a nearby table. Clay turns to the camera.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="3eaac186-a7fc-4177-95ab-4fa6607b04ec">
       <Text>Clay</Text>
@@ -144,7 +141,7 @@
         </Paragraph>
       </DualDialogue>
     </Paragraph>
-    <Paragraph Type="Action" id="40054e4f-a121-4f6b-905a-99f5e7993a8a">
+    <Paragraph Type="Action" id="de9d0760-4b22-437b-8ae0-2cbae3220658">
       <Text>Clay mimics hand-goggles, spotting her with a laugh.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a1cfd922-cad6-4db0-9edb-4cc136656c0f">
@@ -244,7 +241,7 @@
       <Text Style="AllCaps">Let’s land on this planet</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="864571ec-4649-438f-8cb8-30e4ba8b6aa9">
-      <SceneProperties Length="2" Page="2" Title="">
+      <SceneProperties Length="1 7/8" Page="2" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -306,13 +303,18 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="Action" id="c7e7f514-878c-4a6e-af2c-2bdc4fe9c6a0">
       <Text>On the table, a </Text>
       <Text Style="Italic">Stardust</Text>
-      <Text> coloring book lies open. Inside, a child’s messy coloring fills a page featuring Clay and the show’s founders: 
+      <Text> coloring book lies open. Inside, a child’s messy coloring fills a page featuring Clay and the show’s creators: 
 - </Text>
       <Text Style="AllCaps">River Matthews</Text>
       <Text> (25, Ms. Frizzle-like) with Stardust puppet.
 - </Text>
       <Text Style="AllCaps">Schuyler “Skye” Park</Text>
-      <Text> (26, Korean, in over their head).</Text>
+      <Text> (26, Korean, in over their head).
+- </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Yaz</Text>
+      <Text Style="AllCaps"> “Ylem” </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Lem</Text>
+      <Text> (26, an animated animator).</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d195e840-eb6d-425f-a91a-5a8eec70b1a0">
       <Text>Ray (O.S.)</Text>
@@ -348,16 +350,10 @@ I wonder if we’ll call it home?</Text>
       <Text>Clay</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="ede10c2c-76d6-40c4-a8f6-3bfddd873595">
-      <Text>Don't be scared! The darker it is, the more glitter we can see!</Text>
+      <Text>Don't be scared! The darker it is, the more glitter we can see! You are not alone!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7154dbc1-a968-4bed-a576-6f1be0f4d5dd">
       <Text>Reassured, Ray pulls her glittery rocket costume back on.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="621c49a0-f242-44ab-8b5c-cc9350182e30">
-      <Text>Clay</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a7198d91-4695-4207-afc9-1ca5a549ec0f">
-      <Text>You are not alone!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="11c4f04b-164d-4ac5-9fe9-3af43f2ecd97">
       <Text Style="Bold">2003</Text>
@@ -420,8 +416,14 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="Action" id="105744d0-1caf-4649-891e-6445cc5e6419">
       <Text Style="Bold">2005</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="99626ded-4fed-47b8-9767-9213a3c8606a">
-      <Text>Ray (8) performs a sock puppet show for Kwan (3) using puppets she made to look like Clay and Stardust. In the background, the real show plays on the TV.</Text>
+    <Paragraph Type="Action" id="ea93f9fd-823b-476d-a8c0-a1d8504d8fc4">
+      <Text>Ray (8) performs a sock puppet show for Kwan (3) using Clay and Stardust socks. In the background, the real</Text>
+      <Text Size="10"> </Text>
+      <Text>TV</Text>
+      <Text Size="10"> </Text>
+      <Text>show</Text>
+      <Text Size="10"> </Text>
+      <Text>plays.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ace7d802-c516-4728-8bf2-283673d81746">
       <Text>ClAY (o.S.)</Text>
@@ -461,17 +463,17 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="Dialogue" id="54270937-3580-4631-be6c-49da85570a20">
       <Text>Twinkle, twinkle, twinkle!</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="ba39c6a6-c3da-4535-8be2-67a9dd0ced96">
-      <Text>Ray takes a bow for her brother. Ray clocks the camera.</Text>
-    </Paragraph>
     <Paragraph Type="Character" id="bcaa8ec8-db86-4fe9-b6c0-ed0fb336c967">
       <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="3a51bc9c-9b58-4fcc-ad37-29dda4472cdc">
+      <Text>(Bowing)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="a3b554f8-cfd3-4c36-bc5f-18cbed70ddeb">
       <Text>Thanks for being my captive audience. You did me a solid, bruh.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="f8e26f32-71ab-4cd7-b50d-e493d06a3ec6">
-      <SceneProperties Length="1 4/8" Page="4" Title="">
+      <SceneProperties Length="1 3/8" Page="4" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -483,6 +485,9 @@ I wonder if we’ll call it home?</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="KWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PUPPET MASTER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="RAY">
@@ -553,19 +558,7 @@ I wonder if we’ll call it home?</Text>
       <Text>ClAY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="f330da80-a1c8-484c-ac8f-d7680913432e">
-      <Text>It’s time to say goodbye...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="71f3ee54-f6ef-415d-8335-b2deecf8f532">
-      <Text>KWAN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0506f4f5-4c9f-4da8-a2ca-5191817b6f00">
-      <Text>Clay is saying goodbye...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="f09071d5-19dc-45ce-ba3e-37ab262a477a">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3ba354e2-3b20-447f-a797-f4f08e6238e8">
-      <Text>Then say it back, Kwan.</Text>
+      <Text>I must go home now. Time to say?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d607c104-be1f-47d4-a5b5-f06832f64bc7">
       <Text>Kids &amp; Kwan</Text>
@@ -573,14 +566,11 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="Dialogue" id="bfd5b90e-7288-4335-beef-5d6296cfe274">
       <Text>Goodbye...</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="06742e5a-b2f7-4513-9d75-b6e8eb034910">
-      <Text>The whimsical music fades into a single, lonely note.</Text>
-    </Paragraph>
     <Paragraph Type="Character" id="0cc02f09-57e1-4c9f-badf-ff99a55192ef">
       <Text>CLAY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="d4b58cf0-7936-46db-a41a-098c66f2cc31">
-      <Text>I must go home now. But you? You’re already home. Keep looking up because stars are us...</Text>
+      <Text>But you? You’re already home. Trust in yourself, Stardust.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="be2969ca-3261-401a-afb9-63d719d2787e">
       <Text>Clay boards Rocket. The ship blasts off into the cosmos. Stardust pulses with a final spark and vanishes.</Text>
@@ -639,235 +629,156 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="Transition" id="952f419d-0561-4a75-b97b-b0e347eda6f8">
       <Text>Match cut to:</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="4f702085-15ca-4569-92c3-050b42f17b3e">
-      <SceneProperties Length="3/8" Page="6" Title="">
+    <Paragraph Type="Scene Heading" id="bd85ea9d-ac45-4f84-afd8-5620fbfb4c39">
+      <SceneProperties Length="1 3/8" Page="5" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="RAY">
+          <CharacterArcBeat Name="GIRL">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="STAGE MANAGER">
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Theatre Backstage - Night (2025)</Text>
+      <Text Style="Bold+AllCaps">Int. Detroit House - Day (2025)</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="7d5f8cc6-9fc7-4b38-b205-97a239d48a4b">
-      <Text>A </Text>
-      <Text Style="AllCaps">clipboard</Text>
-      <Text> displays the cast list for </Text>
-      <Text Style="Italic">Cat Scouts Live 2025</Text>
-      <Text>. A pen slides down to Trini “Ray” Reyes and checks</Text>
-      <Text Size="10"> </Text>
-      <Text>a</Text>
-      <Text Size="10"> </Text>
-      <Text>box:</Text>
-      <Text Size="10"> </Text>
-      <Text Style="AllCaps">late</Text>
-      <Text>.</Text>
+    <Paragraph Type="Action" id="713c5756-8762-4179-82d0-19104ba00a06">
+      <Text>A flyer features an illustration of Ray (29) and a bold graphic: "</Text>
+      <Text Style="AllCaps">Ray, the star for your birthday!</Text>
+      <Text>"</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="87c04828-07db-4314-a802-a0638c8ce150">
-      <Text>Ray (29) bursts in, breathless and disheveled.</Text>
+    <Paragraph Type="Action" id="76014097-2598-46d8-9445-7ba65a7ce11c">
+      <Text>The flyer lowers to reveal Ray at a space-themed party. The decor is depressing, even the wallpaper is bored. Ray stands behind a table draped in a shiny tarp littered with plastic spaceships. She wears a lab coat that has seen better days.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="ab6af4ed-8bab-433c-b3d1-75ef4166c40b">
+    <Paragraph Type="Action" id="202a3664-bd40-4a4c-9e91-41c38cc3568c">
+      <Text>Behind her, a mountain of gift boxes looms like a threat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c827bef-1120-4486-a0a2-6278a4ea8c7b">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="cd8bb3fb-393a-446f-bde9-78baa2ad390d">
-      <Text>Sorry, sorry, sorry!</Text>
+    <Paragraph Type="Dialogue" id="d177e896-b4e2-4cc7-a523-46d146e6fb15">
+      <Text>Welcome future doctors, lawyers, and engineers! Those who want to break glass ceilings!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="40ef861f-a352-49e8-a52b-e1723ec274f7">
-      <Text>Stage Manager</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="6cc3c510-22d2-4e02-a336-0eab6df1f039">
-      <Text>No more </Text>
-      <Text AdornmentStyle="-1">sorrys</Text>
-      <Text>. Show up on time and you won’t lose your head, eh?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b17efa04-eee4-42c7-8c3a-67d143150999">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="7c8d4605-8c46-4c1a-88f4-0441bd9bdd0d">
+    <Paragraph Type="Parenthetical" id="88a403a3-87ef-4ccb-9a56-e570959bedcd">
       <Text>(to camera)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="cbbe52b0-e64b-4ff8-9f89-7ddec186ae27">
-      <Text>I’ve lost my mind the moment I took my first steps on a theatre stage. What I had to gain was my heart... </Text>
+    <Paragraph Type="Dialogue" id="f673a349-b457-4e63-ba46-3f7f7e729b26">
+      <Text>Because no one wants to break fourth walls like actors...</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="530f2e93-1552-4378-9fc1-77c9c72b382d">
-      <SceneProperties Length="4/8" Page="6" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PUPPET MASTER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Puppet Room - MoMENTS LATER</Text>
+    <Paragraph Type="Parenthetical" id="2a656e5d-d75e-4f8a-94bf-13949d8efff7">
+      <Text>(to the kids)</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="3fca83ce-7a0d-457f-a9bf-04bccb222330">
-      <Text>A </Text>
-      <Text Style="AllCaps">cat scout puppet</Text>
-      <Text> sits on a workbench with its head severed from its uniformed body. Ray stares at it, devastated.</Text>
+    <Paragraph Type="Dialogue" id="d177e896-b4e2-4cc7-a523-46d146e6fb15">
+      <Text>You’ve heard of a lightning in a bottle. Wanna trap a supernova?!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="dc7ae7b2-de63-46ee-8eaf-efbcca07cf85">
+    <Paragraph Type="Action" id="7b8d288f-7bc5-47f5-b287-2800aa532db8">
+      <Text>The children stare, unimpressed. A </Text>
+      <Text Style="AllCaps">birthday girl</Text>
+      <Text> (8) ignores it all and punches data into a spreadsheet on her tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d73759d7-2665-454c-b03c-a7a2cc0847c8">
+      <Text>Girl</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ffd0c439-91e5-42e8-afe1-e703b236ae83">
+      <Text>Mom says science is a hobby for losers who can’t do math.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2c885db7-1525-4df1-90a2-cfbb13b54e75">
+      <Text>Ray’s eye twitches. She forces a smile, reaching for a glass beaker filled with a swirling liquid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5799c428-f2b1-4ac8-ace6-89903cca2f20">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="a6d5d42e-dcac-4ce9-bb97-6ffbce84f6c5">
-      <Text>...and a rough life...</Text>
+    <Paragraph Type="Dialogue" id="6d94bdc5-6463-4e99-9b31-a7e407e6b88d">
+      <Text>Well, birthday gal, clearly your mom can’t do math cause no iPad kid should be younger than seven and you’re?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="1a1e7a26-a322-4e0f-a769-741375d98aa6">
-      <Text>A </Text>
-      <Text Style="AllCaps">Puppet Master</Text>
-      <Text> inspects the damage, before shrugging.</Text>
+    <Paragraph Type="Character" id="6186071a-4f3b-474a-9657-c51c094150b3">
+      <Text>KidS</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="10fed7cf-5a4b-43b7-ad79-119fc2e0a112">
-      <Text>Puppet Master</Text>
+    <Paragraph Type="Dialogue" id="1e9b1ca6-1edc-42c5-ab1b-babe30f774ec">
+      <Text>Six!</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="427a6dbe-41fe-4e37-99eb-6714dac1a66e">
-      <Text>Ruff </Text>
-      <Text AdornmentStyle="-1">ruff</Text>
-      <Text>. Seems like a dog got to her. We’re </Text>
-      <Text AdornmentStyle="-1">outta</Text>
-      <Text> tape. Let me see what I can do. It’ll take a while-</Text>
+    <Paragraph Type="Action" id="aa629902-9ea3-4116-83fb-495649abc281">
+      <Text>Ray takes away the girl’s tablet and sets it on the table.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="8fa83229-fe95-4651-8aad-e9d5d502bb91">
-      <Text>RAY</Text>
+    <Paragraph Type="Character" id="6bb0a3bc-9740-4370-8948-9f7c439c016c">
+      <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="496c7ea9-0ae6-4352-88cd-25a1435e3921">
+    <Paragraph Type="Dialogue" id="686d0a05-4734-472b-9e0a-2e97d6b06f8a">
+      <Text>But you can never be too young for chemicals! Will you do the honors?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b75bc80d-73ad-474e-b538-720613a70670">
+      <Text>Ray hands the girl a small vial.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d39d944-fdf4-4e61-8d6b-20c2da33fc30">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f9b2fde3-45a9-4a59-91b0-c1e5a594393d">
       <Text>(to camera)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="aa2b36dd-fcbe-49ea-8fa0-d8bb282224d1">
-      <Text>Should I wait for the puppet master or do it myself...? Do it myself!</Text>
+    <Paragraph Type="Dialogue" id="90287ed0-7581-45ec-89f6-c2f72037cbaf">
+      <Text>Is this where the magic begins? Or is this where the lawsuit begins? Magic or lawsuit...? Suit yourself.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="7fb67393-9e2b-45f6-9c9d-1cd152f6d506">
-      <Text>Ray scans the nearby shelves, full of empty glue bottles.</Text>
+    <Paragraph Type="Action" id="8ff752e4-0453-45c0-ad3f-d29599ffaf94">
+      <Text>The girl drops the vial in. The liquid becomes colorful.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="905eb6c9-8416-4616-ae65-4ed1ca8d1e41">
+    <Paragraph Type="Character" id="a2489c59-f757-4f78-be6a-f6015a43a74c">
       <Text>RAY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="a82dbd1d-a68b-4aa6-85d2-9a98f40c869a">
-      <Text>Do you see a bottle that’s full of glue...? Here it is!</Text>
+    <Paragraph Type="Dialogue" id="8d01592f-d666-4a48-a8b4-e8d9d9a86ecb">
+      <Text>Behold! A supernova-</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="5338f108-3188-4fe5-8c90-55b590a9b8de">
-      <Text>She grabs the full bottle that says </Text>
-      <Text Style="AllCaps">flammable</Text>
-      <Text>.</Text>
+    <Paragraph Type="Character" id="f81790c2-7fa5-4870-b30f-e1841cdd8125">
+      <Text>Girl</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="86da0d4c-8d37-418e-a621-cfff83080134">
-      <SceneProperties Length="1 2/8" Page="7" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PERFORMER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="STAGE MANAGER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Theatre Stage - Later</Text>
+    <Paragraph Type="Dialogue" id="953aa769-7c97-43f7-a2bf-91e1610f359e">
+      <Text>Is it supposed to smell like you?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="7bfb842a-1fb5-4597-a0bb-5a2809a385e1">
-      <Text>Tech rehearsal is a mess. The harsh lights expose the plywood of a half-finished forest set.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="5e8f6238-cd9d-4781-b759-1e72525ce14b">
-      <Text>Ray stands with the other </Text>
-      <Text Style="AllCaps">puppeteers</Text>
-      <Text>, dressed in a black stage suit. She holds her cat scout; the head is glued back on, but it looks more like a trauma patient than a scout.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b146a400-2afc-4672-bed3-2fc9d990e2af">
-      <Text>Stage Manager</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="31318360-09cf-406e-a909-ba4f304398e2">
-      <Text>Final tech. From top of “Meow-</Text>
-      <Text AdornmentStyle="-1">tain</Text>
-      <Text>” song. Ray, keep that head steady.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="b7015c32-1607-41cb-819a-7eddd4f21aba">
-      <Text>Upbeat music track blares. Ray clumsily dances. As she twirls, centrifugal force pulls at the fresh glue.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2a97ef95-c7d9-40a8-8379-c1beaba9f0bb">
-      <Text Style="AllCaps">Creak</Text>
-      <Text>. The glue snaps. Ray lunges for the head, but it's too late as it launches across the stage, landing on a spotlight.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="5ab51c09-b4ea-4db3-9b3e-69768a91120a">
-      <Text Style="AllCaps">Hiss</Text>
-      <Text>. </Text>
-      <Text Style="AllCaps">Sparks</Text>
-      <Text>. The head transforms into a fireball. It rolls into the Colonel Calico puppet, which also goes up in flames.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="9fd7bef9-fffd-4060-860c-0307e2bb2d68">
-      <Text>Performer</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="7857d215-5978-45ad-8eb5-2a5a08f69590">
-      <Text>Fire! Colonel Calico is a fireball!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cc4ca3f8-d881-41c5-9923-76b9ebeda78e">
+    <Paragraph Type="Character" id="2cce51d6-57ee-4483-adfc-d8bd32ebbb90">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="5c478f38-d748-468e-a9b3-ca222d3ab138">
-      <Text>Cat Scouts? Now Cat Firefighters!</Text>
+    <Paragraph Type="Parenthetical" id="23ee4220-b2af-4136-aa63-e0b153f241a3">
+      <Text>(Offended)</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="e5290208-ec93-4eaa-9888-5c76fb56325e">
-      <Text>Ray grabs a fire extinguisher. She shakes it too hard that she loses grip of it. The extinguisher hits the flaming head and sends it flying into a puppet rack, engulfing everything.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="defcdc42-a9a4-4dda-ad31-36d274e83ef6">
-      <Text>Performer</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="bedc986c-4fab-4d81-9ba7-92ae8ba7e773">
-      <Text>Please, not Sergeant Siamese!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="2ed0b007-171c-499a-bcaf-d1870500da58">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ae42440d-a4eb-45f7-a279-f148ebd53102">
-      <Text>The Siamese always rubbed me the wrong way...</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2855296c-24c9-4a1a-b846-da780896e135">
-      <Text>The fire reaches the curtains, tripping a sensor. Sprinklers roar to life, slamming the stage with water. In seconds, the fire is out, but the puppets are floating charred lumps.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="93bea314-f11b-472e-b33c-b202453e9ab3">
-      <Text>The music cuts. Drenched and holding her decapitated puppet, Ray looks up at the Stage Manager, who now holds an umbrella.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8f13173c-4d22-4872-a8f4-8f318467f437">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="a8e51c7c-bc74-45a7-9c4a-779f0b2f679c">
-      <Text>Look on the bright side: fire’s out-</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="89e588a0-a204-419d-b94b-d32fb1ab635c">
-      <Text>STAGE MANAGER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="fc9d0bc4-30dc-47d5-92ad-fef65993362f">
-      <Text>Only you. Only you could kill nine lives in </Text>
-      <Text Style="Italic">one fell swoop</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b96794d0-e840-4aa1-9774-e23887baf6eb">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="e06a2c9a-ed56-429b-9a26-ec39ac0a569f">
-      <Text>Look at you quoting </Text>
-      <Text Style="Italic">Macbeth</Text>
+    <Paragraph Type="Dialogue" id="b32b9a35-c794-4920-a058-d5fb0cb1245a">
+      <Text Style="Italic">Excuse</Text>
       <Text>...</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5308addc-e643-4821-a1de-f6de3c6cb571">
-      <Text>StagE MANAGER</Text>
+    <Paragraph Type="Action" id="4d7d62b2-3e88-4076-9b24-2a9fbb231216">
+      <Text>The beaker hisses and vibrates. Ray’s eyes widens. She lunges and shields the girl with her coat.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="27d07d32-5b56-473a-9815-e835d187ac24">
-      <Text>Ugh, we should have raised the rate and hired Aurora! Take thy face hence! You’re- You’re-</Text>
+    <Paragraph Type="Character" id="afa709c8-ce7e-4a67-bcc2-e01fa380c39c">
+      <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5d3cd6ad-65a6-4754-b304-a9edf854737a">
-      <Text>RAY</Text>
+    <Paragraph Type="Dialogue" id="c32642fd-5dda-4d29-90dd-8c555468d413">
+      <Text>...</Text>
+      <Text Style="AllCaps">me</Text>
+      <Text>!</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="2015cf5d-bd25-4d45-987b-4ec4ca748f9d">
-      <Text>On fire.</Text>
+    <Paragraph Type="Scene Heading" id="8f12d86b-d97d-463a-9a7e-eb4206128b0e">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Detroit House - ContinUOUS</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="0cf1188e-befe-4242-9743-51523eda437d">
-      <Text>Ray points to a miniscule fire nearby. She gives a worried look to the camera.</Text>
+    <Paragraph Type="Action" id="fe4a06f2-6639-4e68-9508-0e15cedadbbf">
+      <Text Style="AllCaps">Boom</Text>
+      <Text>. A rainbow-colored fog erupts from the windows, swallowing the house. The kids scream to the high heavens. The door swings open. Ray dizzily pops out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9bc83af3-17d6-46a7-9d33-b66fea21591e">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="86c53af7-40d5-4647-8216-c9e0750ede91">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="06f13ff2-9082-4420-a41e-3e7433549663">
+      <Text>That’s the smell of discovery! Side effects include sounds of terror...</Text>
     </Paragraph>
     <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="8320508a-6b7a-43cd-9457-386c90d1a8a4">
       <Text>End of Cold Open</Text>
@@ -894,11 +805,11 @@ I wonder if we’ll call it home?</Text>
       <Text>- Ray and Kwan’s rocket crash lands on a strange world.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="006659d1-bbed-480c-a51e-319403d1528a">
-      <Text>- On this new world, Clay (46) appears, dancing with Stardust and her axolotl sister, </Text>
+      <Text>- On this new world, Clay appears, dancing with Stardust and her pink axolotl sister, </Text>
       <Text AdornmentStyle="-1" Style="AllCaps">StarPower</Text>
-      <Text>. River Matthews (50) pops out from behind Stardust and </Text>
+      <Text>. River pops out from behind Stardust and </Text>
       <Text AdornmentStyle="-1">StarPower</Text>
-      <Text>, while Skye Park (51) joins them, surrounded by many other cosmic characters. They wave directly to the audience.</Text>
+      <Text>, while Skye and puppeteer Ylem join them, surrounded by many other cosmic characters. They wave directly to the audience.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="62db2a78-ea2f-4c09-a492-4854f26afbcf">
       <Text>- The camera zooms out to reveal the previous scene is playing on a square TV. Ray and Kwan are perched on top of this TV, posing with their own Stardust-inspired puppets.</Text>
@@ -914,10 +825,10 @@ I wonder if we’ll call it home?</Text>
     <Paragraph Type="New Act" id="c74f8479-2577-41ab-979b-f9185f8cb475">
       <Text>Act One</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="25b7d086-7ecc-4961-ae66-0a0dfad04895">
-      <SceneProperties Length="1 1/8" Page="9" Title="">
+    <Paragraph Type="Scene Heading" id="71bd4133-3b90-462f-8b6c-22f5f623db18">
+      <SceneProperties Length="7/8" Page="8" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="PUPPETEER">
+          <CharacterArcBeat Name="HOPE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="RAY">
@@ -925,153 +836,87 @@ I wonder if we’ll call it home?</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Cafe - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Detroit House - Day</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="a6487a92-41c3-4a00-8db8-49a2bbe3b1ca">
-      <Text>Ray leans in desperately across a table. Opposite her, a shaky </Text>
-      <Text Style="AllCaps">artist</Text>
-      <Text> in a Toronto Fringe hat nurses an espresso.</Text>
+    <Paragraph Type="Action" id="39d2ff3f-a0af-4088-ad2c-22724c964cdc">
+      <Text>All windows and doors are open to vent out the chaos earlier. A disheveled Ray sits on the curb. Her lab coat is singed.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5b6b4c0e-0554-4401-bfeb-b54f4be36ca3">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="afe2f07a-fcab-4c26-a31c-72c961321e3d">
-      <Text>Buddy, come on. Just the weekend shows. I don’t even need a credit, I’ll work under a stage name. Call me Alan </Text>
-      <Text AdornmentStyle="-1">Smithee</Text>
-      <Text>. I don't care.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b05a083b-7871-49d4-9ec7-f674bd5126d7">
-      <Text>PupPETEER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="c1d2b44f-bf56-426f-b84d-380807a51536">
-      <Text>Ray, I tried. Really did. I brought your name up at Solar Stage.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="d45fb542-ca2e-4ec1-918e-bd121566600f">
-      <Text>RAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="e32cdc22-51f2-471b-b497-0fcb3d7d58c1">
-      <Text>And...?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="3266a824-e484-4246-9f2e-8dbb6b5b2b55">
-      <Text>The artist gets out their phone and opens </Text>
-      <Text Style="AllCaps">Toronto Stage</Text>
-      <Text> group chat. They scroll through a wall of texts. One message reads: “In Cat Scouts Live, she set everyone’s heads on fire. Do </Text>
-      <Text Style="AllCaps">not</Text>
-      <Text> hire Reyes.” Another reads: “Check this out.” Below is a video titled “Neutron Nigel.” They click </Text>
-      <Text Style="AllCaps">play</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="add284c3-896b-4ac3-87b6-225685d5cc11">
-      <Text Style="Bold+AllCaps">On the phone:</Text>
-      <Text> Ray sits in a rehearsal room. On her left hand is a </Text>
-      <Text Style="AllCaps">mangy sock puppet</Text>
-      <Text> with googly eyes named </Text>
-      <Text Style="AllCaps">Neutron Nigel</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="581d7d11-213f-4a4c-925b-8b6d13f4f236">
+    <Paragraph Type="Character" id="5142ecd2-4042-4d3e-b6b4-15b36367df25">
       <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="21a9ee9f-0fc7-42e8-942f-5db75439514e">
-      <Text>Hi viewers! I’m Ray. </Text>
-      <Text Style="Italic">And this is Nigel </Text>
-      <Text AdornmentStyle="-1" Style="Italic">Neutronberry</Text>
-      <Text>. Today, we bond-</Text>
+    <Paragraph Type="Parenthetical" id="27817e43-7b20-40ac-99f4-084e34423292">
+      <Text>(to camera)</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="d7f719df-e432-4050-a07b-ebc865f13ecc">
-      <Text>(as Nigel)</Text>
+    <Paragraph Type="Dialogue" id="2742e5be-62b4-4e41-afb2-87058ff027ac">
+      <Text>Do you see hope... around here? </Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="4c26a4c0-dace-4ea6-be32-15246b585d66">
-      <Text>Before we talk about atomic bonds, let’s talk about my contract.</Text>
+    <Paragraph Type="Action" id="39d2ff3f-a0af-4088-ad2c-22724c964cdc">
+      <Text Style="AllCaps">Hope</Text>
+      <Text> (40s), the homeowner, emerges with the charred tablet.</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="cabc6cff-9135-45fb-8656-09c3316e7667">
-      <Text>(as herself)</Text>
+    <Paragraph Type="Character" id="e29e0bfc-b3a6-4a56-ad72-760e3d909f11">
+      <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="06c33aa9-bb76-4dbe-ac0d-2e9d5da24509">
-      <Text>Nigel, not now. I’m mid-take-</Text>
+    <Paragraph Type="Dialogue" id="5ed0b874-7084-4816-acce-bcd2a5a8ad3a">
+      <Text>Hope! Your look is on fleek-</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="dfb31966-dafe-4097-a2ac-7ca12d28adeb">
-      <Text>(as Nigel)</Text>
+    <Paragraph Type="Character" id="f399c875-b417-466f-afd3-63c80af43a9f">
+      <Text>Hope</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="37fae974-b316-4c0c-9b09-ca51162e4813">
-      <Text Style="Italic">Hostile work environment</Text>
-      <Text>. According to the bylaws of the Imaginary Friends Union, I am entitled to three breaks and hands that don’t smell like gas station hot dogs.</Text>
+    <Paragraph Type="Dialogue" id="fba8a723-4e94-4eb7-a998-738de54e314a">
+      <Text>Stop this flamboyance. I thought your days of setting things on fire were over.</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="796e8f99-0907-407b-bece-a4e36662918a">
-      <Text>(as herself)</Text>
+    <Paragraph Type="Character" id="9cfc1db8-bed0-4119-824e-c7e95cdecbe5">
+      <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="e2e50c39-6dd5-46cd-b96f-154f2107dba5">
-      <Text>Ignore him, kids! Neutrons love to operate under high pressure!</Text>
+    <Paragraph Type="Dialogue" id="d9fbceea-c8b7-4712-bbcd-e0b976b5da12">
+      <Text Style="Italic">Flamboyance</Text>
+      <Text> is derived from the verb, </Text>
+      <Text AdornmentStyle="-1" Style="Italic">flamboyer</Text>
+      <Text>, meaning to flame-</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="fdb60da0-38fa-4042-afa5-4e6bbdabe2e1">
-      <Text>(as Nigel)</Text>
+    <Paragraph Type="Character" id="eb505f74-09f9-45b3-9bd0-e2e9b2e7bb7f">
+      <Text>Hope</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="1c8f129d-8ba4-446a-9e4a-c99a5a022c73">
-      <Text>I’m experiencing a mid-life crisis.</Text>
+    <Paragraph Type="Dialogue" id="6b8be0b7-c59e-46cf-8cd3-9746246f3079">
+      <Text>You’re fired! For real this time. </Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="04e0af95-2c05-4b8b-8663-aa4d359f72cd">
-      <Text>(as herself)</Text>
+    <Paragraph Type="Character" id="df141a67-8fee-467d-8d08-d38897ce351a">
+      <Text>Ray</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="82def958-839b-4933-9de0-40ea680bb30f">
-      <Text>You’re a billion years old. You got billions more to go. Well, you’re a sock. You really got only a few </Text>
-      <Text AdornmentStyle="-1">mon</Text>
-      <Text>-</Text>
+    <Paragraph Type="Dialogue" id="ebfbe2f2-f6a9-486e-a5be-94f1bd64bedb">
+      <Text>Hope! Ugh, your name makes no sense-</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="aa087acc-f577-48b3-9a5e-ce25acdb25c4">
-      <Text>(as Nigel)</Text>
+    <Paragraph Type="Character" id="f27e92eb-9750-498e-a54c-9ed99f8c06ae">
+      <Text>HopE</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="c58fe5d9-d28e-4c7c-99d1-83b87350c27b">
-      <Text>Sock it! Supernova!</Text>
+    <Paragraph Type="Dialogue" id="e684a198-074c-4f82-ab16-325c314645b8">
+      <Text>My niece’s birthday was your chance to cool off after burning all our puppets before the national tour even started-</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="1645ff3c-91a5-485c-b36d-d2286373ab73">
-      <Text>Ray’s puppet hand punches herself in the face. Ray punches her puppet hand with her free hand. They get in a tussle.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="25b7d086-7ecc-4961-ae66-0a0dfad04895">
-      <SceneProperties Length="3/8" Page="10" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PUPPETEER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Cafe - ConTINUOUS</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8478f4c5-9194-4833-b9b9-95a1394dabc4">
-      <Text>RaY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="59e9369f-c8b0-4454-b5ce-f598ad08267e">
-      <Text>That tape was my proof-of-concept for a science show on Adult Swim...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="2dcda75f-5cbc-4389-bb91-77e241640eca">
-      <Text>PupPETEER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b35d7c4e-2f3f-4828-9d90-9a657a9bcc4e">
-      <Text>Ya ain’t fit for children’s theatre-</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="2597883a-3999-43f0-b437-3fe30537232a">
+    <Paragraph Type="Character" id="95cd08a5-0d14-4a8d-b812-165170f83072">
       <Text>RAY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="32b0ef47-89c7-461d-89ec-628e7bf81e70">
-      <Text>I’ve been in this industry for a decade! One freak accident and ugh-</Text>
+    <Paragraph Type="Dialogue" id="ce2f2505-79bd-4e6f-92de-4690d24eeca7">
+      <Text>It was an accident...</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5a85ae39-d14b-4b2e-acab-1877a5423879">
-      <Text>PupPETEER</Text>
+    <Paragraph Type="Character" id="15c704c2-6449-46f1-8535-919afcd39e84">
+      <Text>HopE</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="e235ef27-6bdd-4bd0-9349-93cd9a518f9c">
-      <Text>Burning puppets burns bridges too.</Text>
+    <Paragraph Type="Dialogue" id="6a81711e-28ef-47da-84a7-d3f90f2fc545">
+      <Text>I can only hope you accidentally find a new purpose in life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e7d92139-1208-4004-9855-ebd19cb5f9ce">
+      <Text>Hope walks away, leaving Ray to despair alone.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="d0e659f8-8220-454a-8e8e-858b26c1ac52">
-      <SceneProperties Length="4/8" Page="10" Title="">
+      <SceneProperties Length="3/8" Page="8" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Ray’s Car - MOments Later</Text>
+      <Text Style="Bold+AllCaps">Int. Ray’s Car - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="0ff5acd1-7a2a-45d9-85aa-b7e373417f65">
       <Text>Ray sees herself in the rearview mirror. She</Text>
@@ -1086,23 +931,12 @@ I wonder if we’ll call it home?</Text>
       <Text>Ray</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="6792307a-c42a-4347-bddf-26ea1a9c40e6">
-      <Text>What now, world? Should I go look for another job or should I...</Text>
+      <Text>What now, world? Should I go look for another job or should I... ...ill myself.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="6eb2e6dc-12bd-4007-8f4e-a0a138e2e76e">
       <Text>Ray motions like she is slitting her own throat.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9edb49d9-c82d-499e-bb4b-3176cf07e1ca">
-      <Text>Ray</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="8ab72c6b-d691-4bc5-bb5e-c142671d56f8">
-      <Text>...</Text>
-      <Text AdornmentStyle="-1">ll</Text>
-      <Text> myself.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="9d235ea9-72b4-4a23-94ef-a0dc98bce9a7">
-      <Text>Awkwardly long pause.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="801810a1-ee4d-4010-ad5c-0dd545e6416a">
       <Text>Ray</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="102d5404-4d9e-4659-9a5c-772ddf2365e8">
@@ -1111,11 +945,11 @@ I wonder if we’ll call it home?</Text>
       <Text AdornmentStyle="-1">offffffff</Text>
       <Text> myself?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="0d37048a-3ab5-4b6f-a7c3-550ea966c777">
-      <Text>Ray sees her photo with Kwan (4) and herself (9) in front of a giant globe on the dashboard.</Text>
+    <Paragraph Type="Action" id="ae1218f8-9031-42fa-9d7b-d9e96b891fdc">
+      <Text>Ray watches the birthday girl walk by with Hope. The girl waves approvingly while Hope makes a slitting throat motion.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="4d363499-15c2-4609-832f-b7fe0e32ac7f">
-      <SceneProperties Length="2/8" Page="10" Title="">
+      <SceneProperties Length="2/8" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1125,7 +959,7 @@ I wonder if we’ll call it home?</Text>
       <Text Style="Bold+AllCaps">Ext. Ray’s Car - Continuous</Text>
     </Paragraph>
     <Paragraph Type="Action" id="f1b9fb0e-6dbb-4515-bfc7-e5581fe4b86b">
-      <Text>Ray drives away from the cafe.</Text>
+      <Text>Ray drives away.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="98a468ff-eb9c-4f54-aeaa-1d32f40292e4">
       <Text>Ray (V.O.)</Text>
@@ -1134,23 +968,17 @@ I wonder if we’ll call it home?</Text>
       <Text>Alright, world. Perhaps, I should ask: What’s next?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="57d90b96-27b1-47a6-9269-6c3170445e33">
-      <SceneProperties Length="1 7/8" Page="10" Title="">
+      <SceneProperties Length="1 5/8" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Ray’s Car - Day (WeekS LATER)</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2780a8b9-ae76-4cef-9334-ca8d067597bb">
-      <Text>The car dissolves from empty to becoming a tomb of a failed life. Cardboard boxes are crammed into the backseat, while a termination letter and an eviction notice sit shotgun.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="96a2c0cd-299e-45b8-86ad-8e7587470b32">
-      <Text>Ray sits, with her hair like a bird's nest. She shifts into drive, weeping silently as she pulls away from the curb.</Text>
+      <Text Style="Bold+AllCaps">Int. Ray’s Car - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="dbce47fb-2e46-4d45-bd18-55d2ab3ffac0">
-      <Text>Her phone, mounted on the dash, </Text>
+      <Text>Ray’s phone, mounted on the dash, </Text>
       <Text Style="AllCaps">pings</Text>
       <Text>. A notification banner slides across: </Text>
       <Text Style="AllCaps">Ms. Aurora is Live!</Text>
@@ -1196,20 +1024,9 @@ I wonder if we’ll call it home?</Text>
       <Text>Clay</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="78f908aa-9c47-40a8-bf3f-4c6b3d710373">
-      <Text>Fab. Because I realize it was sorta spontaneous. I just </Text>
-      <Text AdornmentStyle="-1">kinda</Text>
-      <Text> took Rocket for a spin and went for a much needed vacation. And that was super challenging by the way. But great because I got to rest my head and take things slowly and now I’m literally doing all sorts of things that I dreamt of doing.
+      <Text>I realize it was sorta spontaneous. I just took Rocket for a spin and went on a much needed vacation. And that was super challenging by the way. But great cause I got to rest my head and take things slowly and now I’m literally doing all sorts of things that I dreamt of doing.
 
-And then look at you and all you’ve done and all you’ve accomplished in all that time and it’s just... it’s just awesome, am I right?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2ae023c9-5484-4658-a2bf-093746df7d90">
-      <Text>Ray glances at the eviction notice. She snorts at the camera.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="31147ec0-d55a-4b26-a5c1-a06fa206100e">
-      <Text>ClAY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="78f908aa-9c47-40a8-bf3f-4c6b3d710373">
-      <Text>I mean, we started out with stuff and now it’s what? Rent, and jobs, and families.</Text>
+And then look at you and all you’ve done and all you’ve accomplished in all that time and it’s just... it’s just awesome, am I right? I mean we started out with stuff and now it’s what? Rent, and jobs, and families.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a8b13682-f36b-4bf8-a71a-fe2fa818bb40">
       <Text>Ray aggressively flips a FAMILY PHOTO face down on the passenger seat, hiding the happy faces of her and her family.</Text>
@@ -1220,13 +1037,8 @@ And then look at you and all you’ve done and all you’ve accomplished in all 
     <Paragraph Type="Dialogue" id="e2dfb5b9-9c8a-4a89-8266-c0ceb75b570e">
       <Text>And some of it has been </Text>
       <Text AdornmentStyle="-1">kinda</Text>
-      <Text> hard, you know? I know you know. And I hoped to tell you that I really couldn’t have done all of that without your help. And in fact, all the singing you did when I was singing back when we were younger still rings music to my ears today. Right now. And that’s truly dope.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="75e3f3a4-71ff-4c90-972b-90da66f44121">
-      <Text>Ray rolls her eyes with an involuntary twitch of a smile.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="058dc4e2-fdf7-4bc5-a59c-549f9f4d1f48">
-      <Text>Clay</Text>
+      <Text> hard, you know? I know you know. And I hoped to tell you that I really couldn’t have done all of that without your help. And in fact, all the singing you did when I was singing back when we were younger still rings music to my ears today. Right now. And that’s truly dope.
+</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="cec3cddb-7cfd-42ae-90eb-5094b5e61517">
       <Text>I guess I wanted to say: After an eternity, I never forgot you, ever. And I’m super glad we’re forever buddies. Thanks for listening.
@@ -1244,7 +1056,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="b6e35718-0e1e-4b9c-af91-ee9b1a813231">
-      <SceneProperties Length="1/8" Page="12" Title="">
+      <SceneProperties Length="1/8" Page="10" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Michigan State University - Afternoon</Text>
@@ -1253,7 +1065,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Ray’s car rolls onto the sprawling campus.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="f08d061a-559f-41df-9b0e-4f1bc2b369a4">
-      <SceneProperties Length="3/8" Page="12" Title="">
+      <SceneProperties Length="3/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1269,7 +1081,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Ray</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="89efe9b4-0012-4ac9-8c58-80e91efd948e">
-      <Text>Plasma update: After having my hands in puppetry, we’re getting our hands dirty in astronomy!</Text>
+      <Text>Plasma update: I’m in East Lansing to get our hands dirty in astronomy-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="57b2c369-692a-43e7-a3a2-506b2b572b76">
       <Text>A notification pops up on the screen. A comment from @ClimateChangeIsFake: “earth is flat, plasma girl.”</Text>
@@ -1283,12 +1095,11 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>RaY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="89efe9b4-0012-4ac9-8c58-80e91efd948e">
-      <Text>Blocking conspiracy theorists in the chat... </Text>
-      <Text AdornmentStyle="-1">Anywho</Text>
-      <Text>, I’m in East Lansing to see my genius brother. Let’s see if he can explain why our universe is a dumpster fire.</Text>
+      <Text Style="Italic">Blocking conspiracy theorists</Text>
+      <Text>. Actually, we’re here to see if my genius brother can explain why our universe is a dumpster fire.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="d6e6682e-8d3d-4547-8695-9c277971e902">
-      <SceneProperties Length="6/8" Page="13" Title="">
+      <SceneProperties Length="6/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1338,34 +1149,26 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Kwan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b479e77f-d063-4bd4-9e38-bd9294cb2f80">
-      <Text>It’s just Sunshine. Are you cracking jokes about me to your imaginary audience again?</Text>
+      <Text>It’s just Sunshine. You looked like you’ve touched the sun...?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="26267c3d-2bd5-4309-8180-da9d83798dda">
       <Text>RAY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="40021939-f6e6-4088-b6d9-8575d3fe86d1">
       <Text AdornmentStyle="-1">Pfffff</Text>
-      <Text> nah, bruh. And that nickname they gave you ain’t catching on.</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="b61b1d8d-8ae6-4063-ae80-08f047e6078b">
-      <Text>(to camera)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="569d64d9-42c2-459d-a2f6-80e5476eb82c">
-      <Text>You’re real to me. And you agree that “Sunshine” sounds too ridiculous for </Text>
-      <Text Style="Italic">his</Text>
-      <Text> nickname?</Text>
+      <Text> nah, bruh. And that nickname is never catching on!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a8de143f-2c87-4434-a45b-949eb344f2e7">
       <Text>KWAN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="bbba2242-e2e1-4952-935c-ac923134c219">
-      <Text>We live in a simulation. Now, to the planetarium before it closes!</Text>
+      <Text>If not that, the planetarium has some new animations that might interested you!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="3d55b5b1-1a05-4d85-8a64-91c8c40c20b2">
       <Text>Ray gets out of the car and follows Kwan to the planetarium.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="a9b55b7d-a5b0-4836-97f1-c785f3b09dc0">
-      <SceneProperties Length="1 3/8" Page="13" Title="">
+      <SceneProperties Length="1 3/8" Page="12" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1440,15 +1243,15 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Kwan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="9e829236-b483-49c4-a421-482d31c56fb8">
-      <Text>How about a supernova for size? “Twinkle, twinkle, twinkle” as Stardust would say.</Text>
+      <Text>How about a supernova for size? “Twinkle, twinkle, twinkle.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a5a85fd2-0660-482a-9cf9-089cfc3d795a">
       <Text>Ray</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3eaa38a6-ddf1-4a87-80bd-4a716470e60e">
-      <Text>What a blast from the past. That was a good show. I miss </Text>
+      <Text>Such a blast from the past. I miss </Text>
       <Text Style="Italic">Stardust</Text>
-      <Text>.</Text>
+      <Text>. What a great show.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="108a13ad-77cb-43cf-8184-44ccfa21add9">
       <Text>Kwan</Text>
@@ -1498,7 +1301,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Ray collects herself and smiles at the camera.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ef801fc1-2729-412e-91e2-b16efc470bc0">
-      <SceneProperties Length="2" Page="15" Title="">
+      <SceneProperties Length="2" Page="13" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1731,7 +1534,7 @@ I wonder if we’ll call it home?</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="572a8b88-7eee-4c4e-9d80-0a5772b88fa5">
-      <SceneProperties Length="2/8" Page="17" Title="">
+      <SceneProperties Length="2/8" Page="15" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1750,7 +1553,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Ready to explore?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="f773e2eb-248d-45fa-bf85-ba07128c8444">
-      <SceneProperties Length="2/8" Page="17" Title="">
+      <SceneProperties Length="2/8" Page="15" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1769,7 +1572,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Ready to explore...</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="1eff6282-ac5e-46a0-b4e8-22eba9ef111a">
-      <SceneProperties Length="3/8" Page="17" Title="">
+      <SceneProperties Length="3/8" Page="15" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1797,7 +1600,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Act Two</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="675615da-4ed8-41f6-83e8-499f72b21ba2">
-      <SceneProperties Length="3" Page="18" Title="">
+      <SceneProperties Length="3" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2122,7 +1925,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Kids deserve the truth, bruh.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="897fe85c-dc2b-47a5-a45f-bf585eef6dd4">
-      <SceneProperties Length="7/8" Page="21" Title="">
+      <SceneProperties Length="7/8" Page="19" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2209,7 +2012,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Skye walks away. Ray gives a perplexed look at the camera.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9c2bdf4e-9fcf-4eb8-8db9-b3039f7cf7c5">
-      <SceneProperties Length="2 3/8" Page="21" Title="">
+      <SceneProperties Length="2 3/8" Page="19" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2480,7 +2283,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Ray sinks into the hug, holding the creator of her childhood to absorb some of that old magic. She smiles at the camera.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="d1d50a89-a49e-4458-98b9-c88c8f35ddf3">
-      <SceneProperties Length="3/8" Page="24" Title="">
+      <SceneProperties Length="3/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2517,7 +2320,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Already miss it?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="269e2b51-6e11-4c72-ad2b-95b805c7d751">
-      <SceneProperties Length="3/8" Page="24" Title="">
+      <SceneProperties Length="3/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RIVER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2553,7 +2356,7 @@ I wonder if we’ll call it home?</Text>
       <Text>We’re in the green?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="269e2b51-6e11-4c72-ad2b-95b805c7d751">
-      <SceneProperties Length="2/8" Page="24" Title="">
+      <SceneProperties Length="2/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RIVER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2579,7 +2382,7 @@ I wonder if we’ll call it home?</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2e197cba-7e2c-4484-abb3-0b9f01ef6da3">
-      <SceneProperties Length="2/8" Page="24" Title="">
+      <SceneProperties Length="2/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="SKYE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2598,7 +2401,7 @@ I wonder if we’ll call it home?</Text>
       <Text>I love that axolotl. Glad our autograph tour won’t be in vain.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="269e2b51-6e11-4c72-ad2b-95b805c7d751">
-      <SceneProperties Length="5/8" Page="25" Title="">
+      <SceneProperties Length="5/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RIVER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2661,7 +2464,7 @@ I wonder if we’ll call it home?</Text>
       <Text>River picks through the pile and holds up a flawless peanut.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2e197cba-7e2c-4484-abb3-0b9f01ef6da3">
-      <SceneProperties Length="5/8" Page="25" Title="">
+      <SceneProperties Length="5/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KIDS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2732,7 +2535,7 @@ I wonder if we’ll call it home?</Text>
       <Text> to fall back to.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2e14b9e4-f804-429a-9716-5529b9e32374">
-      <SceneProperties Length="2/8" Page="26" Title="">
+      <SceneProperties Length="2/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="SKYE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2757,7 +2560,7 @@ I wonder if we’ll call it home?</Text>
       <Text>A waiter swoops in, clearing the check, dishes, and the toy.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="d0fe1a09-444e-4f9b-a131-435795e3ac77">
-      <SceneProperties Length="4/8" Page="26" Title="">
+      <SceneProperties Length="4/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2797,7 +2600,7 @@ I wonder if we’ll call it home?</Text>
       <Text>I can’t be helped... being professional all alone...</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="fec7e765-439a-405a-a9b8-eab7a34cafe1">
-      <SceneProperties Length="2/8" Page="26" Title="">
+      <SceneProperties Length="2/8" Page="24" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Int. Kwan’s Bedroom</Text>
@@ -2819,7 +2622,7 @@ I wonder if we’ll call it home?</Text>
       <Text>ACT Three</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8496ff4c-32e4-40f5-ab75-3d547697cbeb">
-      <SceneProperties Length="2/8" Page="27" Title="">
+      <SceneProperties Length="2/8" Page="25" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. The PEANUT BARREL - Night</Text>
@@ -2835,7 +2638,7 @@ I wonder if we’ll call it home?</Text>
       <Text>. The lid swings open. Kwan pops out, covered in peanuts. He triumphantly holds up the walkie.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="d0fe1a09-444e-4f9b-a131-435795e3ac77">
-      <SceneProperties Length="7/8" Page="27" Title="">
+      <SceneProperties Length="7/8" Page="25" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2933,7 +2736,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Ray is about to punch the camera.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8c859571-e764-4017-8af3-6e4234c3a39d">
-      <SceneProperties Length="1 1/8" Page="28" Title="">
+      <SceneProperties Length="1 1/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3058,7 +2861,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Jump cut to:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="be9e3c6b-bd52-4f37-b174-8ebf756e0d87">
-      <SceneProperties Length="1 6/8" Page="29" Title="">
+      <SceneProperties Length="1 6/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KWAN">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3200,7 +3003,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Ray looks up from Clay’s letter, welling up with tears.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="4bb5a44f-1ad9-41ce-9bce-8db3af6e502c">
-      <SceneProperties Length="1 1/8" Page="30" Title="">
+      <SceneProperties Length="1 1/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3344,7 +3147,7 @@ I wonder who’s on the dot</Text>
       <Text>Tag</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="203e90d0-b872-482d-9a92-9a2948f0131e">
-      <SceneProperties Length="3/8" Page="32" Title="">
+      <SceneProperties Length="3/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="RIVER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3422,9 +3225,9 @@ I wonder who’s on the dot</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="554" Left="0" Mode="Maximized" Top="0" Width="1364"/>
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="7597,7597" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3667,7 +3470,7 @@ I wonder who’s on the dot</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">By 2025, Ray’s theatre career ends in disaster upon triggering a fire that destroys a production’s puppet cast. Blacklisted and facing eviction, she is moved by a recent viral video from Clay, returning to encourage former viewers to keep looking up.</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">By 2025, Ray’s theatre career ends in disaster after accidentally burning down a puppet show and a birthday party. Blacklisted, she finds a spark of hope in a viral video from her childhood hero, Clay, returning to encourage former viewers to keep looking up.</Text>
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
@@ -3682,7 +3485,7 @@ I wonder who’s on the dot</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kwan reveals he has been in contact with the original host, Billy Clayton Dubois, and drives Ray to his apartment in Brooklyn. When Ray finally meets her childhood hero and asks for his help to save Stardust, a disheveled and weary Clay looks into her camera and asks, "Do I look like I care?"</Text>
       </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="439,439" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="1122,1122" ShowInvisibles="No"/>
   </TitlePage>
 
   <SmartType>
@@ -3691,57 +3494,61 @@ I wonder who’s on the dot</Text>
       <Character>AarDVARKs</Character>
       <Character>Amami Rabbits</Character>
       <Character>ATV</Character>
+      <Character>Audience</Character>
+      <Character>Auroa</Character>
+      <Character>Aurora</Character>
       <Character>Baker G</Character>
+      <Character>Bo</Character>
+      <Character>Boy</Character>
       <Character>Clay</Character>
       <Character>Clay &amp; Ray</Character>
+      <Character>Clay &amp; Trini</Character>
+      <Character>Clay &amp; Trini &amp; Kwan</Character>
       <Character>Crowd</Character>
       <Character>Cát</Character>
       <Character>Dino</Character>
       <Character>Dàn Xuân Thanh</Character>
+      <Character>Girl</Character>
       <Character>guard</Character>
+      <Character>Handler</Character>
+      <Character>Hope</Character>
       <Character>Horseshoe Crabs</Character>
       <Character>Host</Character>
       <Character>Kid</Character>
       <Character>Kids</Character>
       <Character>Kooky</Character>
+      <Character>Kwa</Character>
+      <Character>Kwan</Character>
+      <Character>Kwan &amp; Kids</Character>
       <Character>MOrgan</Character>
+      <Character>Nigel</Character>
       <Character>Nurse</Character>
       <Character>Officer</Character>
+      <Character>Performer</Character>
       <Character>Phone</Character>
       <Character>Producer</Character>
+      <Character>Puppeteer</Character>
       <Character>Ray</Character>
+      <Character>Ray &amp; Clay</Character>
+      <Character>Ray &amp; Kwan</Character>
       <Character>Reporter</Character>
       <Character>Researcher 1</Character>
       <Character>Researcher 2</Character>
+      <Character>Ri</Character>
+      <Character>River</Character>
+      <Character>Rocket</Character>
       <Character>Sall</Character>
       <Character>Sall &amp; Cát</Character>
       <Character>Sall &amp; CÁT
 </Character>
       <Character>Savanna</Character>
+      <Character>Skye</Character>
+      <Character>Stage Manager</Character>
+      <Character>Stardust</Character>
+      <Character>Trini</Character>
+      <Character>Trini &amp; Kids</Character>
       <Character>Waiter</Character>
       <Character>Young Sall</Character>
-      <Character>Stardust</Character>
-      <Character>Stage Manager</Character>
-      <Character>Puppeteer</Character>
-      <Character>Performer</Character>
-      <Character>Kwa</Character>
-      <Character>Kwan</Character>
-      <Character>Rocket</Character>
-      <Character>Handler</Character>
-      <Character>Skye</Character>
-      <Character>Ri</Character>
-      <Character>River</Character>
-      <Character>Ray &amp; Kwan</Character>
-      <Character>Aurora</Character>
-      <Character>Auroa</Character>
-      <Character>Ray &amp; Clay</Character>
-      <Character>Nigel</Character>
-      <Character>Trini</Character>
-      <Character>Clay &amp; Trini</Character>
-      <Character>Trini &amp; Kids</Character>
-      <Character>Clay &amp; Trini &amp; Kwan</Character>
-      <Character>Kwan &amp; Kids</Character>
-      <Character>Audience</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -3852,6 +3659,7 @@ I wonder who’s on the dot</Text>
       <Location>MSU UNION</Location>
       <Location>BROOKLYN STREET</Location>
       <Location>KWAN'S CAR</Location>
+      <Location>DETROIT HOUSE</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -3936,7 +3744,7 @@ I wonder who’s on the dot</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1340">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
@@ -4207,56 +4015,60 @@ I wonder who’s on the dot</Text>
     <Member Actor="" Character="AarDVARKs"/>
     <Member Actor="" Character="Amami Rabbits"/>
     <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Audience"/>
+    <Member Actor="" Character="Auroa"/>
+    <Member Actor="" Character="Aurora"/>
     <Member Actor="" Character="Baker G"/>
+    <Member Actor="" Character="Bo"/>
+    <Member Actor="" Character="Boy"/>
     <Member Actor="" Character="Clay"/>
     <Member Actor="" Character="Clay &amp; Ray"/>
+    <Member Actor="" Character="Clay &amp; Trini"/>
+    <Member Actor="" Character="Clay &amp; Trini &amp; Kwan"/>
     <Member Actor="" Character="Crowd"/>
     <Member Actor="" Character="Cát"/>
     <Member Actor="" Character="Dino"/>
     <Member Actor="" Character="Dàn Xuân Thanh"/>
+    <Member Actor="" Character="Girl"/>
     <Member Actor="" Character="guard"/>
+    <Member Actor="" Character="Handler"/>
+    <Member Actor="" Character="Hope"/>
     <Member Actor="" Character="Horseshoe Crabs"/>
     <Member Actor="" Character="Host"/>
     <Member Actor="" Character="Kid"/>
     <Member Actor="" Character="Kids"/>
     <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Kwa"/>
+    <Member Actor="" Character="Kwan"/>
+    <Member Actor="" Character="Kwan &amp; Kids"/>
     <Member Actor="" Character="MOrgan"/>
+    <Member Actor="" Character="Nigel"/>
     <Member Actor="" Character="Nurse"/>
     <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Performer"/>
     <Member Actor="" Character="Phone"/>
     <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Puppeteer"/>
     <Member Actor="" Character="Ray"/>
+    <Member Actor="" Character="Ray &amp; Clay"/>
+    <Member Actor="" Character="Ray &amp; Kwan"/>
     <Member Actor="" Character="Reporter"/>
     <Member Actor="" Character="Researcher 1"/>
     <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Ri"/>
+    <Member Actor="" Character="River"/>
+    <Member Actor="" Character="Rocket"/>
     <Member Actor="" Character="Sall"/>
     <Member Actor="" Character="Sall &amp; Cát"/>
     <Member Actor="" Character="Sall &amp; CÁT&#xA;"/>
     <Member Actor="" Character="Savanna"/>
+    <Member Actor="" Character="Skye"/>
+    <Member Actor="" Character="Stage Manager"/>
+    <Member Actor="" Character="Stardust"/>
+    <Member Actor="" Character="Trini"/>
+    <Member Actor="" Character="Trini &amp; Kids"/>
     <Member Actor="" Character="Waiter"/>
     <Member Actor="" Character="Young Sall"/>
-    <Member Actor="" Character="Stardust"/>
-    <Member Actor="" Character="Stage Manager"/>
-    <Member Actor="" Character="Puppeteer"/>
-    <Member Actor="" Character="Performer"/>
-    <Member Actor="" Character="Kwa"/>
-    <Member Actor="" Character="Kwan"/>
-    <Member Actor="" Character="Rocket"/>
-    <Member Actor="" Character="Handler"/>
-    <Member Actor="" Character="Skye"/>
-    <Member Actor="" Character="Ri"/>
-    <Member Actor="" Character="River"/>
-    <Member Actor="" Character="Ray &amp; Kwan"/>
-    <Member Actor="" Character="Aurora"/>
-    <Member Actor="" Character="Auroa"/>
-    <Member Actor="" Character="Ray &amp; Clay"/>
-    <Member Actor="" Character="Nigel"/>
-    <Member Actor="" Character="Trini"/>
-    <Member Actor="" Character="Clay &amp; Trini"/>
-    <Member Actor="" Character="Trini &amp; Kids"/>
-    <Member Actor="" Character="Clay &amp; Trini &amp; Kwan"/>
-    <Member Actor="" Character="Kwan &amp; Kids"/>
-    <Member Actor="" Character="Audience"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -4272,21 +4084,19 @@ I wonder who’s on the dot</Text>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY &amp; KWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="GIRL" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="HANDLER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="HOPE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KIDS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KIDS &amp; KWAN" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KWAN" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KWAN &amp; KIDS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PERFORMER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PUPPET MASTER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="PUPPETEER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RAY &amp; CLAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RAY &amp; KWAN" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RIVER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="ROCKET" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SKYE" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="STAGE MANAGER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="STARDUST" Visible="No"/>
   </CharacterHighlighting>
 
