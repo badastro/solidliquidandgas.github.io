@@ -16,13 +16,13 @@
           <CharacterArcBeat Name="CLAY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
+          <CharacterArcBeat Name="FRIENDSHIP">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="KIDS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="RAY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="ROCKET">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="STARDUST">
@@ -38,7 +38,7 @@
       <Text Style="AllCaps">pop-up book</Text>
       <Text> titled </Text>
       <Text Style="AllCaps">Stardust </Text>
-      <Text>cracks open. A ROCKET SHIP with a friendly, animated face pops out from the pages.</Text>
+      <Text>cracks open. FRIENDSHIP, a rocket with a friendly animated face, pops out from the pages.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c45f4abb-a0be-4f04-86aa-c562447efe90">
       <Text Style="AllCaps">Clay</Text>
@@ -96,7 +96,7 @@
       <Text>Clay ducks back inside.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c7e30fa4-19fb-4176-b23c-1f541976e9cb">
-      <Text>Rocket</Text>
+      <Text>Friendship</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="7f69c111-1f12-43bb-9a7b-01821c8dced8">
       <Text>Come on in!</Text>
@@ -221,7 +221,7 @@
       <Text>ClaY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="136d6097-bf7b-4795-96a8-3676dbb1bfb8">
-      <Text>Rocket, take us to the </Text>
+      <Text>Friendship, take us to the </Text>
       <Text Style="AllCaps">green</Text>
       <Text>!</Text>
     </Paragraph>
@@ -261,7 +261,7 @@
       <Text>Filipina</Text>
       <Text Size="10"> </Text>
       <Text>American) dances along, in her homemade </Text>
-      <Text Style="AllCaps">cardboard rocket ship</Text>
+      <Text Style="AllCaps">cardboard Rocket ship</Text>
       <Text> </Text>
       <Text Style="AllCaps">costume</Text>
       <Text>.</Text>
@@ -523,7 +523,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Trust in yourself, Stardust.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="be2969ca-3261-401a-afb9-63d719d2787e">
-      <Text>Clay boards Rocket. The ship blasts off into the cosmos. Stardust pulses with a final spark and vanishes. The screen fades to black. A final production still of the studio team follows: “Clay Goes Home. Thank you for 7 years of </Text>
+      <Text>Clay boards Friendship. The ship blasts off into the cosmos. Stardust pulses with a final spark and vanishes. The screen fades to black. A final production still of the studio team follows: “Clay Goes Home. Thank you for 7 years of </Text>
       <Text Style="Italic">Stardust</Text>
       <Text>.”</Text>
     </Paragraph>
@@ -730,7 +730,7 @@ I wonder if we’ll call it home?</Text>
       <Text>:</Text>
     </Paragraph>
     <Paragraph Type="Action" id="8c2fa7ef-19b1-48ca-bbea-4f48bbedd059">
-      <Text>- Ray (29) and Kwan (24) board a cardboard rocket ship and blast off into a cardboard cosmos.</Text>
+      <Text>- Ray (29) and Kwan (24) board Friendship and blast off into a cardboard cosmos.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4a691660-4582-43c0-a202-1611a3cefd9e">
       <Text>- </Text>
@@ -738,7 +738,7 @@ I wonder if we’ll call it home?</Text>
       <Text> (29, Biracial, perfect) glides past them, looking flawless in a pristine cardboard spacesuit.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="603f2c17-7b69-40cd-bddc-a097db4cd1f5">
-      <Text>- Ray and Kwan’s rocket crash lands on a strange world.</Text>
+      <Text>- Friendship crash lands on a strange world.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="006659d1-bbed-480c-a51e-319403d1528a">
       <Text>- On this new world, Clay appears, dancing with animated Stardust and her pink axolotl sister, </Text>
@@ -943,7 +943,7 @@ I wonder if we’ll call it home?</Text>
       <Text>ClAY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="8eded6ab-e3f0-4e7a-8d4a-dd54f2cd7042">
-      <Text>Remember how when we were younger, we used to visit new worlds with Stardust and discover new creatures and ride Rocket and get lost while solving all the fun </Text>
+      <Text>Remember how when we were younger, we used to visit new worlds with Stardust and discover new creatures and ride Friendship and get lost while solving all the fun </Text>
       <Text Style="Italic">clues</Text>
       <Text>.</Text>
     </Paragraph>
@@ -954,7 +954,7 @@ I wonder if we’ll call it home?</Text>
       <Text>CLAY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="8eded6ab-e3f0-4e7a-8d4a-dd54f2cd7042">
-      <Text>But one day I said, “Guess what? Huge news: I’m returning to my home planet.” And then Rocket took me away and we were gone. And we didn’t see each other for like an eternity. Want to talk about that?</Text>
+      <Text>But one day I said, “Guess what? Huge news: I’m returning to my home planet.” And then Friendship took me away and we were gone. And we didn’t see each other for like an eternity. Want to talk about that?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="fce42656-61b9-4ac3-b41c-e15f62305046">
       <Text>Ray reluctantly nods. She feels like a five-year-old again.</Text>
@@ -963,7 +963,7 @@ I wonder if we’ll call it home?</Text>
       <Text>Clay</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="78f908aa-9c47-40a8-bf3f-4c6b3d710373">
-      <Text>I realize it was sorta spontaneous. I just took Rocket for a spin and went on a much needed vacation. And that was super challenging by the way. But great cause I got to rest my head and take things slowly and now I’m literally doing all sorts of things that I dreamt of doing.
+      <Text>I realize it was sorta spontaneous. I just took Friendship for a spin and went on a much needed vacation. And that was super challenging by the way. But great cause I got to rest my head and take things slowly and now I’m literally doing all sorts of things I dreamt of doing.
 
 And then look at you and all you’ve done and all you’ve accomplished in all that time and it’s just... it’s just awesome, am I right? I mean we started out with stuff and now it’s what? Rent, and jobs, and families.</Text>
     </Paragraph>
@@ -1183,11 +1183,14 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>The doors burst open. Clay marches out with haste. The hallway, or more so tunnel, is a childhood fever dream: neon foam, googly eyes, and dancers in spandex. He keeps his head down, avoiding eye contact.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2e793acf-4984-4c2e-8412-0e1e0f41e0b4">
-      <Text>Purple Nerdle PrODUCER</Text>
+      <Text>Purple </Text>
+      <Text AdornmentStyle="-1">Nerdle</Text>
+      <Text> PrODUCER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="ec33029e-c85c-4589-8be2-baeaca351854">
       <Text>Clay! We’re casting for </Text>
-      <Text Style="Italic">Purple Nerdle</Text>
+      <Text Style="Italic">Purple </Text>
+      <Text AdornmentStyle="-1" Style="Italic">Nerdle</Text>
       <Text>. You’d be a perfect fit!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7d0e926f-6684-4182-a258-dc36530adbf6">
@@ -1197,7 +1200,8 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>River</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="036a82af-785a-44c4-8c40-05daaca6205d">
-      <Text Style="Italic">Purple Nerdle</Text>
+      <Text Style="Italic">Purple </Text>
+      <Text AdornmentStyle="-1" Style="Italic">Nerdle</Text>
       <Text>... god awful title.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="b6f1d603-103b-4e59-a944-100fcda70290">
@@ -1238,7 +1242,8 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text> glide past, holding a life-sized cardboard cutout of their characters. They seem more alive than Clay feels.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="07b12f48-fac9-4b67-852f-dab37e5eb725">
-      <Text>PB&amp;J Creators</Text>
+      <Text AdornmentStyle="-1">PB&amp;J</Text>
+      <Text> Creators</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="6f43e6c7-1ace-4804-b2e8-96c29d5c958a">
       <Text>Join us for a sandwich on </Text>
@@ -1305,7 +1310,9 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>RIvER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="a254cc9d-8624-4444-8139-0ed2c6d765f1">
-      <Text>Ready for the StarPower college tour, gang?</Text>
+      <Text>Ready for the </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> college tour, gang?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="aacdbc77-83a3-463f-9e85-262f69c966b0">
       <Text>YleM</Text>
@@ -1624,7 +1631,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="b651c3a1-ce61-4db3-a473-41b010a4a756">
       <Text Style="Bold">ON THE TV:</Text>
-      <Text> Clay (20s) steps out of Rocket’s hatch into a whimsical forest. He comes across a glowing blue peanut.</Text>
+      <Text> Clay (20s) steps out of Friendship’s hatch into a whimsical forest. He comes across a glowing blue peanut.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="44a5c628-a1fb-4ebd-846b-b18ccdb07779">
       <Text>CLAY</Text>
@@ -1700,7 +1707,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Ray looks inside one of the takeout containers. It is packed with peanuts. She screams in horror.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c7e007a4-63c0-4d4d-9c12-f2c154bac0a5">
-      <Text>Clay and Stardust get into Rocket. They blast off.</Text>
+      <Text>Clay and Stardust get into Friendship. They blast off.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0ff608fa-af56-4f33-b036-d88c769690f2">
       <Text>CLAY</Text>
@@ -2567,7 +2574,7 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>What planet are we visiting today? Hopefully not another rocky one-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="6f692890-3db7-4cf1-9e37-5db4191cb68d">
-      <Text>A pair of sock puppets, resembling Stardust on the left hand and Rocket on the right, pop up outside the passenger window.</Text>
+      <Text>A pair of sock puppets, resembling Stardust on the left hand and Friendship on the right, pop up in the passenger window.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1613001a-0317-44d2-aa95-1dc63ca5994d">
       <Text>Ray</Text>
@@ -2606,10 +2613,10 @@ You look fabulous by the way. Whatever you’re doing, it’s working.</Text>
       <Text>Ray</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="0d35dcee-4c8a-416c-bec1-fbabeff0d0de">
-      <Text>I never understand you. Maybe I should ask Rocket.</Text>
+      <Text>I never understand you. Maybe I should ask Friendship.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7e4d84db-3b1b-4c0c-a307-2e282339b7d9">
-      <Text>Kwan starts the car with the Rocket puppet on his right hand.</Text>
+      <Text>Kwan starts the car with the Friendship puppet.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d98e299c-2878-4be8-90a7-0f54909889eb">
       <Text>KwaN</Text>
@@ -3015,7 +3022,7 @@ I wonder who’s on the dot</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="13584,13584" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3271,7 +3278,7 @@ I wonder who’s on the dot</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kwan reveals he has an old letter from Clay with his address and drives Ray to his Brooklyn apartment. When Ray reconnects with her childhood hero and asks for his help, a weary Clay asks, "Do I look like I care?"</Text>
       </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="1897,1897" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
   </TitlePage>
 
   <SmartType>
@@ -3294,6 +3301,7 @@ I wonder who’s on the dot</Text>
       <Character>Cát</Character>
       <Character>Dino</Character>
       <Character>Dàn Xuân Thanh</Character>
+      <Character>Friendship</Character>
       <Character>Girl</Character>
       <Character>guard</Character>
       <Character>Handler</Character>
@@ -3312,6 +3320,7 @@ I wonder who’s on the dot</Text>
       <Character>Officer</Character>
       <Character>Performer</Character>
       <Character>Phone</Character>
+      <Character>PJ Creators</Character>
       <Character>Producer</Character>
       <Character>Puppeteer</Character>
       <Character>Ray</Character>
@@ -3322,7 +3331,6 @@ I wonder who’s on the dot</Text>
       <Character>Researcher 2</Character>
       <Character>Ri</Character>
       <Character>River</Character>
-      <Character>Rocket</Character>
       <Character>Sall</Character>
       <Character>Sall &amp; Cát</Character>
       <Character>Sall &amp; CÁT
@@ -3333,11 +3341,10 @@ I wonder who’s on the dot</Text>
       <Character>Stardust</Character>
       <Character>Trini</Character>
       <Character>Trini &amp; Kids</Character>
-      <Character>Waiter</Character>
-      <Character>Young Sall</Character>
-      <Character>Ylem</Character>
       <Character>Vulture Performer</Character>
-      <Character>PJ Creators</Character>
+      <Character>Waiter</Character>
+      <Character>Ylem</Character>
+      <Character>Young Sall</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -3821,6 +3828,7 @@ I wonder who’s on the dot</Text>
     <Member Actor="" Character="Cát"/>
     <Member Actor="" Character="Dino"/>
     <Member Actor="" Character="Dàn Xuân Thanh"/>
+    <Member Actor="" Character="Friendship"/>
     <Member Actor="" Character="Girl"/>
     <Member Actor="" Character="guard"/>
     <Member Actor="" Character="Handler"/>
@@ -3839,6 +3847,7 @@ I wonder who’s on the dot</Text>
     <Member Actor="" Character="Officer"/>
     <Member Actor="" Character="Performer"/>
     <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="PJ Creators"/>
     <Member Actor="" Character="Producer"/>
     <Member Actor="" Character="Puppeteer"/>
     <Member Actor="" Character="Ray"/>
@@ -3849,7 +3858,6 @@ I wonder who’s on the dot</Text>
     <Member Actor="" Character="Researcher 2"/>
     <Member Actor="" Character="Ri"/>
     <Member Actor="" Character="River"/>
-    <Member Actor="" Character="Rocket"/>
     <Member Actor="" Character="Sall"/>
     <Member Actor="" Character="Sall &amp; Cát"/>
     <Member Actor="" Character="Sall &amp; CÁT&#xA;"/>
@@ -3859,11 +3867,10 @@ I wonder who’s on the dot</Text>
     <Member Actor="" Character="Stardust"/>
     <Member Actor="" Character="Trini"/>
     <Member Actor="" Character="Trini &amp; Kids"/>
-    <Member Actor="" Character="Waiter"/>
-    <Member Actor="" Character="Young Sall"/>
-    <Member Actor="" Character="Ylem"/>
     <Member Actor="" Character="Vulture Performer"/>
-    <Member Actor="" Character="PJ Creators"/>
+    <Member Actor="" Character="Waiter"/>
+    <Member Actor="" Character="Ylem"/>
+    <Member Actor="" Character="Young Sall"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -3880,6 +3887,7 @@ I wonder who’s on the dot</Text>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CLAY &amp; RAY &amp; KWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="FRIENDSHIP" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="GIRL" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="HOPE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KIDS" Visible="No"/>
@@ -3890,7 +3898,6 @@ I wonder who’s on the dot</Text>
     <Character Color="#RRRRGGGGBBBB" Name="RAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RAY &amp; CLAY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RIVER" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="ROCKET" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SKYE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="STARDUST" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VULTURE PERFORMERS" Visible="No"/>
